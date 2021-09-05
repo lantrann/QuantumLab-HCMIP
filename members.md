@@ -2,7 +2,7 @@
 
 ### [Home](index.md)<img src="test_space.png" width="40" height="1">[Members](members.md)<img src="test_space.png" width="40" height="1">[Research](research.md)<img src="test_space.png" width="40" height="1">[Publications](Publications)<img src="test_space.png" width="40" height="1">[Courses](Courses)<img src="test_space.png" width="40" height="1">[Softwares](softwares.md)
 
- ### **Principal Investigator**
+### **Principal Investigator**
 Tran Nguyen Lan, Ph.D. [[CV](LanTran_CV_0421.pdf)]
 
 ### **HCMIP Researchers**
