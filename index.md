@@ -9,7 +9,6 @@ Our lab is employing Quantum Theory to tackle problems in physics and chemistry.
 ### News
 1. Our manuscript on the unrestricted version of OBMP2 is now on arXiv (https://arxiv.org/abs/2107.11260)
 
-
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and 
