@@ -5,11 +5,15 @@ You can use the [editor on GitHub](https://github.com/lantrann/homepage/edit/gh-
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
-### Researchers
+### HCMIP Researchers
 1. Tran Nguyen Lan, Ph.D.
 2. Le Bin Ho, Ph.D.
 3. Nguyen Bich Duyen, M.Sc.
 4. Nguyen Thanh Hoang, M.Sc.
+
+### Students:
+1. Le Trong Nhan
+2. Le Hoang Hai
 
 ### Markdown
 
