@@ -1,5 +1,8 @@
-## <font color="white"> QuantumLab-HCMIP Members <font>
-_[Back to Home](index.md)_
+## <font color="white"> QuantumLab-HCMIP <font>
+
+ **_Our lab is employing Quantum Theory to tackle problems in physics and chemistry!_**
+
+### [Members](members.md)![Image](test_space.png)[Research](research.md)![Image](test_space.png)[Publications](Publications)![Image](test_space.png)[Courses](Courses)![Image](test_space.png)[Softwares](softwares.md)
   
 ### **Principal Investigator**
 Tran Nguyen Lan, Ph.D. [[CV](LanTran_CV_0421.pdf)]
@@ -25,4 +28,4 @@ Le Trong Nhan, undergrad student at VNUHCM-University of Science
 
   Dr. Hugh Burton, University of Cambridge  
 
-_[Back to Home](index.md)_
+
