@@ -1,7 +1,18 @@
-1. Tran Nguyen Lan, Ph.D., Principal Investigator
-2. Le Bin Ho, Ph.D., HCMIP Researcher (now postdoc at Tohoku University)
-3. Nguyen Bich Duyen, M.Sc., HCMIP Researcher (now Ph.D. student at Central Michigan University, MI, US)
-4. Nguyen Thanh Hoang, M.Sc., HCMIP Researcher (now Ph.D. student at Graduate University of Science and Technology, VAST, VN)
-5. Le Van Tan, M.Sc., Ph.D. student at HCMC Univeristy of Science, VNU-HCM, VN
-6. Le Hoang Hai, M.Sc., pre-grad student
-7. Le Trong Nhan, undergrad student at HCMC Univeristy of Science, VNU-HCM, VN 
+### Principal Investigator
+Tran Nguyen Lan, Ph.D.
+
+### HCMIP Researchers
+Le Bin Ho, Ph.D. (now postdoc at Tohoku University)
+
+Nguyen Bich Duyen, M.Sc. (now Ph.D. student at Central Michigan University, MI, US)
+
+Nguyen Thanh Hoang, M.Sc. (now Ph.D. student at Graduate University of Science and Technology, VAST, VN)
+
+### Students
+Le Van Tan, M.Sc., Ph.D. student at HCMC Univeristy of Science, VNU-HCM, VN
+
+Le Hoang Hai, M.Sc., pre-grad student
+
+Le Trong Nhan, undergrad student at HCMC Univeristy of Science, VNU-HCM, VN 
+
+[Home](index.md)
