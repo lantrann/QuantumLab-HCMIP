@@ -1,5 +1,7 @@
 ## Welcome to QuantumLab-HCMIP
 
+Our lab is employing Quantum Theory to tackle problems in physics and chemistry. 
+
 ### HCMIP Researchers
 1. Tran Nguyen Lan, Ph.D.
 2. Le Bin Ho, Ph.D.
