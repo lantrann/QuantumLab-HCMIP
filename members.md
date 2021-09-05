@@ -19,10 +19,10 @@ Le Hoang Hai, M.Sc., pre-grad student
 Le Trong Nhan, undergrad student at HCMC Univeristy of Science, VNU-HCM, VN 
   
 ### **Collaborators**
-  Prof. Takeshi Yanai, Ph.D., Nagoya University
+  Prof. Takeshi Yanai, Nagoya University
 
-  Prof. Eric Neuscamman, Ph.D., UC Berkeley
+  Prof. Eric Neuscamman, UC Berkeley
 
-  Hugh Burton, Ph.D., University of Cambridge  
+  Dr. Hugh Burton, University of Cambridge  
 
 _[Back to Home](index.md)_
