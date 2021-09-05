@@ -1,8 +1,15 @@
-## Welcome to Lan N. Tran's Homepage
+## Welcome to QuantumLab-HCMIP
 
 You can use the [editor on GitHub](https://github.com/lantrann/homepage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+### Researchers
+1. Tran Nguyen Lan, Ph.D.
+2. Le Bin Ho, Ph.D.
+3. Nguyen Bich Duyen, M.Sc.
+4. Nguyen Thanh Hoang, M.Sc.
 
 ### Markdown
 
