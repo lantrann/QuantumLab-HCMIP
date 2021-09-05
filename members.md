@@ -2,11 +2,11 @@
 Tran Nguyen Lan, Ph.D.
 
 ### HCMIP Researchers
-Le Bin Ho, Ph.D. (now postdoc at Tohoku University)
+Le Bin Ho, Ph.D. (postdoc at Tohoku University)
 
-Nguyen Bich Duyen, M.Sc. (now Ph.D. student at Central Michigan University, MI, US)
+Nguyen Bich Duyen, M.Sc. (Ph.D. student at Central Michigan University)
 
-Nguyen Thanh Hoang, M.Sc. (now Ph.D. student at Graduate University of Science and Technology, VAST, VN)
+Nguyen Thanh Hoang, M.Sc. (Ph.D. student at Graduate University of Science and Technology)
 
 ### Students
 Le Van Tan, M.Sc., Ph.D. student at HCMC Univeristy of Science, VNU-HCM, VN
