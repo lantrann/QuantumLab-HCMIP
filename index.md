@@ -1,4 +1,4 @@
-## Welcome to QuantumLab-HCMIP
+## QuantumLab-HCMIP
 
 Our lab is employing Quantum Theory to tackle problems in physics and chemistry. 
 
