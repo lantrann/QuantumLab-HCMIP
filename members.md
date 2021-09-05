@@ -1,14 +1,14 @@
-### Principal Investigator
+### **Principal Investigator**
 Tran Nguyen Lan, Ph.D. [[CV](LanTran_CV_0421.pdf)]
 
-### HCMIP Researchers
+### **HCMIP Researchers**
 Le Bin Ho, Ph.D. (postdoc at Tohoku University) [[CV](DrLeBinHo-CV.pdf)]
 
 Nguyen Bich Duyen, M.Sc. (Ph.D. student at Central Michigan University)
 
 Nguyen Thanh Hoang, M.Sc. (Ph.D. student at Graduate University of Science and Technology) [[CV](NguyenThanhHoang-CV.pdf)]
 
-### Students
+### **Students**
 Le Van Tan, M.Sc., Ph.D. student at HCMC Univeristy of Science, VNU-HCM, VN
 
 Le Hoang Hai, M.Sc., pre-grad student
