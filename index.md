@@ -1,4 +1,5 @@
-_Our lab is employing Quantum Theory to tackle problems in physics and chemistry._ 
+**_Our lab is employing Quantum Theory to tackle problems in physics and chemistry._**
+
 
 ### [Members](Members)![Image](test_space.png)[Research](Research)![Image](test_space.png)[Publications](Publications)![Image](test_space.png)[Courses](Courses)![Image](test_space.png)[Softwares](Softwares)
 
