@@ -4,13 +4,13 @@ Our lab is employing Quantum Theory to tackle problems in physics and chemistry.
 
 ### [Members](Members)
 ### [Research](Research) 
-### [Publications](Publications)
+### [Publications](Publications) ![Image](src)
 ### [Courses](Courses)
 ### [Softwares](Softwares)
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
