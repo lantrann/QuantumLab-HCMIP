@@ -1,6 +1,6 @@
 ## <font color="white"> QuantumLab-HCMIP Members <font>
-
-### **Principal Investigator**
+_[Back to Home](index.md)_
+  ### **Principal Investigator**
 Tran Nguyen Lan, Ph.D. [[CV](LanTran_CV_0421.pdf)]
 
 ### **HCMIP Researchers**
