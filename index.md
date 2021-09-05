@@ -3,11 +3,11 @@
 Our lab is employing Quantum Theory to tackle problems in physics and chemistry. 
 
 
-### [Members]
-### [Research] 
-### [Publications]
-### [Courses]
-### [Softwares]
+### [Members](Members)
+### [Research](Research) 
+### [Publications](Publications)
+### [Courses](Courses)
+### [Softwares](Softwares)
 
 **Bold** and _Italic_ and `Code` text
 
