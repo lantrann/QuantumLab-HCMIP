@@ -1,7 +1,8 @@
 ## <font color="white"> Members <font>
-### [QuantumLab-HCMIP](index.md)
-### [Members](members.md)![Image](test_space.png)[Research](research.md)![Image](test_space.png)[Publications](Publications)![Image](test_space.png)[Courses](Courses)![Image](test_space.png)[Softwares](softwares.md)
-### **Principal Investigator**
+
+### [Home](index.md)<img src="test_space.png" width="40" height="1">[Members](members.md)<img src="test_space.png" width="40" height="1">[Research](research.md)<img src="test_space.png" width="40" height="1">[Publications](Publications)<img src="test_space.png" width="40" height="1">[Courses](Courses)<img src="test_space.png" width="40" height="1">[Softwares](softwares.md)
+
+ ### **Principal Investigator**
 Tran Nguyen Lan, Ph.D. [[CV](LanTran_CV_0421.pdf)]
 
 ### **HCMIP Researchers**
