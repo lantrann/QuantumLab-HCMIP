@@ -1,6 +1,6 @@
-## <font color="white"> QuantumLab-HCMIP <font>
+## <font color="white"> Members <font>
 
-[Home](index.md)
+[QuantumLab-HCMIP](index.md)
 
 ### [Members](members.md)![Image](test_space.png)[Research](research.md)![Image](test_space.png)[Publications](Publications)![Image](test_space.png)[Courses](Courses)![Image](test_space.png)[Softwares](softwares.md)
   
