@@ -1,4 +1,4 @@
-## <font color="white"> QuantumLab-HCMIP <font>
+## <font color="white"> [QuantumLab-HCMIP](index.md) <font>
 
  **_Our lab is employing Quantum Theory to tackle problems in physics and chemistry!_**
 
