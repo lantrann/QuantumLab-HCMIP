@@ -1,4 +1,4 @@
-## <p style="color:white"> QuantumLab-HCMIP Research </p>
+## <font color="green">  QuantumLab-HCMIP Research  </font>
 ### **Electronic Structure Theory**
 ### **Quantum Computing and Information**
 ### **Computational Chemistry**
