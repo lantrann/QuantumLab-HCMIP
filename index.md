@@ -2,7 +2,6 @@
 
 Our lab is employing Quantum Theory to tackle problems in physics and chemistry. 
 
-
 ### [Members](Members)
 ### [Research](Research) 
 ### [Publications](Publications)
