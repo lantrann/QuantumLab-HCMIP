@@ -4,32 +4,10 @@ Our lab is employing Quantum Theory to tackle problems in physics and chemistry.
 
 
 
-### HCMIP Researchers
-1. Tran Nguyen Lan, Ph.D.
-2. Le Bin Ho, Ph.D.
-3. Nguyen Bich Duyen, M.Sc.
-4. Nguyen Thanh Hoang, M.Sc.
-
-### Students:
-1. Le Trong Nhan
-2. Le Hoang Hai
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+### Members
+### Research 
+### Publications
+### Courses
 
 **Bold** and _Italic_ and `Code` text
 
