@@ -12,6 +12,7 @@ Nguyen Bich Duyen, M.Sc. (Ph.D. student at Central Michigan University) [[CV](Ng
 
 Nguyen Thanh Hoang, M.Sc. (Ph.D. student at Graduate University of Science and Technology) [[CV](NguyenThanhHoang-CV.pdf)]
 
+
 ### **Students**
 Le Van Tan, M.Sc., Ph.D. student at VNUHCM-University of Science
 
