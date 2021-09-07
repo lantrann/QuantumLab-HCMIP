@@ -6,7 +6,7 @@
 Tran Nguyen Lan, Ph.D. [[CV](LanTran_CV_0421.pdf)]
 
 ### **HCMIP Researchers**
-Le Bin Ho, Ph.D. (postdoc at Tohoku University) [[CV](DrLeBinHo-CV.pdf)]
+Le Bin Ho, Ph.D. (JSPS postdoc at Tohoku University) [[CV](DrLeBinHo-CV.pdf)]
 
 Nguyen Bich Duyen, M.Sc. (Ph.D. student at Central Michigan University) [[CV](NguyenBichDuyen-EN.pdf)]
 
