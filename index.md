@@ -8,7 +8,7 @@
 Our manuscript on the unrestricted version of OBMP2 is now on arXiv: [arXiv:2107.11260](https://arxiv.org/abs/2107.11260)
 
 ### **Funding**
-HCMC Insitute of Physics (HCMIP) [2020,2021]
+HCMC Insitute of Physics (HCMIP) [2020, 2021]
 
 Vietnam Academy of Science and Technology (VAST) [2022-2023]
 
