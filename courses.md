@@ -2,5 +2,4 @@
 
 ### [Home](index.md)<img src="test_space.png" width="40" height="1">[Members](members.md)<img src="test_space.png" width="40" height="1">[Research](research.md)<img src="test_space.png" width="40" height="1">[Publications](Publications)<img src="test_space.png" width="40" height="1">[**Courses**](Courses)<img src="test_space.png" width="40" height="1">[Softwares](softwares.md)
   
-### 2021
-Electronic structure theory, VNUHCM-University of Science
+Electronic structure theory, Fall 2021, VNUHCM-University of Science
