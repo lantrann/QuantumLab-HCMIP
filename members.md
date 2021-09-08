@@ -9,16 +9,17 @@
 
 <p>Ph.D., The Graduate University for Advanced Studies, Japan.<br>
 Postdoc, University of California, Berkeley, United States.<br>
-Postdoc, University of Michigan, Ann Arbor, United States.<p>
+Postdoc, University of Michigan, Ann Arbor, United States.</p>
 
 ### **HCMIP Researchers**
+  
 #### [Le Bin Ho](DrLeBinHo-CV.pdf) (on leave)
+
+<img src="BinHo.jpg" width="140" height="150">
 
 <p> Ph.D., Osaka University, Japan <br>
  Postdoc, Kindai University, Japan <br>
-JSPS postdoc, Tohoku University, Japan <p>
-
-<img src="BinHo.jpg" width="140" height="150">
+JSPS postdoc, Tohoku University, Japan </p>
 
 
 #### [Nguyen Bich Duyen](NguyenBichDuyen-EN.pdf) (on leave)
