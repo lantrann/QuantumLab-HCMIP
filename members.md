@@ -10,19 +10,19 @@
 ### **HCMIP Researchers**
 #### [Le Bin Ho, Ph.D.](DrLeBinHo-CV.pdf)
 
-JSPS postdoc at Tohoku University
+JSPS postdoc, Tohoku University
 
 <img src="BinHo.jpg" width="140" height="150">
 
 #### [Nguyen Bich Duyen, M.Sc.](NguyenBichDuyen-EN.pdf)
 
-Ph.D. student at Central Michigan University
+Ph.D. student, Central Michigan University
 
 <img src="Duyen.jpg" width="150" height="150">
 
 #### [Nguyen Thanh Hoang, M.Sc.](NguyenThanhHoang-CV.pdf)
 
-Ph.D. student at Graduate University of Science and Technology
+Ph.D. student, Graduate University of Science and Technology
 
 <img src="Hoang.jpg" width="150" height="150">
 
@@ -30,19 +30,19 @@ Ph.D. student at Graduate University of Science and Technology
 
 #### Le Van Tan, M.Sc. 
 
-Ph.D. student at VNUHCM-University of Science
+Ph.D. student, VNUHCM-University of Science
 
 <img src="Tan2.jpg" width="150" height="150">
 
 #### Le Hoang Hai, M.Sc. 
 
-Pre-grad student at HCMIP
+Pre-grad student, HCMIP-VAST
 
 <img src="Hai2.jpg" width="150" height="150">
 
 #### Le Trong Nhan, 
 
-Undergrad student at VNUHCM-University of Science
+Undergrad student, VNUHCM-University of Science
 
 <img src="Nhan.jpg" width="120" height="150">
   
