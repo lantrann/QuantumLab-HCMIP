@@ -20,7 +20,6 @@ Postdoc, University of Michigan, Ann Arbor, United States.<p>
  Postdoc, Kindai University, Japan <br>
 JSPS postdoc, Tohoku University, Japan <p>
 
-
 #### [Nguyen Bich Duyen](NguyenBichDuyen-EN.pdf) (on leave)
 
 <img src="Duyen.jpg" width="150" height="150">
