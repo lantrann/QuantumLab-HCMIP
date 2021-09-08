@@ -6,9 +6,9 @@
 #### [Tran Nguyen Lan](LanTran_CV_0421.pdf)
 Ph.D., The Graduate University for Advanced Studies, Japan
 
-Postdoc, University of California, Berkeley, US
+Postdoc, University of California, Berkeley, United States
 
-Postdoc, University of Michigan, Ann Arbor, US
+Postdoc, University of Michigan, Ann Arbor, United States
 
 
 <img src="Lan2.jpg" width="140" height="180">
@@ -25,13 +25,13 @@ JSPS postdoc, Tohoku University, Japan
 
 #### [Nguyen Bich Duyen](NguyenBichDuyen-EN.pdf)
 
-Ph.D. student, Central Michigan University
+Ph.D. student, Central Michigan University, United States
 
 <img src="Duyen.jpg" width="150" height="150">
 
 #### [Nguyen Thanh Hoang](NguyenThanhHoang-CV.pdf)
 
-Ph.D. student, Graduate University of Science and Technology
+Ph.D. student, Graduate University of Science and Technology, Vietnam
 
 <img src="Hoang.jpg" width="150" height="150">
 
@@ -39,19 +39,19 @@ Ph.D. student, Graduate University of Science and Technology
 
 #### Le Van Tan
 
-Ph.D. student, VNUHCM-University of Science
+Ph.D. student, VNUHCM-University of Science, Vietnam
 
 <img src="Tan2.jpg" width="150" height="150">
 
 #### Le Hoang Hai 
 
-Pre-grad student, HCMIP-VAST
+Pre-grad student, HCMIP-VAST, Vietnam
 
 <img src="Hai2.jpg" width="150" height="150">
 
 #### Le Trong Nhan, 
 
-Undergrad student, VNUHCM-University of Science
+Undergrad student, VNUHCM-University of Science, Vietnam
 
 <img src="Nhan.jpg" width="120" height="150">
   
