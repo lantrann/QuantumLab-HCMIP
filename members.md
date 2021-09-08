@@ -6,27 +6,31 @@
 #### [Tran Nguyen Lan](LanTran_CV_0421.pdf)
 
 <img src="Lan2.jpg" width="140" height="180">
+
 <p>Ph.D., The Graduate University for Advanced Studies, Japan.<br>
 Postdoc, University of California, Berkeley, United States.<br>
 Postdoc, University of Michigan, Ann Arbor, United States.<p>
 
 ### **HCMIP Researchers**
 #### [Le Bin Ho](DrLeBinHo-CV.pdf) (on leave)
-Ph.D., Osaka University, Japan
 
 <img src="BinHo.jpg" width="140" height="150">
-<p>Postdoc, Kindai University, Japan<br>
-JSPS postdoc, Tohoku University, Japan<p>
+
+<p> Ph.D., Osaka University, Japan <br>
+ Postdoc, Kindai University, Japan <br>
+JSPS postdoc, Tohoku University, Japan <p>
 
 
 #### [Nguyen Bich Duyen](NguyenBichDuyen-EN.pdf) (on leave)
 
 <img src="Duyen.jpg" width="150" height="150">
+  
 Ph.D. student, Central Michigan University, United States
 
 #### [Nguyen Thanh Hoang](NguyenThanhHoang-CV.pdf)
 
 <img src="Hoang.jpg" width="150" height="150">
+  
 Ph.D. student, Graduate University of Science and Technology, Vietnam
 
 ### **Students**
@@ -34,6 +38,7 @@ Ph.D. student, Graduate University of Science and Technology, Vietnam
 #### Le Van Tan
 
 <img src="Tan2.jpg" width="150" height="150">
+  
 Ph.D. student, VNUHCM-University of Science, Vietnam
 
 #### Le Hoang Hai 
@@ -44,6 +49,7 @@ Pre-grad student, HCMIP-VAST, Vietnam
 #### Le Trong Nhan, 
 
 <img src="Nhan.jpg" width="120" height="150">
+  
 Undergrad student, VNUHCM-University of Science, Vietnam
   
 ### **Collaborators**
