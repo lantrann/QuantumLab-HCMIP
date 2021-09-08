@@ -4,56 +4,47 @@
 
 ### **Principal Investigator**
 #### [Tran Nguyen Lan](LanTran_CV_0421.pdf)
-Ph.D., The Graduate University for Advanced Studies, Japan
-
-Postdoc, University of California, Berkeley, United States
-
-Postdoc, University of Michigan, Ann Arbor, United States
-
 
 <img src="Lan2.jpg" width="140" height="180">
+<p>Ph.D., The Graduate University for Advanced Studies, Japan.<br>
+Postdoc, University of California, Berkeley, United States.<br>
+Postdoc, University of Michigan, Ann Arbor, United States.<p>
 
 ### **HCMIP Researchers**
 #### [Le Bin Ho](DrLeBinHo-CV.pdf) (on leave)
 Ph.D., Osaka University, Japan
 
-Postdoc, Kindai University, Japan
-
-JSPS postdoc, Tohoku University, Japan
-
 <img src="BinHo.jpg" width="140" height="150">
+<p>Postdoc, Kindai University, Japan<br>
+JSPS postdoc, Tohoku University, Japan<p>
+
 
 #### [Nguyen Bich Duyen](NguyenBichDuyen-EN.pdf) (on leave)
 
-Ph.D. student, Central Michigan University, United States
-
 <img src="Duyen.jpg" width="150" height="150">
+Ph.D. student, Central Michigan University, United States
 
 #### [Nguyen Thanh Hoang](NguyenThanhHoang-CV.pdf)
 
-Ph.D. student, Graduate University of Science and Technology, Vietnam
-
 <img src="Hoang.jpg" width="150" height="150">
+Ph.D. student, Graduate University of Science and Technology, Vietnam
 
 ### **Students**
 
 #### Le Van Tan
 
-Ph.D. student, VNUHCM-University of Science, Vietnam
-
 <img src="Tan2.jpg" width="150" height="150">
+Ph.D. student, VNUHCM-University of Science, Vietnam
 
 #### Le Hoang Hai 
 
-Pre-grad student, HCMIP-VAST, Vietnam
-
 <img src="Hai2.jpg" width="150" height="150">
+Pre-grad student, HCMIP-VAST, Vietnam
 
 #### Le Trong Nhan, 
 
-Undergrad student, VNUHCM-University of Science, Vietnam
-
 <img src="Nhan.jpg" width="120" height="150">
+Undergrad student, VNUHCM-University of Science, Vietnam
   
 ### **Collaborators**
   [Prof. Takeshi Yanai, Nagoya University](https://www.iaqms.org/members/yanai.php)
