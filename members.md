@@ -21,7 +21,6 @@ Postdoc, University of Michigan, Ann Arbor, United States.</p>
  Postdoc, Kindai University, Japan <br>
 JSPS postdoc, Tohoku University, Japan </p>
 
-
 #### [Nguyen Bich Duyen](NguyenBichDuyen-EN.pdf) (on leave)
 
 <img src="Duyen.jpg" width="150" height="150">
@@ -45,6 +44,7 @@ Ph.D. student, VNUHCM-University of Science, Vietnam
 #### Le Hoang Hai 
 
 <img src="Hai2.jpg" width="150" height="150">
+
 Pre-grad student, HCMIP-VAST, Vietnam
 
 #### Le Trong Nhan, 
