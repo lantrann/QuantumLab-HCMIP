@@ -45,7 +45,7 @@ Ph.D. student, VNUHCM-University of Science, Vietnam
 
 <img src="Hai2.jpg" width="150" height="150">
 
-Pre-grad student, HCMIP-VAST, Vietnam
+Pre-Ph.D. student, HCMIP-VAST, Vietnam
 
 #### Le Trong Nhan, 
 
