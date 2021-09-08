@@ -14,11 +14,12 @@ Postdoc, University of Michigan, Ann Arbor, United States.<p>
 ### **HCMIP Researchers**
 #### [Le Bin Ho](DrLeBinHo-CV.pdf) (on leave)
 
-<img src="BinHo.jpg" width="140" height="150">
-
 <p> Ph.D., Osaka University, Japan <br>
  Postdoc, Kindai University, Japan <br>
 JSPS postdoc, Tohoku University, Japan <p>
+
+<img src="BinHo.jpg" width="140" height="150">
+
 
 #### [Nguyen Bich Duyen](NguyenBichDuyen-EN.pdf) (on leave)
 
