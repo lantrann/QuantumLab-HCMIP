@@ -12,7 +12,7 @@
 
 JSPS postdoc at Tohoku University
 
-<img src="BinHo.jpg" width="150" height="150">
+<img src="BinHo.jpg" width="140" height="150">
 
 #### [Nguyen Bich Duyen, M.Sc.](NguyenBichDuyen-EN.pdf)]
 
@@ -32,13 +32,13 @@ Ph.D. student at Graduate University of Science and Technology
 
 Ph.D. student at VNUHCM-University of Science
 
-<img src="Tan2.jpg" width="100" height="150">
+<img src="Tan2.jpg" width="150" height="150">
 
 #### Le Hoang Hai, M.Sc. 
 
 Pre-grad student at HCMIP
 
-<img src="Hai2.jpg" width="120" height="150">
+<img src="Hai2.jpg" width="150" height="150">
 
 #### Le Trong Nhan, 
 
