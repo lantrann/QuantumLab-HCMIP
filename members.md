@@ -47,7 +47,7 @@ Undergrad student at VNUHCM-University of Science
 <img src="Nhan.jpg" width="120" height="150">
   
 ### **Collaborators**
-  [Prof. Takeshi Yanai, Nagoya University](https://www.itbm.nagoya-u.ac.jp/en/members/t-yanai/)
+  [Prof. Takeshi Yanai, Nagoya University](https://www.iaqms.org/members/yanai.php)
 
   [Prof. Eric Neuscamman, UC Berkeley](https://neuscammanlab.com/)
 
