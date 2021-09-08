@@ -5,21 +5,21 @@
 ### **Principal Investigator**
 Tran Nguyen Lan, Ph.D. [[CV](LanTran_CV_0421.pdf)]
 
-<img src="Lan.jpg" width="50" height="50">
+<img src="Lan.jpg" width="100" height="100">
 
 ### **HCMIP Researchers**
 Le Bin Ho, Ph.D. (JSPS postdoc at Tohoku University) [[CV](DrLeBinHo-CV.pdf)]
 
-<img src="BinHo.jpg" width="50" height="50">
+<img src="BinHo.jpg" width="100" height="100">
 
 Nguyen Bich Duyen, M.Sc. (Ph.D. student at Central Michigan University) [[CV](NguyenBichDuyen-EN.pdf)]
 
-<img src="Duyen.jpg" width="50" height="50">
+<img src="Duyen.jpg" width="100" height="100">
 
 
-Nguyen Thanh Hoang, M.Sc. (Ph.D. student at Graduate University of Science and Technology) [[CV](NguyenThanhHoang-CV.pdf)]
+Nguyen Thanh Hoang, M.Sc. (Ph.D. student at Graduate Univ. of Science and Technology) [[CV](NguyenThanhHoang-CV.pdf)]
 
-<img src="Hoang.jpg" width="50" height="50">
+<img src="Hoang.jpg" width="100" height="100">
 
 ### **Students**
 Le Van Tan, M.Sc., Ph.D. student at VNUHCM-University of Science
@@ -28,7 +28,7 @@ Le Hoang Hai, M.Sc., pre-grad student at HCMIP
 
 Le Trong Nhan, undergrad student at VNUHCM-University of Science
 
-<img src="Nhan.jpg" width="50" height="50">
+<img src="Nhan.jpg" width="100" height="80">
   
 ### **Collaborators**
   Prof. Takeshi Yanai, Nagoya University
