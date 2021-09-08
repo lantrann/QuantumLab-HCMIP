@@ -16,6 +16,7 @@ Nguyen Bich Duyen, M.Sc. (Ph.D. student at Central Michigan University) [[CV](Ng
 
 <img src="Duyen.jpg" width="50" height="50">
 
+
 Nguyen Thanh Hoang, M.Sc. (Ph.D. student at Graduate University of Science and Technology) [[CV](NguyenThanhHoang-CV.pdf)]
 
 <img src="Hoang.jpg" width="50" height="50">
