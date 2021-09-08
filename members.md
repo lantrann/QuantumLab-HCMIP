@@ -5,7 +5,7 @@
 ### **Principal Investigator**
 #### Tran Nguyen Lan, Ph.D. [[CV](LanTran_CV_0421.pdf)]
 
-<img src="Lan2.jpg" width="150" height="150">
+<img src="Lan2.jpg" width="150" height="180">
 
 ### **HCMIP Researchers**
 #### Le Bin Ho, Ph.D. [[CV](DrLeBinHo-CV.pdf)]
@@ -38,17 +38,17 @@ Ph.D. student at VNUHCM-University of Science
 
 Pre-grad student at HCMIP
 
-<img src="Hai.jpg" width="100" height="150">
+<img src="Hai.jpg" width="120" height="150">
 
 #### Le Trong Nhan, 
 
 Undergrad student at VNUHCM-University of Science
 
-<img src="Nhan.jpg" width="100" height="150">
+<img src="Nhan.jpg" width="120" height="150">
   
 ### **Collaborators**
-  #### Prof. Takeshi Yanai, Nagoya University
+  #### [Prof. Takeshi Yanai, Nagoya University](https://www.itbm.nagoya-u.ac.jp/en/members/t-yanai/)
 
-  #### Prof. Eric Neuscamman, UC Berkeley
+  #### [Prof. Eric Neuscamman, UC Berkeley](https://neuscammanlab.com/)
 
-  #### Dr. Hugh Burton, University of Cambridge  
+  #### [Dr. Hugh Burton, New College, Oxford](https://www.hughburton.com/)
