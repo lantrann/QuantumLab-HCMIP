@@ -3,24 +3,24 @@
 ### [Home](index.md)<img src="test_space.png" width="40" height="1">[**Members**](members.md)<img src="test_space.png" width="40" height="1">[Research](research.md)<img src="test_space.png" width="40" height="1">[Publications](Publications)<img src="test_space.png" width="40" height="1">[Courses](courses.md)<img src="test_space.png" width="40" height="1">[Softwares](softwares.md)
 
 ### **Principal Investigator**
-#### Tran Nguyen Lan, Ph.D. [[CV](LanTran_CV_0421.pdf)]
+#### [Tran Nguyen Lan, Ph.D.](LanTran_CV_0421.pdf)]
 
 <img src="Lan2.jpg" width="140" height="180">
 
 ### **HCMIP Researchers**
-#### Le Bin Ho, Ph.D. [[CV](DrLeBinHo-CV.pdf)]
+#### [Le Bin Ho, Ph.D.](DrLeBinHo-CV.pdf)]
 
 JSPS postdoc at Tohoku University
 
 <img src="BinHo.jpg" width="150" height="150">
 
-#### Nguyen Bich Duyen, M.Sc. [[CV](NguyenBichDuyen-EN.pdf)]
+#### [Nguyen Bich Duyen, M.Sc.](NguyenBichDuyen-EN.pdf)]
 
 Ph.D. student at Central Michigan University
 
 <img src="Duyen.jpg" width="150" height="150">
 
-#### Nguyen Thanh Hoang, M.Sc. [[CV](NguyenThanhHoang-CV.pdf)]
+#### [Nguyen Thanh Hoang, M.Sc.](NguyenThanhHoang-CV.pdf)]
 
 Ph.D. student at Graduate University of Science and Technology
 
@@ -47,8 +47,8 @@ Undergrad student at VNUHCM-University of Science
 <img src="Nhan.jpg" width="120" height="150">
   
 ### **Collaborators**
-  #### [Prof. Takeshi Yanai, Nagoya University](https://www.itbm.nagoya-u.ac.jp/en/members/t-yanai/)
+  [Prof. Takeshi Yanai, Nagoya University](https://www.itbm.nagoya-u.ac.jp/en/members/t-yanai/)
 
-  #### [Prof. Eric Neuscamman, UC Berkeley](https://neuscammanlab.com/)
+  [Prof. Eric Neuscamman, UC Berkeley](https://neuscammanlab.com/)
 
-  #### [Dr. Hugh Burton, New College, Oxford](https://www.hughburton.com/)
+  [Dr. Hugh Burton, New College, Oxford](https://www.hughburton.com/)
