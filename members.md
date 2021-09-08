@@ -3,24 +3,33 @@
 ### [Home](index.md)<img src="test_space.png" width="40" height="1">[**Members**](members.md)<img src="test_space.png" width="40" height="1">[Research](research.md)<img src="test_space.png" width="40" height="1">[Publications](Publications)<img src="test_space.png" width="40" height="1">[Courses](courses.md)<img src="test_space.png" width="40" height="1">[Softwares](softwares.md)
 
 ### **Principal Investigator**
-#### [Tran Nguyen Lan, Ph.D.](LanTran_CV_0421.pdf)
+#### [Tran Nguyen Lan](LanTran_CV_0421.pdf)
+Ph.D., The Graduate University for Advanced Studies, Japan
+
+Postdoc, University of California, Berkeley, US
+
+Postdoc, University of Michigan, Ann Arbor, US
+
 
 <img src="Lan2.jpg" width="140" height="180">
 
 ### **HCMIP Researchers**
-#### [Le Bin Ho, Ph.D.](DrLeBinHo-CV.pdf)
+#### [Le Bin Ho](DrLeBinHo-CV.pdf)
+Ph.D., Osaka University, Japan
 
-JSPS postdoc, Tohoku University
+Postdoc, Kindai University, Japan
+
+JSPS postdoc, Tohoku University, Japan
 
 <img src="BinHo.jpg" width="140" height="150">
 
-#### [Nguyen Bich Duyen, M.Sc.](NguyenBichDuyen-EN.pdf)
+#### [Nguyen Bich Duyen](NguyenBichDuyen-EN.pdf)
 
 Ph.D. student, Central Michigan University
 
 <img src="Duyen.jpg" width="150" height="150">
 
-#### [Nguyen Thanh Hoang, M.Sc.](NguyenThanhHoang-CV.pdf)
+#### [Nguyen Thanh Hoang](NguyenThanhHoang-CV.pdf)
 
 Ph.D. student, Graduate University of Science and Technology
 
@@ -28,13 +37,13 @@ Ph.D. student, Graduate University of Science and Technology
 
 ### **Students**
 
-#### Le Van Tan, M.Sc. 
+#### Le Van Tan
 
 Ph.D. student, VNUHCM-University of Science
 
 <img src="Tan2.jpg" width="150" height="150">
 
-#### Le Hoang Hai, M.Sc. 
+#### Le Hoang Hai 
 
 Pre-grad student, HCMIP-VAST
 
