@@ -5,7 +5,7 @@
 ### **Principal Investigator**
 #### Tran Nguyen Lan, Ph.D. [[CV](LanTran_CV_0421.pdf)]
 
-<img src="Lan2.jpg" width="150" height="180">
+<img src="Lan2.jpg" width="140" height="180">
 
 ### **HCMIP Researchers**
 #### Le Bin Ho, Ph.D. [[CV](DrLeBinHo-CV.pdf)]
