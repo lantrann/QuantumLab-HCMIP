@@ -4,7 +4,7 @@
 
 ## [Home](index.md)<img src="test_space.png" width="30" height="1">[Members](members.md)<img src="test_space.png" width="30" height="1">[<ins>Research</ins>](research.md)<img src="test_space.png" width="30" height="1">[Publications](Publications)<img src="test_space.png" width="30" height="1">[Courses](courses.md)<img src="test_space.png" width="30" height="1">[Softwares](softwares.md)
 
-<hr style="border:2px solid blue">
+<hr style="solid blue">
 
 <details>
 <summary> <b> <font size="4" color="green"> Electronic Structure Theory </font> </b> </summary>
