@@ -7,7 +7,7 @@
 <hr style="border:2px solid blue">
 
 <details>
-<summary> <font size="+100"> <b>Electronic Structure Theory</b> </summary>
+<summary> <font size="+100"> <b> Electronic Structure Theory</b> </font> </summary>
   
 under construction!
 
