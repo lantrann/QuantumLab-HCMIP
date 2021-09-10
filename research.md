@@ -7,28 +7,28 @@
 <hr style="border:2px solid blue">
 
 <details>
-<summary> <font size="10"> Electronic Structure Theory </font> </summary>
+<summary> <font size="5"> Electronic Structure Theory </font> </summary>
   
 under construction!
 
 </details>
 
 <details>
-<summary> <font size="10"> Quantum Computing and Information </font> </summary>
+<summary> <font size="5"> Quantum Computing and Information </font> </summary>
   
 under construction!
 
 </details>
 
 <details>
-<summary> <font size="10"> Computational Chemistry </font> </summary>
+<summary> <font size="5"> Computational Chemistry </font> </summary>
   
 under construction!
 
 </details>
 
 <details>
-<summary> <font size="10"> Condensed-Matter Physics </font> </summary>
+<summary> <font size="5"> Condensed-Matter Physics </font> </summary>
   
 under construction!
 
