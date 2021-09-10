@@ -13,7 +13,23 @@ under construction!
 
 </details>
 
-### **Quantum Computing and Information**
-### **Computational Chemistry**
-### **Condensed-Matter Physics**
+<details>
+<summary> <font size="10"> Quantum Computing and Information </font> </summary>
+  
+under construction!
 
+</details>
+
+<details>
+<summary> <font size="10"> Computational Chemistry </font> </summary>
+  
+under construction!
+
+</details>
+
+<details>
+<summary> <font size="10"> Condensed-Matter Physics </font> </summary>
+  
+under construction!
+
+</details>
