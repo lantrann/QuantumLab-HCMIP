@@ -4,8 +4,7 @@
 
 ## [Home](index.md)<img src="test_space.png" width="30" height="1">[<ins>Members</ins>](members.md)<img src="test_space.png" width="30" height="1">[Research](research.md)<img src="test_space.png" width="30" height="1">[Publications](Publications)<img src="test_space.png" width="30" height="1">[Courses](courses.md)<img src="test_space.png" width="30" height="1">[Softwares](softwares.md)
 
-<hr style="border:2px solid blue">
-
+<hr style="solid blue">
 
 ### **Principal Investigator**
 #### [Tran Nguyen Lan](LanTran_CV_0421.pdf)
