@@ -4,7 +4,7 @@
 
 ## [Home](index.md)<img src="test_space.png" width="30" height="1">[Members](members.md)<img src="test_space.png" width="30" height="1">[Research](research.md)<img src="test_space.png" width="30" height="1">[Publications](Publications)<img src="test_space.png" width="30" height="1">[Courses](courses.md)<img src="test_space.png" width="30" height="1">[<ins>Softwares</ins>](softwares.md)
 
-<hr style="border:2px solid blue">
+<hr style="solid blue">
 
 
 ### HiPES
