@@ -6,5 +6,5 @@
 
 <hr style="solid blue">
 
-
-Electronic structure theory, Fall 2021, VNUHCM-University of Science
+### 2021
+Electronic structure theory, Fall Semester, VNUHCM-University of Science
