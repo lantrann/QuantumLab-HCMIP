@@ -31,7 +31,7 @@ JSPS postdoc, Tohoku University, Japan </p>
 
 <img src="Duyen.jpg" width="150" height="150">
   
-Ph.D. student, Central Michigan University, United States
+<p>Ph.D. student, Central Michigan University, United States </p>
 [[Google Scholar](https://scholar.google.com/citations?user=f-3TeB8AAAAJ&hl=vi]
 
 #### [**Nguyen Thanh Hoang**](NguyenThanhHoang-CV.pdf)
