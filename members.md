@@ -9,7 +9,7 @@
 _Click on the name for more information!_
 
 ### **Principal Investigator**
-#### <span style="color:blue"> **Tran Nguyen Lan** </span> [[CV](LanTran_CV_0421.pdf)] 
+#### <span style="color:black"> **Tran Nguyen Lan** </span> [[CV](LanTran_CV_0421.pdf)] 
 
 <img src="Lan2.jpg" width="140" height="180">
 
@@ -21,7 +21,7 @@ Postdoc, University of Michigan, Ann Arbor, United States</p>
 
 ### **HCMIP Researchers**
   
-#### <span style="color:blue"> **Le Bin Ho** (on leave) </span> [[CV](DrLeBinHo-CV.pdf)]
+#### <span style="color:black"> **Le Bin Ho** (on leave) </span> [[CV](DrLeBinHo-CV.pdf)]
 
 <img src="BinHo.jpg" width="140" height="150">
 
@@ -31,7 +31,7 @@ JSPS postdoc, Tohoku University, Japan </p>
 
 [[Goolge Scholar](https://scholar.google.com/citations?user=jyPh9UcAAAAJ&hl=vi)]
 
-#### <span style="color:blue"> **Nguyen Bich Duyen** (on leave) </span> [[CV](NguyenBichDuyen-EN.pdf)] 
+#### <span style="color:black"> **Nguyen Bich Duyen** (on leave) </span> [[CV](NguyenBichDuyen-EN.pdf)] 
 
 <img src="Duyen.jpg" width="150" height="150">
   
@@ -39,7 +39,7 @@ Ph.D. student, Central Michigan University, United States
 
 [[Google Scholar](https://scholar.google.com/citations?user=f-3TeB8AAAAJ&hl=vi)]
 
-#### <span style="color:blue"> **Nguyen Thanh Hoang** </span> [[CV](NguyenThanhHoang-CV.pdf)]
+#### <span style="color:black"> **Nguyen Thanh Hoang** </span> [[CV](NguyenThanhHoang-CV.pdf)]
 
 <img src="Hoang.jpg" width="150" height="150">
   
@@ -47,19 +47,19 @@ Ph.D. student, Graduate University of Science and Technology, Vietnam
 
 ### **Students**
 
-#### <span style="color:blue"> **Le Van Tan** </span>
+#### <span style="color:black"> **Le Van Tan** </span>
 
 <img src="Tan2.jpg" width="150" height="150">
   
 Ph.D. student, VNUHCM-University of Science, Vietnam
 
-#### <span style="color:blue"> **Le Hoang Hai**  </span>
+#### <span style="color:black"> **Le Hoang Hai**  </span>
 
 <img src="Hai2.jpg" width="150" height="150">
 
 Pre-Ph.D. student, HCMIP-VAST, Vietnam
 
-#### <span style="color:blue"> **Le Trong Nhan**  </span>
+#### <span style="color:black"> **Le Trong Nhan**  </span>
 
 <img src="Nhan.jpg" width="120" height="150">
   
