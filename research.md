@@ -8,28 +8,23 @@
 
 <details>
 <summary> <b> <font size="4" color="green"> Electronic Structure Theory </font> </b> </summary>
-  
 under construction!
-
 </details>
+
 
 <details>
-<summary> <b> <font size="4" color="green">  Quantum Computing and Information </font> </b> </summary>
-  
+<summary> <b> <font size="4" color="green">  Quantum Computing and Information </font> </b> </summary>  
 under construction!
-
 </details>
+
 
 <details>
-<summary> <b> <font size="4" color="green">  Computational Chemistry </font> </b> </summary>
-  
+<summary> <b> <font size="4" color="green">  Computational Chemistry </font> </b> </summary>  
 under construction!
-
 </details>
+
 
 <details>
 <summary> <b> <font size="4" color="green">  Condensed-Matter Physics </font> </b> </summary>
-  
 under construction!
-
 </details>
