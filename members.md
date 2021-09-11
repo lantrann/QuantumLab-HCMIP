@@ -7,19 +7,18 @@
 <hr style="solid blue">
 
 ### **Principal Investigator**
-#### <span style="color:black"> **Tran Nguyen Lan** </span> [[CV](LanTran_CV_0421.pdf)] 
-
+#### <span style="color:black"> **Tran Nguyen Lan** </span> 
 <img src="Lan2.jpg" width="140" height="180">
 
 <p>Ph.D., The Graduate University for Advanced Studies, Japan<br>
 Postdoc, University of California, Berkeley, United States<br>
 Postdoc, University of Michigan, Ann Arbor, United States</p>
 
-[[Goolge Scholar](https://scholar.google.com/citations?user=fatZlQ0AAAAJ&hl=vi)]
+[[CV](LanTran_CV_0421.pdf)] [[Goolge Scholar](https://scholar.google.com/citations?user=fatZlQ0AAAAJ&hl=vi)]
 
 ### **HCMIP Researchers**
   
-#### <span style="color:black"> **Le Bin Ho** (on leave) </span> [[CV](DrLeBinHo-CV.pdf)]
+#### <span style="color:black"> **Le Bin Ho** (on leave) </span> 
 
 <img src="BinHo.jpg" width="140" height="150">
 
@@ -27,7 +26,7 @@ Postdoc, University of Michigan, Ann Arbor, United States</p>
  Postdoc, Kindai University, Japan <br>
 JSPS postdoc, Tohoku University, Japan </p>
 
-[[Goolge Scholar](https://scholar.google.com/citations?user=jyPh9UcAAAAJ&hl=vi)]
+[[CV](DrLeBinHo-CV.pdf)] [[Goolge Scholar](https://scholar.google.com/citations?user=jyPh9UcAAAAJ&hl=vi)]
 
 #### <span style="color:black"> **Nguyen Bich Duyen** (on leave) </span> [[CV](NguyenBichDuyen-EN.pdf)] 
 
@@ -37,11 +36,13 @@ Ph.D. student, Central Michigan University, United States
 
 [[Google Scholar](https://scholar.google.com/citations?user=f-3TeB8AAAAJ&hl=vi)]
 
-#### <span style="color:black"> **Nguyen Thanh Hoang** </span> [[CV](NguyenThanhHoang-CV.pdf)]
+#### <span style="color:black"> **Nguyen Thanh Hoang** </span> 
 
 <img src="Hoang.jpg" width="150" height="150">
   
 Ph.D. student, Graduate University of Science and Technology, Vietnam
+
+[[CV](NguyenThanhHoang-CV.pdf)]
 
 ### **Students**
 
