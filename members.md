@@ -21,7 +21,7 @@ Postdoc, University of Michigan, Ann Arbor, United States</p>
 
 ### **HCMIP Researchers**
   
-#### <span style="color:blue"> **Le Bin Ho** </spna> [[CV](DrLeBinHo-CV.pdf)] (on leave)
+#### <span style="color:blue"> **Le Bin Ho** </span> [[CV](DrLeBinHo-CV.pdf)] (on leave)
 
 <img src="BinHo.jpg" width="140" height="150">
 
