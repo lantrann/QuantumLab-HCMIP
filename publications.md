@@ -19,15 +19,21 @@ Kieu Quang Tuan, Hung Q Nguyen, and <ins>Le Bin Ho</ins>, "Direct state measurem
 
 <ins> Le Bin Ho </ins>, Kieu Quang Tuan, and Hung Q Nguyen, "tqix: A toolbox for Quantum in X: Quantum measurement, quantum tomography, quantum metrology, and others", _Computer Physics Communications_ **263** 107902
 
-#### **2020**
+
+#### **Before 2021**
 Le Bin Ho, "Systematic errors in direct state measurements with quantum controlled measurements" _Journal of Physics B: Atomic, Molecular and Optical Physics_ **53**, 115501
 
-#### **2019**
 Le Bin Ho and Lan Nguyen Tran, "Tunable cloaking of Mexican-hat confined states in bilayer silicene", _Communications in Physics_ **29**, 215
 
 Le Bin Ho, "Continuous-monitoring measured signals bounded by past and future conditions in enlarged quantum systems", _Quantum Information Processing_ **18**, 206
 
 Le Bin Ho, "Improving direct state measurements by using rebits in real enlarged Hilbert spaces", _Physics Letter A_ **383**, 289
+
+Le Bin Ho and Lan Nguyen Tran, "Photoenhanced spin/valley polarization and tunneling magnetoresistance in a ferromagnetic-normal-ferromagnetic silicene junction", _Journal of Physics D: Applied Physics_ **49**, 375106 
+
+<ins>Lan Nguyen Tran</ins>, <ins>Le Bin Ho</ins>, and Tran Hoang Hai, "Electronic, magnetic, and spin-polarized transport properties of hybrid graphene/boron-nitride nanoribbons having 5-8-5 line defects at the heterojunction", _Physica Status Solidi B_ **252**, 573
+
+<ins>Le Bin Ho</in>, <ins>Lan Nguyen Tran</ins>, and Tran Hoang Hai, "Monte Carlo simulations of core/shell nanoparticles containing interfacial defects: Role of disordered ferromagnetic spins", _Physica B_ **430**, 10
 
 ### **Books and book chapters**
 
