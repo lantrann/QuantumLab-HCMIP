@@ -7,7 +7,7 @@
 <hr style="solid blue">
 
 ### **Principal Investigator**
-#### [Tran Nguyen Lan](LanTran_CV_0421.pdf) 
+#### [**Tran Nguyen Lan**](LanTran_CV_0421.pdf) 
 
 <img src="Lan2.jpg" width="140" height="180">
 
