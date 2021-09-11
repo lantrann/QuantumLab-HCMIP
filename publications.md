@@ -11,7 +11,7 @@ L. N. Tran, "Improving perturbation theory for open-shell molecules via self-con
 
 C. Q. Nguyen, <ins>L. B. Ho</ins>, <ins>L. N. Tran</ins>, H. Q. Nguyen, "Qsun: an open-source platform towards practical quantum machine learning applications", [arXiv preprint arXiv:2107.10541](https://arxiv.org/abs/2107.10541), 2021
 
-### **Selected papers**
+### **Selected peer-reviewed papers**
 
 under construction
 
@@ -19,3 +19,5 @@ under construction
 
 under construction
 
+### **Selected talks**
+under construction
