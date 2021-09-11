@@ -8,13 +8,16 @@
 _Visit Google Scholar profile of [each member](members.md) for more details._
 
 ### **Preprints**
-L. N. Tran, "Improving perturbation theory for open-shell molecules via self-consistency", [arXiv preprint arXiv:2107.11260](https://arxiv.org/abs/2107.11260), 2021
+Lan Nguyen Tran, "Improving perturbation theory for open-shell molecules via self-consistency", [arXiv preprint arXiv:2107.11260](https://arxiv.org/abs/2107.11260), 2021
 
-C. Q. Nguyen, <ins>L. B. Ho</ins>, <ins>L. N. Tran</ins>, H. Q. Nguyen, "Qsun: an open-source platform towards practical quantum machine learning applications", [arXiv preprint arXiv:2107.10541](https://arxiv.org/abs/2107.10541), 2021
+Chuong Quoc Nguyen, <ins>Le Bin Ho</ins>, <ins>Lan Nguyen Tran</ins>, Hung Quoc Nguyen, "Qsun: an open-source platform towards practical quantum machine learning applications", [arXiv preprint arXiv:2107.10541](https://arxiv.org/abs/2107.10541), 2021
 
 ### **Selected peer-reviewed papers**
 
-under construction
+#### 2021
+Kieu Quang Tuan, Hung Q Nguyen, and <ins>Le Bin Ho</ins>, "Direct state measurements under state-preparation-and-measurement errors", _Quantum Information Processing_ **20**, 197
+
+<ins> Le Bin Ho </ins>, Kieu Quang Tuan, and Hung Q Nguyen, "tqix: A toolbox for Quantum in X: Quantum measurement, quantum tomography, quantum metrology, and others", _Computer Physics Communications_ **263** 107902
 
 ### **Books and book chapters**
 
