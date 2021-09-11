@@ -8,7 +8,7 @@
 
 
 <p align="center">
-<img src="home.jpg" width="500" height="400">
+<img src="home.jpg" width="500" height="350">
 </p>
 
 ### **News**
