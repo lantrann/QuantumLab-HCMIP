@@ -28,13 +28,13 @@ JSPS postdoc, Tohoku University, Japan </p>
 
 [[CV](DrLeBinHo-CV.pdf)] [[Goolge Scholar](https://scholar.google.com/citations?user=jyPh9UcAAAAJ&hl=vi)]
 
-#### <span style="color:black"> **Nguyen Bich Duyen** (on leave) </span> [[CV](NguyenBichDuyen-EN.pdf)] 
+#### <span style="color:black"> **Nguyen Bich Duyen** (on leave) </span> 
 
 <img src="Duyen.jpg" width="150" height="150">
   
 Ph.D. student, Central Michigan University, United States
 
-[[Google Scholar](https://scholar.google.com/citations?user=f-3TeB8AAAAJ&hl=vi)]
+[[CV](NguyenBichDuyen-EN.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=f-3TeB8AAAAJ&hl=vi)]
 
 #### <span style="color:black"> **Nguyen Thanh Hoang** </span> 
 
