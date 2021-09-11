@@ -33,7 +33,7 @@ Le Bin Ho and Lan Nguyen Tran, "Photoenhanced spin/valley polarization and tunne
 
 <ins>Lan Nguyen Tran</ins>, <ins>Le Bin Ho</ins>, and Tran Hoang Hai, "Electronic, magnetic, and spin-polarized transport properties of hybrid graphene/boron-nitride nanoribbons having 5-8-5 line defects at the heterojunction", _Physica Status Solidi B_ **252**, 573
 
-<ins>Le Bin Ho</in>, <ins>Lan Nguyen Tran</ins>, and Tran Hoang Hai, "Monte Carlo simulations of core/shell nanoparticles containing interfacial defects: Role of disordered ferromagnetic spins", _Physica B_ **430**, 10
+<ins>Le Bin Ho</ins>, <ins>Lan Nguyen Tran</ins>, and Tran Hoang Hai, "Monte Carlo simulations of core/shell nanoparticles containing interfacial defects: Role of disordered ferromagnetic spins", _Physica B_ **430**, 10
 
 ### **Books and book chapters**
 
