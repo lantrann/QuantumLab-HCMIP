@@ -8,7 +8,7 @@
 
 
 <p align="center">
-<img src="test.jpg" width="750" height="500">
+<img src="home.pdf" width="750" height="500">
 </p>
 
 ### **News**
