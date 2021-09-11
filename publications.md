@@ -14,10 +14,20 @@ Chuong Quoc Nguyen, <ins>Le Bin Ho</ins>, <ins>Lan Nguyen Tran</ins>, Hung Quoc 
 
 ### **Selected peer-reviewed papers**
 
-#### 2021
+#### **2021**
 Kieu Quang Tuan, Hung Q Nguyen, and <ins>Le Bin Ho</ins>, "Direct state measurements under state-preparation-and-measurement errors", _Quantum Information Processing_ **20**, 197
 
 <ins> Le Bin Ho </ins>, Kieu Quang Tuan, and Hung Q Nguyen, "tqix: A toolbox for Quantum in X: Quantum measurement, quantum tomography, quantum metrology, and others", _Computer Physics Communications_ **263** 107902
+
+#### **2020**
+Le Bin Ho, "Systematic errors in direct state measurements with quantum controlled measurements" _Journal of Physics B: Atomic, Molecular and Optical Physics_ **53**, 115501
+
+#### **2019**
+Le Bin Ho and Lan Nguyen Tran, "Tunable cloaking of Mexican-hat confined states in bilayer silicene", _Communications in Physics_ **29**, 215
+
+Le Bin Ho, "Continuous-monitoring measured signals bounded by past and future conditions in enlarged quantum systems", _Quantum Information Processing_ **18**, 206
+
+Le Bin Ho, "Improving direct state measurements by using rebits in real enlarged Hilbert spaces", _Physics Letter A_ **383**, 289
 
 ### **Books and book chapters**
 
