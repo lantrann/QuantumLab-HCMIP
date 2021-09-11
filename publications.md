@@ -7,7 +7,7 @@
 ### Preprint
 L. N. Tran, "Improving perturbation theory for open-shell molecules via self-consistency", [arXiv preprint arXiv:2107.11260](https://arxiv.org/abs/2107.11260), 2021
 
-C. Q. Nguye, L. B. Ho, L. N. Tran, H. Q. Nguyem, "Qsun: an open-source platform towards practical quantum machine learning applications", [arXiv preprint arXiv:2107.10541](https://arxiv.org/abs/2107.10541), 2021
+C. Q. Nguyen, L. B. Ho, L. N. Tran, H. Q. Nguyem, "Qsun: an open-source platform towards practical quantum machine learning applications", [arXiv preprint arXiv:2107.10541](https://arxiv.org/abs/2107.10541), 2021
 
 ### Selected papers
 
