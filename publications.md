@@ -21,7 +21,7 @@ Kieu Quang Tuan, Hung Q Nguyen, and <ins>Le Bin Ho</ins>, "Direct state measurem
 
 
 #### **Before 2021**
-<ins>Lan Nguyen Tran</in>, E. Neuscamman, "Improving excited state potential energy surfaces via optimal orbital shapes", _The Journal of Physical Chemistry A_ **124** 8273, 2020 
+<ins>Lan Nguyen Tran</ins>, E. Neuscamman, "Improving excited state potential energy surfaces via optimal orbital shapes", _The Journal of Physical Chemistry A_ **124** 8273, 2020 
 
 Le Bin Ho, "Systematic errors in direct state measurements with quantum controlled measurements" _Journal of Physics B: Atomic, Molecular and Optical Physics_ **53** 115501, 2020
 
