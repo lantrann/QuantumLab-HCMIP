@@ -21,7 +21,7 @@ Postdoc, University of Michigan, Ann Arbor, United States</p>
 
 ### **HCMIP Researchers**
   
-#### <span style="color:blue"> **Le Bin Ho** </span> [[CV](DrLeBinHo-CV.pdf)] (on leave)
+#### <span style="color:blue"> **Le Bin Ho** (on leave) </span> [[CV](DrLeBinHo-CV.pdf)]
 
 <img src="BinHo.jpg" width="140" height="150">
 
@@ -31,7 +31,7 @@ JSPS postdoc, Tohoku University, Japan </p>
 
 [[Goolge Scholar](https://scholar.google.com/citations?user=jyPh9UcAAAAJ&hl=vi)]
 
-#### <span style="color:blue"> **Nguyen Bich Duyen** </span> [[CV](NguyenBichDuyen-EN.pdf)] (on leave)
+#### <span style="color:blue"> **Nguyen Bich Duyen** (on leave) </span> [[CV](NguyenBichDuyen-EN.pdf)] 
 
 <img src="Duyen.jpg" width="150" height="150">
   
