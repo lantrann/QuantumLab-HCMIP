@@ -6,6 +6,8 @@
 
 <hr style="solid blue">
 
+_Click on the name for more information!_
+
 ### **Principal Investigator**
 #### [**Tran Nguyen Lan**](LanTran_CV_0421.pdf) 
 
