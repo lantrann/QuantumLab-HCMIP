@@ -33,7 +33,7 @@ JSPS postdoc, Tohoku University, Japan </p>
   
 Ph.D. student, Central Michigan University, United States
 
-[[Google Scholar](https://scholar.google.com/citations?user=f-3TeB8AAAAJ&hl=vi]
+[[Google Scholar](https://scholar.google.com/citations?user=f-3TeB8AAAAJ&hl=vi)]
 
 #### [**Nguyen Thanh Hoang**](NguyenThanhHoang-CV.pdf)
 
