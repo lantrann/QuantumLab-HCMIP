@@ -58,7 +58,7 @@ Lan Nguyen Tran, "Electronic transport properties of molecular junctions based o
 
 ### **Books and book chapters**
 
-Le Bin Ho (editor), "Hilbert spaces: Properties and Applications", Nova Science Publisher (2020)
+Le Bin Ho (editor), ["Hilbert spaces: Properties and Applications"](https://novapublishers.com/shop/hilbert-spaces-properties-and-applications/), Nova Science Publisher (2020)
 <p align="left">
 <img src="Hilbert_book.jpg" width="180" height="250">
 </p>
