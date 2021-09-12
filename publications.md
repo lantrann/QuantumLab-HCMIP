@@ -5,10 +5,6 @@
 
 <hr style="solid blue">
 
-<p align="center">
-<img src="jpcl.jpg" width="180" height="250"> <img src="jctc.jpg" width="180" height="250"> <img src="jpd.jpg" width="180" height="250">  <img src="cpc.jpg" width="180" height="250">
-</p>
-
 _Visit Google Scholar profile of [each member](members.md) for more details._
 
 ### **Preprints**
@@ -17,6 +13,10 @@ Lan Nguyen Tran, "Improving perturbation theory for open-shell molecules via sel
 Chuong Quoc Nguyen, <ins>Le Bin Ho</ins>, <ins>Lan Nguyen Tran</ins>, Hung Quoc Nguyen, "Qsun: an open-source platform towards practical quantum machine learning applications", [arXiv preprint arXiv:2107.10541](https://arxiv.org/abs/2107.10541), 2021
 
 ### **Selected peer-reviewed papers**
+
+<p align="center">
+<img src="jpcl.jpg" width="180" height="250"> <img src="jctc.jpg" width="180" height="250"> <img src="jpd.jpg" width="180" height="250">  <img src="cpc.jpg" width="180" height="250">
+</p>
 
 #### **2021**
 Kieu Quang Tuan, Hung Q Nguyen, and <ins>Le Bin Ho</ins>, "Direct state measurements under state-preparation-and-measurement errors", _Quantum Information Processing_ **20**, 197, 2021
@@ -58,16 +58,15 @@ Lan Nguyen Tran, "Electronic transport properties of molecular junctions based o
 
 ### **Books and book chapters**
 
-Le Bin Ho (editor), ["Hilbert spaces: Properties and Applications"](https://novapublishers.com/shop/hilbert-spaces-properties-and-applications/), Nova Science Publisher (2020)
-<p align="left">
-<img src="Hilbert_book.jpg" width="180" height="250">
+<p align="center">
+<img src="Hilbert_book.jpg" width="180" height="250"> <img src="MNPs_book.jpg" width="180" height="250">
 </p>
+
+Le Bin Ho (editor), ["Hilbert spaces: Properties and Applications"](https://novapublishers.com/shop/hilbert-spaces-properties-and-applications/), Nova Science Publisher (2020)
 
 Lan Nguyen Tran et al. (contributed chapter), ["Magnetic nanoparticles: properties, synthesis, and applications"](http://www.novapublishers.org/catalog/product_info.php?products_id=30888), Eds: B. Acklin and E. Lautens, Nova Science Publisher (2012)
-<p align="left">
-<img src="MNPs_book.jpg" width="180" height="250">
-</p>
 
+<ins>Lan Nguyen Tran</ins> and Tran Hoang Hai (contributed chapter), ["Applications of Monte Carlo Method in Science and Engineering"](https://www.intechopen.com/books/1485), Ed: S Mordechai, Intech Publisher (2011)
 
 ### **Selected talks**
 under construction
