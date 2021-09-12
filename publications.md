@@ -8,7 +8,8 @@
 _Visit Google Scholar profile of [each member](members.md) for more details._
 
 <p align="center">
-<img src="Hilbert_book.jpg" width="180" height="250">
+<img src="jpcl.jpg" width="180" height="250"> <src="jctc.jpg" width="180" height="250"> <src="jpca.jpg" width="180" height="250"> <img src="Hilbert_book.jpg" width="180" height="250">
+
 </p>
 
 ### **Preprints**
