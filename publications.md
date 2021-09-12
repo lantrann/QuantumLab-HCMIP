@@ -12,7 +12,7 @@ Lan Nguyen Tran, "Improving perturbation theory for open-shell molecules via sel
 
 Chuong Quoc Nguyen, <ins>Le Bin Ho</ins>, <ins>Lan Nguyen Tran</ins>, Hung Quoc Nguyen, "Qsun: an open-source platform towards practical quantum machine learning applications", [arXiv preprint arXiv:2107.10541](https://arxiv.org/abs/2107.10541), 2021
 
-### **Selected peer-reviewed papers**
+### **Peer-reviewed papers**
 
 <p align="center">
 <img src="jpcl.jpg" width="180" height="250"> <img src="jctc.jpg" width="180" height="250"> <img src="jpd.jpg" width="180" height="250">  <img src="cpc.jpg" width="180" height="250">
@@ -23,6 +23,7 @@ Kieu Quang Tuan, Hung Q Nguyen, and <ins>Le Bin Ho</ins>, "Direct state measurem
 
 <ins> Le Bin Ho </ins>, Kieu Quang Tuan, and Hung Q Nguyen, "tqix: A toolbox for Quantum in X: Quantum measurement, quantum tomography, quantum metrology, and others", _Computer Physics Communications_ **263** 107902, 2021
 
+<ins> Nguyen Thanh Hoang </ins>, Nguyen Manh Tuan, "Investigation of Magnetic Properties of Magnetic Poly (glycidyl methacrylate) Microspheres: Experimental and Theoretical", _Advances in Materials Science and Engineering_ **Article ID 6676453**, 2021
 
 #### **Before 2021**
 <ins>Lan Nguyen Tran</ins>, E. Neuscamman, "Improving excited state potential energy surfaces via optimal orbital shapes", _The Journal of Physical Chemistry A_ **124** 8273, 2020 
@@ -59,7 +60,7 @@ Lan Nguyen Tran, "Electronic transport properties of molecular junctions based o
 ### **Books and book chapters**
 
 <p align="center">
-<img src="Hilbert_book.jpg" width="180" height="250"> <img src="MNPs_book.jpg" width="180" height="250">
+<img src="Hilbert_book.jpg" width="180" height="250"> <img src="MNPs_book.jpg" width="180" height="250"> <img src="MMC_book.jpg" width="180" height="250">
 </p>
 
 Le Bin Ho (editor), ["Hilbert spaces: Properties and Applications"](https://novapublishers.com/shop/hilbert-spaces-properties-and-applications/), Nova Science Publisher (2020)
