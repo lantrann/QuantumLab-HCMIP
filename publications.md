@@ -6,7 +6,7 @@
 <hr style="solid blue">
 
 <p align="center">
-<img src="jpcl.jpg" width="180" height="250"> <img src="jctc.jpg" width="180" height="250"> <img src="jpd.jpg" width="180" height="250">  <img src="cpc.jpg" width="180" height="250"> <img src="Hilbert_book.jpg" width="180" height="250">
+<img src="jpcl.jpg" width="180" height="250"> <img src="jctc.jpg" width="180" height="250"> <img src="jpd.jpg" width="180" height="250">  <img src="cpc.jpg" width="180" height="250">
 </p>
 
 _Visit Google Scholar profile of [each member](members.md) for more details._
@@ -59,7 +59,9 @@ Lan Nguyen Tran, "Electronic transport properties of molecular junctions based o
 ### **Books and book chapters**
 
 Le Bin Ho (editor), "Hilbert spaces: Properties and Applications", Nova Science Publisher (2020)
+<p align="left">
 <img src="Hilbert_book.jpg" width="180" height="250">
+</p>
 
 ### **Selected talks**
 under construction
