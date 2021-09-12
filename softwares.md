@@ -10,4 +10,8 @@
 ### HiPES
 
 ### [tqix](https://vqisinfo.wixsite.com/tqix)
+<p align="left">
+<img src="tqix-logo.png" width="450" height="300">
+</p>
+
 
