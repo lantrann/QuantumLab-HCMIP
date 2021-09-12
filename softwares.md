@@ -8,13 +8,15 @@
 <hr style="solid blue">
 
 ### HiPES
+**Hi**gh-**P**erformance **E**lectronic **S**tructure program (under development)
 
 <p align="left">
 <img src="hipes.png" width="200" height="90">
 </p>
 
 
-### [tqix](https://vqisinfo.wixsite.com/tqix)
+### [tqix](https://vqisinfo.wixsite.com/tqix): 
+**T**oolbox for **Q**uantum in **X**: Quantum measurement, quantum tomography, quantum metrology, and others
 <p align="left">
 <img src="tqix-logo.png" width="110" height="100">
 </p>
