@@ -5,12 +5,11 @@
 
 <hr style="solid blue">
 
-_Visit Google Scholar profile of [each member](members.md) for more details._
-
 <p align="center">
 <img src="jpcl.jpg" width="180" height="250"> <img src="jctc.jpg" width="180" height="250"> <img src="jpd.jpg" width="180" height="250">  <img src="cpc.jpg" width="180" height="250"> <img src="Hilbert_book.jpg" width="180" height="250">
-
 </p>
+
+_Visit Google Scholar profile of [each member](members.md) for more details._
 
 ### **Preprints**
 Lan Nguyen Tran, "Improving perturbation theory for open-shell molecules via self-consistency", [arXiv preprint arXiv:2107.11260](https://arxiv.org/abs/2107.11260), 2021
