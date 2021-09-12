@@ -63,5 +63,11 @@ Le Bin Ho (editor), ["Hilbert spaces: Properties and Applications"](https://nova
 <img src="Hilbert_book.jpg" width="180" height="250">
 </p>
 
+Lan Nguyen Tran (contributed chapter), ["Magnetic nanoparticles: properties, synthesis, and applications"](http://www.novapublishers.org/catalog/product_info.php?products_id=30888), Nova Science Publisher (2012)
+<p align="left">
+<img src="Hilbert_book.jpg" width="180" height="250">
+</p>
+
+
 ### **Selected talks**
 under construction
