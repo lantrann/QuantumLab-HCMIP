@@ -7,6 +7,10 @@
 
 _Visit Google Scholar profile of [each member](members.md) for more details._
 
+<p align="center">
+<img src="Hilbert_book.jpg" width="180" height="250">
+</p>
+
 ### **Preprints**
 Lan Nguyen Tran, "Improving perturbation theory for open-shell molecules via self-consistency", [arXiv preprint arXiv:2107.11260](https://arxiv.org/abs/2107.11260), 2021
 
@@ -55,10 +59,6 @@ Lan Nguyen Tran, "Electronic transport properties of molecular junctions based o
 ### **Books and book chapters**
 
 Le Bin Ho (editor), "Hilbert spaces: Properties and Applications", Nova Science Publisher (2020)
-
-<p align="center">
-<img src="Hilbert_book.jpg" width="180" height="250">
-</p>
 
 ### **Selected talks**
 under construction
