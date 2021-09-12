@@ -18,14 +18,14 @@ Chuong Quoc Nguyen, <ins>Le Bin Ho</ins>, <ins>Lan Nguyen Tran</ins>, Hung Quoc 
 <img src="jpcl.jpg" width="180" height="250"> <img src="jctc.jpg" width="180" height="250"> <img src="jpd.jpg" width="180" height="250">  <img src="cpc.jpg" width="180" height="250">
 </p>
 
-#### **2021**
+#### <span style="color:black"> **2021** </span>
 Kieu Quang Tuan, Hung Q Nguyen, and <ins>Le Bin Ho</ins>, "Direct state measurements under state-preparation-and-measurement errors", _Quantum Information Processing_ **20**, 197, 2021
 
 <ins> Le Bin Ho </ins>, Kieu Quang Tuan, and Hung Q Nguyen, "tqix: A toolbox for Quantum in X: Quantum measurement, quantum tomography, quantum metrology, and others", _Computer Physics Communications_ **263** 107902, 2021
 
 <ins> Nguyen Thanh Hoang </ins>, Nguyen Manh Tuan, "Investigation of Magnetic Properties of Magnetic Poly (glycidyl methacrylate) Microspheres: Experimental and Theoretical", _Advances in Materials Science and Engineering_ **Article ID 6676453**, 2021
 
-#### **Before 2021**
+#### <span style="color:black"> **Before 2021** </span>
 <ins>Lan Nguyen Tran</ins>, E. Neuscamman, "Improving excited state potential energy surfaces via optimal orbital shapes", _The Journal of Physical Chemistry A_ **124** 8273, 2020 
 
 Le Bin Ho, "Systematic errors in direct state measurements with quantum controlled measurements" _Journal of Physics B: Atomic, Molecular and Optical Physics_ **53** 115501, 2020
