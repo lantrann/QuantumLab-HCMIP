@@ -16,8 +16,9 @@
 
 
 ### [tqix]: 
-<p>**T**oolbox for **Q**uantum in **X**: Quantum measurement, quantum tomography, quantum metrology, and others <br>
-Link to code: https://vqisinfo.wixsite.com/tqix </p>
+**T**oolbox for **Q**uantum in **X**: Quantum measurement, quantum tomography, quantum metrology, and others
+[Link to code](https://vqisinfo.wixsite.com/tqix)
+
 <p align="left">
 <img src="tqix-logo.png" width="110" height="100">
 </p>
