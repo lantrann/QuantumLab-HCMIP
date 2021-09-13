@@ -14,6 +14,9 @@ _Visit Google Scholar profile of [each member](members.md) for more details._
 </p>
 
 > Chuong Quoc Nguyen, <ins>Le Bin Ho</ins>, <ins>Lan Nguyen Tran</ins>, Hung Quoc Nguyen, "Qsun: an open-source platform towards practical quantum machine learning applications", [arXiv preprint arXiv:2107.10541](https://arxiv.org/abs/2107.10541), 2021
+<p align="center">
+<img src="qsun.png" width="350" height="280">
+</p>
 
 ### **Peer-reviewed papers**
 
