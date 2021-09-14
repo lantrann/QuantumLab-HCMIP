@@ -8,12 +8,12 @@
 
 <details>
 <summary> <b> <font size="4" color="green"> Electronic Structure Theory </font> </b> </summary>
- 
-  - Correlated one-body theories
+ <p>
+  - Correlated one-body theories <br>
   
-  - Many-body Green's function theories
+  - Many-body Green's function theories <br>
   
-  - Quantum embedding theories
+  - Quantum embedding theories </p>
 </details>
 
 
