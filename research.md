@@ -11,11 +11,16 @@
 <details>
 <summary> <b> <font size="4" color="green"> Electronic Structure Theory </font> </b> </summary>
  <p>
-  - Correlated one-body theories <br>
+  - Correlated one-body methods <br>
   
-  - Many-body Green's function theories <br>
+  - Many-body Green's function methods <br>
   
-  - Quantum embedding theories </p>
+  - Quantum embedding methods <br> 
+  
+   - Excited-state methods <br>
+   
+   - Multi-configurational wave-function methods </p>
+ 
 </details>
 
 
