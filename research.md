@@ -17,6 +17,11 @@ under construction!
 under construction!
 </details>
 
+<details>
+<summary> <b> <font size="4" color="green">  Machine learning in quantum physics </font> </b> </summary>  
+under construction!
+</details>
+
 
 <details>
 <summary> <b> <font size="4" color="green">  Computational Chemistry </font> </b> </summary>  
