@@ -6,6 +6,8 @@
 
 <hr style="solid blue">
 
+*_**Click on topics to see more details**_
+
 <details>
 <summary> <b> <font size="4" color="green"> Electronic Structure Theory </font> </b> </summary>
  <p>
@@ -36,7 +38,7 @@
   
   - Solving the Schrodinger equation using machine learning <br>
   
-  - Machine learning for physical properties of molecules and materials </p>
+  - Machine learning for properties of molecules and materials </p>
 </details>
 
 
