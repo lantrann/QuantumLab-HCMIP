@@ -24,7 +24,7 @@ under construction!
 
 
 <details>
-<summary> <b> <font size="4" color="green">  Computational Physical Chemistry </font> </b> </summary>  
+<summary> <b> <font size="4" color="green">  Computational Quantum Chemistry </font> </b> </summary>  
 under construction!
 </details>
 
