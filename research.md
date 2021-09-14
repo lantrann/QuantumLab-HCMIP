@@ -21,6 +21,8 @@
 <summary> <b> <font size="4" color="green">  Quantum Computing and Information </font> </b> </summary>  
 
   <p> - Variational quantum eigensolvers <br>
+    
+    - Hybrid quantum-classical frameworks <br>
   
   - Quantum metrology and measurement <br>
   
