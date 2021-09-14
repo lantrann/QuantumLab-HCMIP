@@ -8,28 +8,49 @@
 
 <details>
 <summary> <b> <font size="4" color="green"> Electronic Structure Theory </font> </b> </summary>
-under construction!
+ 
+  - Correlated one-body theories
+  
+  - Many-body Green's function theories
+  
+  - Quantum embedding theories
 </details>
 
 
 <details>
 <summary> <b> <font size="4" color="green">  Quantum Computing and Information </font> </b> </summary>  
-under construction!
+
+  - Variational quantum eigensolvers
+  
+  - Quantum metrology and measurement
+  
+  - Quantum dynamics of multipartite entanglement
 </details>
 
 <details>
 <summary> <b> <font size="4" color="green">  Machine Learning in Physics and Chemistry </font> </b> </summary>  
-under construction!
+
+  - Representing quantum states using neural networks
+  
+  - Solving the Schrodinger equation using machine learning
+  
+  - Machine learning for physical properties of molecules and materials
 </details>
 
 
 <details>
 <summary> <b> <font size="4" color="green">  Computational Quantum Chemistry </font> </b> </summary>  
-under construction!
+
+  - Photochemistry of transition metal complexes
+  
+  - Metal-free (photo)catalysis
 </details>
 
 
 <details>
 <summary> <b> <font size="4" color="green">  Condensed-Matter Physics </font> </b> </summary>
-under construction!
+  
+  - Topological materials
+  
+  - Excitonic effects in materials
 </details>
