@@ -60,7 +60,7 @@ Email: <nthoang@hcmip.vast.vn>
 
 <img src="Tan2.jpg" width="150" height="150">
   
-2015 - present: Ph.D. student, VNUHCM-University of Science, Vietnam
+2013 - present: Ph.D. student, VNUHCM-University of Science, Vietnam
 
 #### <span style="color:black"> **Le Hoang Hai**  </span>
 
