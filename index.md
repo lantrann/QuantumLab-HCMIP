@@ -12,7 +12,7 @@
 </p>
 
 ### **About**
-We are a theoretical and computational lab at [Ho Chi Minh City Insitute of Physics](http://hcmip.ac.vn/index-en.html) (HCMIP), [Vietnam Academy of Science and Technology](https://vast.gov.vn/) (VAST). We conduct a variety of research topics in quantum physics and chemistry. Please see our [research page](research.md) for more details!
+We are a Theoretical and Computational Lab at [Ho Chi Minh City Insitute of Physics](http://hcmip.ac.vn/index-en.html) (HCMIP), [Vietnam Academy of Science and Technology](https://vast.gov.vn/) (VAST). We conduct a variety of research topics in quantum physics and chemistry. Please see our [research page](research.md) for more details!
 
 ### **News**
 Our manuscript on the unrestricted version of OBMP2 is now on arXiv: [arXiv:2107.11260](https://arxiv.org/abs/2107.11260)
