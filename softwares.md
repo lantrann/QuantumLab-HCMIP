@@ -6,7 +6,7 @@
 
 <hr style="solid blue">
 
-*<font size="0.5">_**These codes are developed in our lab**_</font>
+*_These codes are developed in our lab_
 
 > **Hi**gh-**P**erformance **E**lectronic **S**tructure program (under development)
 
