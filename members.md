@@ -38,6 +38,8 @@ Emails: bin262@gmail.com, binho@riec.tohoku.ac.jp
   
 Ph.D. student, Central Michigan University, United States
 
+Email: hoamai6hh@gmail.com 
+
 [[CV](NguyenBichDuyen-EN.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=f-3TeB8AAAAJ&hl=vi)]
 
 #### <span style="color:black"> **Nguyen Thanh Hoang** </span> 
@@ -45,6 +47,8 @@ Ph.D. student, Central Michigan University, United States
 <img src="Hoang.jpg" width="150" height="150">
   
 Ph.D. student, Graduate University of Science and Technology, Vietnam
+
+Email: nthoang@hcmip.vast.vn
 
 [[CV](NguyenThanhHoang-CV.pdf)]
 
