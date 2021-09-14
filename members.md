@@ -10,9 +10,10 @@
 #### <span style="color:black"> **Tran Nguyen Lan** </span> 
 <img src="Lan2.jpg" width="140" height="180">
 
-<p>Ph.D., The Graduate University for Advanced Studies, Japan<br>
-Postdoc, University of California, Berkeley, United States<br>
-Postdoc, University of Michigan, Ann Arbor, United States</p>
+<p>2011 - 2014: Ph.D., The Graduate University for Advanced Studies, Japan<br>
+2015 - 2018: Postdoc, University of California, Berkeley, United States<br>
+2018 - 2021: Postdoc, University of Michigan, Ann Arbor, United States<br>
+2021 - present: Researcher and Head of Department, HCMC Institute of Physics, VAST</p>
 
 Emails: <lantrann@gmail.com>, <tnlan@vast.hcmip.vn>
 
@@ -24,9 +25,9 @@ Emails: <lantrann@gmail.com>, <tnlan@vast.hcmip.vn>
 
 <img src="BinHo.jpg" width="140" height="150">
 
-<p> Ph.D., Osaka University, Japan <br>
- Postdoc, Kindai University, Japan <br>
-JSPS postdoc, Tohoku University, Japan </p>
+<p> 2015 - 2018: Ph.D., Osaka University, Japan <br>
+ 2018 - 2020: Postdoc, Kindai University, Japan <br>
+ 2020 - 2022: JSPS postdoc, Tohoku University, Japan </p>
 
 Emails: <bin262@gmail.com>, <binho@riec.tohoku.ac.jp>
 
@@ -35,8 +36,9 @@ Emails: <bin262@gmail.com>, <binho@riec.tohoku.ac.jp>
 #### <span style="color:black"> **Nguyen Bich Duyen** (on leave) </span> 
 
 <img src="Duyen.jpg" width="150" height="150">
-  
-Ph.D. student, Central Michigan University, United States
+
+<p> 2018 - 2019: Ph.D. student, New Jersey Institute of Technology, United States <br>
+2019 - present: Ph.D. student, Central Michigan University, United States </p>
 
 Email: <hoamai6hh@gmail.com> 
 
@@ -46,7 +48,7 @@ Email: <hoamai6hh@gmail.com>
 
 <img src="Hoang.jpg" width="150" height="150">
   
-Ph.D. student, Graduate University of Science and Technology, Vietnam
+2016 - present: Ph.D. student, Graduate University of Science and Technology, Vietnam
 
 Email: <nthoang@hcmip.vast.vn>
 
@@ -58,19 +60,19 @@ Email: <nthoang@hcmip.vast.vn>
 
 <img src="Tan2.jpg" width="150" height="150">
   
-Ph.D. student, VNUHCM-University of Science, Vietnam
+2015 - present: Ph.D. student, VNUHCM-University of Science, Vietnam
 
 #### <span style="color:black"> **Le Hoang Hai**  </span>
 
 <img src="Hai2.jpg" width="150" height="150">
 
-Pre-Ph.D. student, HCMIP-VAST, Vietnam
+Present: Pre-Ph.D. student, HCMIP-VAST, Vietnam
 
 #### <span style="color:black"> **Le Trong Nhan**  </span>
 
 <img src="Nhan.jpg" width="120" height="150">
   
-Undergrad student, VNUHCM-University of Science, Vietnam
+2017 - present: Undergrad student, VNUHCM-University of Science, Vietnam
   
 ### **Collaborators**
   [Prof. Takeshi Yanai, Nagoya University](https://www.iaqms.org/members/yanai.php)
