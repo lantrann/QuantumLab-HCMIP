@@ -38,7 +38,7 @@ Emails: bin262@gmail.com, binho@riec.tohoku.ac.jp
   
 Ph.D. student, Central Michigan University, United States
 
-Email: hoamai6hh@gmail.com 
+Email: <hoamai6hh@gmail.com> 
 
 [[CV](NguyenBichDuyen-EN.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=f-3TeB8AAAAJ&hl=vi)]
 
