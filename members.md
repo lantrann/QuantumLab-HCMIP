@@ -14,7 +14,7 @@
 Postdoc, University of California, Berkeley, United States<br>
 Postdoc, University of Michigan, Ann Arbor, United States</p>
 
-Emails: lantrann@gmail.com, tnlan@vast.hcmip.vn
+Emails: <lantrann@gmail.com>, <tnlan@vast.hcmip.vn>
 
 [[CV](LanTran_CV_0421.pdf)] [[Goolge Scholar](https://scholar.google.com/citations?user=fatZlQ0AAAAJ&hl=vi)]
 
