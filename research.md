@@ -20,37 +20,39 @@
 <details>
 <summary> <b> <font size="4" color="green">  Quantum Computing and Information </font> </b> </summary>  
 
-  - Variational quantum eigensolvers
+  <p> - Variational quantum eigensolvers <br>
   
-  - Quantum metrology and measurement
+  - Quantum metrology and measurement <br>
   
-  - Quantum dynamics of multipartite entanglement
+  - Quantum dynamics of multipartite entanglement </p>
 </details>
 
 <details>
 <summary> <b> <font size="4" color="green">  Machine Learning in Physics and Chemistry </font> </b> </summary>  
 
-  - Representing quantum states using neural networks
+  <p> - Representing quantum states using neural networks <br>
   
-  - Solving the Schrodinger equation using machine learning
+  - Solving the Schrodinger equation using machine learning <br>
   
-  - Machine learning for physical properties of molecules and materials
+  - Machine learning for physical properties of molecules and materials </p>
 </details>
 
 
 <details>
 <summary> <b> <font size="4" color="green">  Computational Quantum Chemistry </font> </b> </summary>  
 
-  - Photochemistry of transition metal complexes
+  <p> - Transition metal complexes <br>
+    
+    - Photoinduced charge transfer <br>
   
-  - Metal-free (photo)catalysis
+  - Metal-free (photo)catalysis </p>
 </details>
 
 
 <details>
 <summary> <b> <font size="4" color="green">  Condensed-Matter Physics </font> </b> </summary>
   
-  - Topological materials
+ <p> - Topological materials <br>
   
-  - Excitonic effects in materials
+  - Excitonic effects in materials </p>
 </details>
