@@ -28,7 +28,7 @@ Emails: <lantrann@gmail.com>, <tnlan@vast.hcmip.vn>
  Postdoc, Kindai University, Japan <br>
 JSPS postdoc, Tohoku University, Japan </p>
 
-Emails: bin262@gmail.com, binho@riec.tohoku.ac.jp
+Emails: <bin262@gmail.com>, <binho@riec.tohoku.ac.jp>
 
 [[CV](DrLeBinHo-CV.pdf)] [[Goolge Scholar](https://scholar.google.com/citations?user=jyPh9UcAAAAJ&hl=vi)]
 
@@ -48,7 +48,7 @@ Email: <hoamai6hh@gmail.com>
   
 Ph.D. student, Graduate University of Science and Technology, Vietnam
 
-Email: nthoang@hcmip.vast.vn
+Email: <nthoang@hcmip.vast.vn>
 
 [[CV](NguyenThanhHoang-CV.pdf)]
 
