@@ -8,19 +8,18 @@
 
 *_**These codes are developed in our lab**_
 
+> **Hi**gh-**P**erformance **E**lectronic **S**tructure program (under development)
+
 <p align="left">
 <img src="hipes.png" width="200" height="90">
 </p>
 
-**Hi**gh-**P**erformance **E**lectronic **S**tructure program (under development)
-
-
+> **T**oolbox for **Q**uantum in **X**: Quantum measurement, quantum tomography, quantum metrology, and others
 
 <p align="left">
 <img src="tqix-logo.png" width="110" height="100">
 </p>
 
-**T**oolbox for **Q**uantum in **X**: Quantum measurement, quantum tomography, quantum metrology, and others
 
 [Link to code](https://vqisinfo.wixsite.com/tqix)
 
