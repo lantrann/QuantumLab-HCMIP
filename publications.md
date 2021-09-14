@@ -58,6 +58,8 @@ _Journal of Chemical Theory and Computation_ **15** 4790, 2019
 
 > <ins>Lan Nguyen Tran</ins>, A. Shee, J. Li, E. Gull, and D. Zgid, "Testing self-energy embedding theory in combination with GW", _Physical Review B_ **96** 155106, 2017
 
+> Mario Motta, David M Ceperley, Garnet Kin-Lic Chan, John A Gomez, Emanuel Gull, Sheng Guo, Carlos A Jiménez-Hoyos, <ins>Lan Nguyen Tran</ins>, Jia Li, Fengjie Ma, Andrew J Millis, Nikolay V Prokof’ev, Ushnish Ray, Gustavo E Scuseria, Sandro Sorella, Edwin M Stoudenmire, Qiming Sun, Igor S Tupitsyn, Steven R White, Dominika Zgid, Shiwei Zhang, "Towards the solution of the many-electron problem in real materials: Equation of state of the hydrogen chain with state-of-the-art many-body methods", _Physical Review X_ **7** 031059, 2017
+
 > Le Bin Ho and Lan Nguyen Tran, "Photoenhanced spin/valley polarization and tunneling magnetoresistance in a ferromagnetic-normal-ferromagnetic silicene junction", _Journal of Physics D: Applied Physics_ **49**, 375106, 2016 
 
 > <ins>Lan Nguyen Tran</ins>, <ins>Le Bin Ho</ins>, and Tran Hoang Hai, "Electronic, magnetic, and spin-polarized transport properties of hybrid graphene/boron-nitride nanoribbons having 5-8-5 line defects at the heterojunction", _Physica Status Solidi B_ **252** 573, 2015
