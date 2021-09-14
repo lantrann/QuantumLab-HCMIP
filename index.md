@@ -8,7 +8,7 @@
 
 
 <p align="center">
-<img src="home2.png" width="500" height="350">
+<img src="home.png" width="500" height="350">
 </p>
 
 
