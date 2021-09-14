@@ -6,7 +6,7 @@
 
 <hr style="solid blue">
 
-*_**Click on topics to see more details**_
+*_Click on each topic to see more details_
 
 <details>
 <summary> <b> <font size="4" color="green"> Electronic Structure Theory </font> </b> </summary>
