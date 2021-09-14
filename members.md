@@ -14,6 +14,8 @@
 Postdoc, University of California, Berkeley, United States<br>
 Postdoc, University of Michigan, Ann Arbor, United States</p>
 
+Emails: lantrann@gmail.com, tnlan@vast.hcmip.vn
+
 [[CV](LanTran_CV_0421.pdf)] [[Goolge Scholar](https://scholar.google.com/citations?user=fatZlQ0AAAAJ&hl=vi)]
 
 ### **HCMIP Researchers**
@@ -25,6 +27,8 @@ Postdoc, University of Michigan, Ann Arbor, United States</p>
 <p> Ph.D., Osaka University, Japan <br>
  Postdoc, Kindai University, Japan <br>
 JSPS postdoc, Tohoku University, Japan </p>
+
+Emails: bin262@gmail.com, binho@riec.tohoku.ac.jp
 
 [[CV](DrLeBinHo-CV.pdf)] [[Goolge Scholar](https://scholar.google.com/citations?user=jyPh9UcAAAAJ&hl=vi)]
 
