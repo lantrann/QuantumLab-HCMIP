@@ -29,7 +29,7 @@ Emails: <lantrann@gmail.com>, <tnlan@vast.hcmip.vn>
  2018 - 2020: Postdoc, Kindai University, Japan <br>
  2020 - 2022: JSPS postdoc, Tohoku University, Japan </p>
 
-Research topics: quantum computing and information, condesed-matter physics
+<ins>Research topics</ins>: quantum computing and information, condesed-matter physics
 
 Emails: <bin262@gmail.com>, <binho@riec.tohoku.ac.jp>
 
@@ -42,7 +42,7 @@ Emails: <bin262@gmail.com>, <binho@riec.tohoku.ac.jp>
 <p> 2018 - 2019: Ph.D. student, New Jersey Institute of Technology, United States <br>
 2019 - present: Ph.D. student, Central Michigan University, United States </p>
 
-Research topics: electronic structure, machine learning, computational chemistry
+<ins>Research topics</ins>: electronic structure, machine learning, computational chemistry
 
 Email: <hoamai6hh@gmail.com> 
 
@@ -54,7 +54,7 @@ Email: <hoamai6hh@gmail.com>
   
 2016 - present: Ph.D. student, Graduate University of Science and Technology, Vietnam
 
-Research topics: electronic structure, nanomagnetism, condensed-matter physics
+<ins>Research topics</ins>: electronic structure, nanomagnetism, condensed-matter physics
 
 Email: <nthoang@hcmip.vast.vn>
 
@@ -68,7 +68,7 @@ Email: <nthoang@hcmip.vast.vn>
   
 2013 - present: Ph.D. student, VNUHCM-University of Science, Vietnam
 
-Research topics: electronic structure, condensed-matter physics
+<ins>Research topics</ins>: electronic structure, condensed-matter physics
 
 #### <span style="color:black"> **Le Hoang Hai**  </span>
 
@@ -76,7 +76,7 @@ Research topics: electronic structure, condensed-matter physics
 
 Present: Pre-Ph.D. student, HCMIP-VAST, Vietna
 
-Research topics: electronic structure, condensed-matter physics
+<ins>Research topics</ins>: electronic structure, condensed-matter physics
 
 #### <span style="color:black"> **Le Trong Nhan**  </span>
 
@@ -84,7 +84,7 @@ Research topics: electronic structure, condensed-matter physics
   
 2017 - present: Undergrad student, VNUHCM-University of Science, Vietnam
 
-Research topics: electronic structure, condensed-matter physics, quantum computing
+<ins>Research topics</ins>: electronic structure, condensed-matter physics, quantum computing
   
 ### **Collaborators**
   [Prof. Takeshi Yanai, Nagoya University](https://www.iaqms.org/members/yanai.php)
