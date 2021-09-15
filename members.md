@@ -74,7 +74,7 @@ Email: <nthoang@hcmip.vast.vn>
 
 <img src="Hai2.jpg" width="150" height="150">
 
-Present: Pre-Ph.D. student, HCMIP-VAST, Vietna
+Present: Pre-Ph.D. student, HCMIP-VAST, Vietnam
 
 <ins>Research topics</ins>: electronic structure, condensed-matter physics
 
