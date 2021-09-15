@@ -6,7 +6,7 @@
 
 <hr style="solid blue">
 
-<b> <font size="4" color="green"> Electronic Structure Theory  </font> <b>
+<b> <font size="5" color="green"> Electronic Structure Theory  </font> <b>
 
  <p align="center">
  <img src="obmp2.png" width="200" height="160"> <img src="wgcas.jpg" width="200" height="150">
