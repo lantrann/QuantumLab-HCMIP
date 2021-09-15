@@ -49,6 +49,11 @@
 
   
   <b> <font size="5" color="green">  Machine Learning in Physics and Chemistry </font> </b> 
+  
+  <p align="center">
+ <img src="anncas.jpg" width="400" height="180">
+ </p>
+
 <details>
 <summary> <ins> more details </ins> </summary>  
 
@@ -78,6 +83,10 @@
 </details>
 
 <b> <font size="5" color="green">  Condensed-Matter Physics </font> </b> 
+ <p align="center">
+ <img src="tmrhu.jpg" width="500" height="180"> 
+  </p>
+
 <details>
 <summary> <ins> more details </ins> </summary>
   
