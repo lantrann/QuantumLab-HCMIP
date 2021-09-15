@@ -11,6 +11,10 @@
 <details>
 <summary> <b> <font size="4" color="green"> Electronic Structure Theory </font> </b> </summary>
 
+  <p align="center">
+ <img src="obmp2.png" width="200" height="160"> <img src="wgcas.jpg" width="200" height="150">
+ </p>
+
   <p> - Correlated one-body methods <br>
   
   - Many-body Green's function methods <br>
@@ -20,10 +24,6 @@
    - Excited-state methods <br>
    
    - Multi-configurational wave-function methods </p>
-
- <p align="center">
- <img src="obmp2.png" width="200" height="160"> <img src="wgcas.jpg" width="200" height="150">
- </p>
 
 </details>
 
@@ -56,6 +56,11 @@
 <details>
 <summary> <b> <font size="4" color="green">  Computational Quantum Chemistry </font> </b> </summary>  
 
+ <p align="center">
+ <img src="feox.jpg" width="250" height="150"> <img src="bnorr.png" width="230" height="150">
+ </p>
+
+  
   <p> - Transition metal complexes <br>
     
     - Photoinduced charge transfer <br>
