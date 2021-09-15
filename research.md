@@ -6,14 +6,14 @@
 
 <hr style="solid blue">
 
-*_Click on each topic to see more details_
+<b> <font size="4" color="green"> Electronic Structure Theory  </font> <b>
 
-<details>
-<summary> <b> <font size="4" color="green"> Electronic Structure Theory </font> </b> </summary>
-
-  <p align="center">
+ <p align="center">
  <img src="obmp2.png" width="200" height="160"> <img src="wgcas.jpg" width="200" height="150">
  </p>
+
+<details>
+<summary> <ins>more details</ins> </summary>
 
   <p> - Correlated one-body methods <br>
   
