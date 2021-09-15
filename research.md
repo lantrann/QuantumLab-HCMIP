@@ -63,7 +63,7 @@
 <b> <font size="5" color="green">  Computational Quantum Chemistry </font> </b> 
 
   <p align="center">
- <img src="feox.jpg" width="250" height="150"> <img src="bnorr.png" width="230" height="150">
+ <img src="feox.jpg" width="300" height="180"> <img src="bnorr.png" width="230" height="150">
  </p>
 
 
