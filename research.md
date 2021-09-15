@@ -79,7 +79,9 @@
     
     - Photoinduced charge transfer <br>
   
-  - Metal-free (photo)catalysis </p>
+  - Metal-free (photo)catalysis <br>
+  
+  - Molecular magnetism </p>
 </details>
 
 <b> <font size="5" color="green">  Condensed-Matter Physics </font> </b> 
