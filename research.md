@@ -48,7 +48,7 @@
 </details>
 
   
-  <b> <font size="5" color="green">  Machine Learning in Physics and Chemistry </font> </b> 
+  <b> <font size="5" color="green">  Machine Learning in Quantum Physics</font> </b> 
   
   <p align="center">
  <img src="anncas.jpg" width="400" height="180">
@@ -57,11 +57,11 @@
 <details>
 <summary> <ins> more details </ins> </summary>  
 
-  <p> - Representing quantum states using neural networks <br>
+  <p> - Neural network quantum states <br>
   
-  - Solving the Schrodinger equation using machine learning <br>
+  - Machine-learning quantum solvers <br>
   
-  - Machine learning for properties of molecules and materials </p>
+  - Electron density learning for prediction of properties </p>
 </details>
 
 
@@ -92,5 +92,7 @@
   
  <p> - Topological materials <br>
   
-  - Excitonic effects in materials </p>
+  - Excitonic effects in materials <br>
+  
+  - Quantum transport</p>
 </details>
