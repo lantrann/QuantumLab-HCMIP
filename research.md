@@ -20,12 +20,13 @@
    - Excited-state methods <br>
    
    - Multi-configurational wave-function methods </p>
- 
+
+ <p align="center">
+ <img src="obmp2.png" width="200" height="160"> <img src="wgcas.jpg" width="200" height="150">
+ </p>
+
 </details>
 
-<p align="center">
-<img src="obmp2.png" width="200" height="150"> <img src="wgcas.jpg" width="200" height="150">
-</p>
 
   
 
