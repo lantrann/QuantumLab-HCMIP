@@ -11,8 +11,8 @@
 <img src="Lan2.jpg" width="140" height="180">
 
 <p>2011 - 2014: Ph.D., The Graduate University for Advanced Studies, Japan<br>
-2015 - 2018: Postdoc, University of California, Berkeley, United States<br>
-2018 - 2021: Postdoc, University of Michigan, Ann Arbor, United States<br>
+2015 - 2018: Postdoc, The University of Michigan, Ann Arbor, United States<br>
+2018 - 2021: Postdoc, The University of California, Berkeley, United States<br>
 2021 - present: Researcher and Head of Department, HCMC Institute of Physics, Vietnam</p>
 
 Emails: <lantrann@gmail.com>, <tnlan@vast.hcmip.vn>
