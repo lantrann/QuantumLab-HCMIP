@@ -10,18 +10,18 @@
 ### **Preprints**
 > Lan Nguyen Tran, "Improving perturbation theory for open-shell molecules via self-consistency", [arXiv preprint arXiv:2107.11260](https://arxiv.org/abs/2107.11260), 2021
 <p align="center">
-<img src="TOC-jpca2021.jpg" width="420" height="300">
+<img src="TOC-jpca2021.jpg" width="350" height="260">
 </p>
 
 > Chuong Quoc Nguyen, <ins>Le Bin Ho</ins>, <ins>Lan Nguyen Tran</ins>, Hung Quoc Nguyen, "Qsun: an open-source platform towards practical quantum machine learning applications", [arXiv preprint arXiv:2107.10541](https://arxiv.org/abs/2107.10541), 2021
 <p align="center">
-<img src="qsun.png" width="350" height="280">
+<img src="qsun.png" width="300" height="230">
 </p>
 
 ### **Peer-reviewed papers**
 
 <p align="center">
-<img src="jpcl.jpg" width="180" height="250"> <img src="jctc.jpg" width="180" height="250"> <img src="jpd.jpg" width="180" height="250">  <img src="cpc.jpg" width="180" height="250">
+<img src="jpcl.jpg" width="150" height="220"> <img src="jctc.jpg" width="150" height="220"> <img src="jpd.jpg" width="150" height="220">  <img src="cpc.jpg" width="150" height="220">
 </p>
 
 #### <span style="color:black"> **2021** </span>
@@ -29,7 +29,7 @@
 
 > <ins> Le Bin Ho </ins>, Kieu Quang Tuan, and Hung Q Nguyen, "tqix: A toolbox for Quantum in X: Quantum measurement, quantum tomography, quantum metrology, and others", _Computer Physics Communications_ **263** 107902, 2021
 <p align="center">
-<img src="tqix.png" width="500" height="300">
+<img src="tqix.png" width="400" height="250">
 </p>
 
 > <ins> Nguyen Thanh Hoang </ins>, Nguyen Manh Tuan, "Investigation of Magnetic Properties of Magnetic Poly (glycidyl methacrylate) Microspheres: Experimental and Theoretical", _Advances in Materials Science and Engineering_ **Article ID 6676453**, 2021
