@@ -6,7 +6,7 @@
 
 <hr style="solid blue">
 
-<b> <font size="10" color="green"> Electronic Structure Theory  </font> <b>
+<b> <font size="5" color="green"> Electronic Structure Theory  </font> <b>
 
  <p align="center">
  <img src="obmp2.png" width="200" height="160"> <img src="wgcas.jpg" width="200" height="150">
@@ -29,7 +29,7 @@
 
 
   
-<b> <font size="10" color="green">  Quantum Computing and Information </font> </b>
+<b> <font size="5" color="green">  Quantum Computing and Information </font> </b>
   
  <p align="center">
  <img src="qmeas.jpg" width="180" height="150"> <img src="spincoh.jpg" width="200" height="150">
@@ -48,7 +48,7 @@
 </details>
 
   
-  <b> <font size="10" color="green">  Machine Learning in Physics and Chemistry </font> </b> 
+  <b> <font size="5" color="green">  Machine Learning in Physics and Chemistry </font> </b> 
 <details>
 <summary> <ins> more details </ins> </summary>  
 
@@ -60,7 +60,7 @@
 </details>
 
 
-<b> <font size="10" color="green">  Computational Quantum Chemistry </font> </b> 
+<b> <font size="5" color="green">  Computational Quantum Chemistry </font> </b> 
 
   <p align="center">
  <img src="feox.jpg" width="250" height="150"> <img src="bnorr.png" width="230" height="150">
@@ -77,7 +77,7 @@
   - Metal-free (photo)catalysis </p>
 </details>
 
-<b> <font size="10" color="green">  Condensed-Matter Physics </font> </b> 
+<b> <font size="5" color="green">  Condensed-Matter Physics </font> </b> 
 <details>
 <summary> <ins> more details </ins> </summary>
   
