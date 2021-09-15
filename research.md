@@ -10,8 +10,8 @@
 
 <details>
 <summary> <b> <font size="4" color="green"> Electronic Structure Theory </font> </b> </summary>
- <p>
-  - Correlated one-body methods <br>
+
+  <p> - Correlated one-body methods <br>
   
   - Many-body Green's function methods <br>
   
@@ -23,6 +23,11 @@
  
 </details>
 
+<p align="center">
+<img src="obmp2.png" width="200" height="150"> <img src="wgcas.jpg" width="200" height="150">
+</p>
+
+  
 
 <details>
 <summary> <b> <font size="4" color="green">  Quantum Computing and Information </font> </b> </summary>  
