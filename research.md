@@ -47,8 +47,10 @@
   - Quantum dynamics of multipartite entanglement </p>
 </details>
 
+  
+  <b> <font size="10" color="green">  Machine Learning in Physics and Chemistry </font> </b> 
 <details>
-<summary> <b> <font size="4" color="green">  Machine Learning in Physics and Chemistry </font> </b> </summary>  
+<summary> <ins> more details </ins> </summary>  
 
   <p> - Representing quantum states using neural networks <br>
   
@@ -58,13 +60,15 @@
 </details>
 
 
-<details>
-<summary> <b> <font size="4" color="green">  Computational Quantum Chemistry </font> </b> </summary>  
+<b> <font size="10" color="green">  Computational Quantum Chemistry </font> </b> 
 
- <p align="center">
+  <p align="center">
  <img src="feox.jpg" width="250" height="150"> <img src="bnorr.png" width="230" height="150">
  </p>
 
+
+<details>
+<summary> <ins> more details </ins> </summary>  
   
   <p> - Transition metal complexes <br>
     
@@ -73,9 +77,9 @@
   - Metal-free (photo)catalysis </p>
 </details>
 
-
+<b> <font size="10" color="green">  Condensed-Matter Physics </font> </b> 
 <details>
-<summary> <b> <font size="4" color="green">  Condensed-Matter Physics </font> </b> </summary>
+<summary> <ins> more details </ins> </summary>
   
  <p> - Topological materials <br>
   
