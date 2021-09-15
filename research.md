@@ -6,7 +6,7 @@
 
 <hr style="solid blue">
 
-<b> <font size="5" color="green"> Electronic Structure Theory  </font> <b>
+<b> <font size="10" color="green"> Electronic Structure Theory  </font> <b>
 
  <p align="center">
  <img src="obmp2.png" width="200" height="160"> <img src="wgcas.jpg" width="200" height="150">
@@ -29,9 +29,14 @@
 
 
   
-
+<b> <font size="10" color="green">  Quantum Computing and Information </font> </b>
+  
+ <p align="center">
+ <img src="qmeas.jpg" width="180" height="150"> <img src="spincoh.jpg" width="200" height="150">
+ </p>
+  
 <details>
-<summary> <b> <font size="4" color="green">  Quantum Computing and Information </font> </b> </summary>  
+<summary> <ins>more details</ins>  </summary>  
 
   <p> - Variational quantum eigensolvers <br>
     
