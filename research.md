@@ -60,6 +60,8 @@
 
   <p> - Neural network quantum states <br>
   
+    - Machine-learning quantum tomography <br>
+    
   - Machine-learning quantum solvers <br>
   
   - Electron-density learning </p>
