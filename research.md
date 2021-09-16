@@ -61,7 +61,7 @@
   
   - Machine-learning quantum solvers <br>
   
-  - Electron density learning for prediction of properties </p>
+  - Electron-density learning </p>
 </details>
 
 
