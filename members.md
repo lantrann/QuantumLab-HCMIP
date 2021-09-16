@@ -62,14 +62,6 @@ Email: <nthoang@hcmip.vast.vn>
 
 ### **Students**
 
-#### <span style="color:black"> **Le Van Tan** </span>
-
-<img src="Tan2.jpg" width="150" height="150">
-  
-2013 - present: Ph.D. student, VNUHCM-University of Science, Vietnam
-
-<ins>Research topics</ins>: electronic structure, condensed-matter physics
-
 #### <span style="color:black"> **Le Hoang Hai**  </span>
 
 <img src="Hai2.jpg" width="150" height="150">
