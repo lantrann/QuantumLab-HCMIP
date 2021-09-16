@@ -36,15 +36,16 @@
  </p>
   
 <details>
-<summary> <ins>active topics</ins>  </summary>  
-
-  <p> - Variational quantum eigensolvers <br>
-    
-    - Hybrid quantum-classical frameworks <br>
+<summary> <ins> active topics </ins>  </summary>  
   
-  - Quantum metrology and measurement <br>
+  <p> - Quantum metrology and measurement <br>
   
-  - Quantum dynamics of multipartite entanglement </p>
+  - Multipartite entanglement in open systems <br>
+   
+   - Quantum solvers for electronic structure <br>
+   
+   - Hybrid quantum-classical frameworks </p>
+ 
 </details>
 
   
@@ -77,13 +78,11 @@
   
   <p> - Transition metal complexes <br>
     
-    - Photoinduced charge transfer <br>
-  
-  - Metal-free (photo)catalysis <br>
+     - Metal-free (photo)catalysis <br>
     
-    - Non-covalent compounds <br>
+     - Non-covalent compounds <br>
   
-  - Molecular magnetism </p>
+      - Molecular magnetism </p>
 </details>
 
 <b> <font size="5" color="green">  Condensed-Matter Physics </font> </b> 
