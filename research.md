@@ -13,7 +13,7 @@
  </p>
 
 <details>
-<summary> <ins>more details</ins> </summary>
+<summary> <ins>active topics</ins> </summary>
 
   <p> - Correlated one-body methods <br>
   
@@ -36,7 +36,7 @@
  </p>
   
 <details>
-<summary> <ins>more details</ins>  </summary>  
+<summary> <ins>active topics</ins>  </summary>  
 
   <p> - Variational quantum eigensolvers <br>
     
@@ -55,7 +55,7 @@
  </p>
 
 <details>
-<summary> <ins> more details </ins> </summary>  
+<summary> <ins> active topics </ins> </summary>  
 
   <p> - Neural network quantum states <br>
   
@@ -73,13 +73,15 @@
 
 
 <details>
-<summary> <ins> more details </ins> </summary>  
+<summary> <ins> active topics </ins> </summary>  
   
   <p> - Transition metal complexes <br>
     
     - Photoinduced charge transfer <br>
   
   - Metal-free (photo)catalysis <br>
+    
+    - Non-covalent compounds <br>
   
   - Molecular magnetism </p>
 </details>
@@ -90,7 +92,7 @@
   </p>
 
 <details>
-<summary> <ins> more details </ins> </summary>
+<summary> <ins> active topics </ins> </summary>
   
  <p> - Topological materials <br>
   
