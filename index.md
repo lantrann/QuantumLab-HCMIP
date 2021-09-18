@@ -1,4 +1,4 @@
-<p align="center" style="font-family: lucida handwriting">
+<p align="center" style="font-family: lucida handwriting; font-size:10pt">
 "When you change the way you look at things, the things you look at change" – Max Planck
 </p>
 
