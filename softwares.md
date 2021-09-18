@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="font-family: lucida handwriting; font-size:10pt">
 "First, solve the problem. Then, write the code." – John Johnson
 </p>
 
