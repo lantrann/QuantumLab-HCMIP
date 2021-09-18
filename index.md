@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="font-family: times">
 "When you change the way you look at things, the things you look at change" – Max Planck
 </p>
 
