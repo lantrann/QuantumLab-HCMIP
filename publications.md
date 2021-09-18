@@ -1,5 +1,6 @@
-<p align="center">
-"Either write something worth reading or do something worth writing." - Benjamin Franklin</p>
+<p align="center" style="font-family: lucida handwriting; font-size:10pt">
+"Either write something worth reading or do something worth writing." - Benjamin Franklin
+</p>
 
 <hr style="solid blue">
 
