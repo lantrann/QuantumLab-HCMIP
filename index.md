@@ -16,7 +16,7 @@ _We are a Theoretical and Computational Lab at [Ho Chi Minh City Insitute of Phy
 
 
 ### **News**
-> <span style="background-color:cyan"> We are looking for talented and enthusiastic students. Please contact Lan [<tnlan@hcmip.vast.vn>] or Bin Ho [<binho@riec.tohoku.ac.jp>] if you are interested in joining us! </b> </span>
+> <span style="background-color:cyan"> We are looking for talented and enthusiastic students. Please contact us (Lan at <tnlan@hcmip.vast.vn> or Bin Ho at <binho@riec.tohoku.ac.jp>) if you are interested in joining us! </span>
 
 > Our manuscript on the unrestricted version of OBMP2 is now on arXiv: [arXiv:2107.11260](https://arxiv.org/abs/2107.11260)
 
