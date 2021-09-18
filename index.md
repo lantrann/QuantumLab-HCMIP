@@ -3,7 +3,7 @@
 </p>
 
 
-## <span style="background-color:black" style="color:white">  [<ins>Home</ins>](index.md)<img src="test_space.png" width="30" height="1">[Members](members.md)<img src="test_space.png" width="30" height="1">[Research](research.md)<img src="test_space.png" width="30" height="1">[Publications](publications.md)<img src="test_space.png" width="30" height="1">[Courses](courses.md)<img src="test_space.png" width="30" height="1">[Softwares](softwares.md) </span>
+## <span style="background-color:black color:white">  [<ins>Home</ins>](index.md)<img src="test_space.png" width="30" height="1">[Members](members.md)<img src="test_space.png" width="30" height="1">[Research](research.md)<img src="test_space.png" width="30" height="1">[Publications](publications.md)<img src="test_space.png" width="30" height="1">[Courses](courses.md)<img src="test_space.png" width="30" height="1">[Softwares](softwares.md) </span>
 
 _We are a Theoretical and Computational Lab at [Ho Chi Minh City Insitute of Physics](http://hcmip.ac.vn/index-en.html) (HCMIP), [Vietnam Academy of Science and Technology](https://vast.gov.vn/) (VAST). We conduct a variety of research topics in quantum physics and chemistry. Please see our [research page](research.md) for more details!_
 
