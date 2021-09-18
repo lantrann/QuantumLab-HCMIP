@@ -1,6 +1,8 @@
 <p align="center">
 "Either write something worth reading or do something worth writing." - Benjamin Franklin</p>
 
+<hr style="solid blue">
+
 ## [Home](index.md)<img src="test_space.png" width="30" height="1">[Members](members.md)<img src="test_space.png" width="30" height="1">[Research](research.md)<img src="test_space.png" width="30" height="1">[<ins>Publications</ins>](publications.md)<img src="test_space.png" width="30" height="1">[Courses](courses.md)<img src="test_space.png" width="30" height="1">[Softwares](softwares.md)
 
 <hr style="solid blue">
