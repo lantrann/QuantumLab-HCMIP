@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="font-family: lucida handwriting; font-size:10pt">
 "Alone we can do so little; together we can do so much." – Helen Keller
 </p>
 
