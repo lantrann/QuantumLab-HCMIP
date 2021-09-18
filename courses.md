@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="font-family: lucida handwriting; font-size:10pt">
  "Teaching is the highest form of understanding." – Aristotle
 </p>
 
