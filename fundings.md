@@ -14,7 +14,7 @@
 </p>
 
 #### <b>HCMC Insitute of Physics (HCMIP) </b>
-We are constantly supported by our home!
+We are constantly supported by our Home!
 
 #### <b> Vietnam Academy of Science and Technology (VAST) </b>
 We will be funded by VAST via a Program for Young Researchers: 2022 - 2023.
