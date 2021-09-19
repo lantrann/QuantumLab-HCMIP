@@ -21,6 +21,6 @@ We will be funded by VAST via a Program for Young Researchers: 2022 - 2023.
 #### [National Foundation for Science and Technology Development (NAFOSTED)](https://nafosted.gov.vn/)
 Most of our research works at HCMIP have been funded by NAFOSTED: 2012 - 2014 , 2016 - 2018.
 
-<img src="nft.png" width="350" height="120">
+<img src="nft.png" width="320" height="100">
 
 
