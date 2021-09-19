@@ -41,12 +41,12 @@
 <summary> <ins> active topics </ins>  </summary>  
   
   <p> - Quantum metrology and measurement <br>
-  
-  - Multipartite entanglement in open systems <br>
+     
+   - Quantum computing algorithms <br>
    
-   - Quantum solvers for electronic structure <br>
-   
-   - Hybrid quantum-classical frameworks </p>
+   - Hybrid quantum-classical frameworks <br>
+    
+    - Quantum computing softwares </p>
  
 </details>
 
@@ -69,7 +69,28 @@
   - Electron-density learning </p>
 </details>
 
+  
+  
+ <b> <font size="5" color="green">  Foundation of Quantum Mechanics</font> </b> 
+  
+  <p align="center">
+ <img src="FQM1.jpg" width="200" height="100"><img src="FQM2.jpg" width="200" height="100">
+ </p>
 
+<details>
+<summary> <ins> active topics </ins> </summary>  
+
+  <p> - Two-state vector formalism <br>
+  
+    - Weak values and modular values <br>
+    
+  - Quantum uncertainty <br>
+  
+  -  Multipartite entanglement in open systems </p>
+</details>
+
+  
+  
 <b> <font size="5" color="green">  Computational Quantum Chemistry </font> </b> 
 
   <p align="center">
