@@ -4,7 +4,7 @@
 
 <hr style="solid blue">
 
-### [<ins>Home</ins>](index.md)<img src="test_space.png" width="20" height="1">[Members](members.md)<img src="test_space.png" width="20" height="1">[Research](research.md)<img src="test_space.png" width="20" height="1">[Publications](publications.md)<img src="test_space.png" width="20" height="1">[Courses](courses.md)<img src="test_space.png" width="20" height="1">[Softwares](softwares.md)<img src="test_space.png" width="20" height="1">[Fundings](fundings.md)
+### [<b><ins>Home</ins></b>](index.md)<img src="test_space.png" width="20" height="1">[Members](members.md)<img src="test_space.png" width="20" height="1">[Research](research.md)<img src="test_space.png" width="20" height="1">[Publications](publications.md)<img src="test_space.png" width="20" height="1">[Courses](courses.md)<img src="test_space.png" width="20" height="1">[Softwares](softwares.md)<img src="test_space.png" width="20" height="1">[Fundings](fundings.md)
 
 <hr style="solid blue">
 
