@@ -41,12 +41,12 @@
 <summary> <ins> active topics </ins>  </summary>  
   
   <p> - Quantum metrology and measurement <br>
-     
-   - Quantum computing algorithms <br>
-   
-   - Hybrid quantum-classical frameworks <br>
-    
-    - Quantum computing softwares </p>
+        
+     - Hybrid quantum-classical frameworks <br>
+
+     - Quantum computing algorithms <br>
+
+     - Quantum computing softwares </p>
  
 </details>
 
