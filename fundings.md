@@ -4,7 +4,7 @@
 
 <hr style="solid blue">
 
-### [<b>Home</b>](index.md)<img src="test_space.png" width="29" height="1">[<b>Members</b>](members.md)<img src="test_space.png" width="29" height="1">[<b>Research</b>](research.md)<img src="test_space.png" width="29" height="1">[<b>Publications</b>](publications.md)<img src="test_space.png" width="29" height="1">[<b>Courses</b>](courses.md)<img src="test_space.png" width="29" height="1">[<b>Softwares</b>](softwares.md)<img src="test_space.png" width="29" height="1">[<b><ins>Funding</ins></b>](fundings.md)
+### [<b>Home</b>](index.md)<img src="test_space.png" width="30" height="1">[<b>Members</b>](members.md)<img src="test_space.png" width="30" height="1">[<b>Research</b>](research.md)<img src="test_space.png" width="30" height="1">[<b>Publications</b>](publications.md)<img src="test_space.png" width="30" height="1">[<b>Courses</b>](courses.md)<img src="test_space.png" width="30" height="1">[<b>Softwares</b>](softwares.md)<img src="test_space.png" width="30" height="1">[<b><ins>Funding</ins></b>](fundings.md)
 
 <hr style="solid blue">
 
@@ -20,4 +20,4 @@ We are constantly supported by our home!
 We will be funded by VAST via a Program for Young Researchers: 2022 - 2023.
 
 #### <b> National Foundation for Science and Technology Development (NAFOSTED) </b>
-Most of our research works at HCMIP have been funded by NAFOSTED: 2012 - 2014 , 2016 - 2018.
+Most our research works at HCMIP have been funded by NAFOSTED: 2012 - 2014 , 2016 - 2018.
