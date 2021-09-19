@@ -13,14 +13,14 @@
 <img src="nft.png" width="320" height="100">
 </p>
 
-[<b>HCMC Insitute of Physics (HCMIP)</b>](http://hcmip.ac.vn/intro-en.html)
+HCMC Insitute of Physics (HCMIP)
 
-We are constantly supported by our home insitute!
+We are constantly supported by our home!
 
-[<b>Vietnam Academy of Science and Technology (VAST)</b>](https://vast.gov.vn/)
+Vietnam Academy of Science and Technology (VAST)
 
 We will be funded by VAST via a Program for Young Researchers: 2022 - 2023.
 
-[<b>National Foundation for Science and Technology Development (NAFOSTED)</b>](https://nafosted.gov.vn/)
+National Foundation for Science and Technology Development (NAFOSTED)
 
 Most of our research works at HCMIP have been funded by NAFOSTED: 2012 - 2014 , 2016 - 2018.
