@@ -68,7 +68,7 @@ Email: <nthoang@hcmip.vast.vn>
 
 <img src="Hai2.jpg" width="150" height="150">
 
-Present: Pre-Ph.D. student, HCMIP-VAST, Vietnam
+Pre-Ph.D. student, HCMIP-VAST, Vietnam
 
 <ins>Research topics</ins>: electronic structure, condensed-matter physics
 
@@ -76,7 +76,7 @@ Present: Pre-Ph.D. student, HCMIP-VAST, Vietnam
 
 <img src="Nhan.jpg" width="120" height="150">
   
-2017 - present: Undergrad student, VNUHCM-University of Science, Vietnam
+Undergrad student, VNUHCM-University of Science, Vietnam
 
 <ins>Research topics</ins>: electronic structure, condensed-matter physics, quantum computing
 
@@ -85,7 +85,7 @@ Present: Pre-Ph.D. student, HCMIP-VAST, Vietnam
 
 <img src="Hai2.jpg" width="150" height="150">
 
-Present: M.Sc. student, Vietnamese-German University, Vietnam
+M.Sc. student, Vietnamese-German University, Vietnam
 
 <ins>Research topics</ins>: quantum computing, machine learning
 
@@ -93,7 +93,7 @@ Present: M.Sc. student, Vietnamese-German University, Vietnam
 
 <img src="Hai2.jpg" width="150" height="150">
 
-Present: undergrad. student, The University of California, Santa Barbara
+Undergrad. student, The University of California, Santa Barbara
 
 <ins>Research topics</ins>: quantum computing and information
 
