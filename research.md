@@ -54,7 +54,7 @@
   <b> <font size="5" color="green">  Machine Learning in Quantum Physics</font> </b> 
   
   <p align="center">
- <img src="anncas.jpg" width="400" height="180">
+ <img src="pic.jpg" width="200" height="180"> <img src="anncas.jpg" width="400" height="180">
  </p>
 
 <details>
