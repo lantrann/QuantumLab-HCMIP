@@ -74,7 +74,7 @@
  <b> <font size="5" color="green">  Foundation of Quantum Mechanics</font> </b> 
   
   <p align="center">
- <img src="FQM1.jpg" width="200" height="100"><img src="FQM2.jpg" width="200" height="100">
+ <img src="FQM1.png" width="300" height="150"><img src="FQM2.png" width="300" height="150">
  </p>
 
 <details>
