@@ -14,13 +14,10 @@
 </p>
 
 #### HCMC Insitute of Physics (HCMIP)
-
 We are constantly supported by our home!
 
 #### Vietnam Academy of Science and Technology (VAST)
-
 We will be funded by VAST via a Program for Young Researchers: 2022 - 2023.
 
 #### National Foundation for Science and Technology Development (NAFOSTED)
-
 Most of our research works at HCMIP have been funded by NAFOSTED: 2012 - 2014 , 2016 - 2018.
