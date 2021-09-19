@@ -79,7 +79,25 @@ Present: Pre-Ph.D. student, HCMIP-VAST, Vietnam
 2017 - present: Undergrad student, VNUHCM-University of Science, Vietnam
 
 <ins>Research topics</ins>: electronic structure, condensed-matter physics, quantum computing
-  
+
+### **Affiliated students**
+#### <span style="color:black"> **Nguyen Quoc Chuong**  </span>
+
+<img src="Hai2.jpg" width="150" height="150">
+
+Present: M.Sc. student, Vietnamese-German University, Vietnam
+
+<ins>Research topics</ins>: quantum computing, machine learning
+
+#### <span style="color:black"> **Kien Le**  </span>
+
+<img src="Hai2.jpg" width="150" height="150">
+
+Present: undergrad. student, The University of California, Santa Barbara
+
+<ins>Research topics</ins>: quantum computing and information
+
+
 ### **Collaborators**
   [Prof. Takeshi Yanai, Nagoya University](https://www.iaqms.org/members/yanai.php)
 
