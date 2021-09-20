@@ -8,20 +8,17 @@
 
 <hr style="solid blue">
 
->> [Electronic Structure Theory](#ES)
+[>> Electronic Structure Theory](#ES)
 
->> [Quantum Computing and Information](#QCI)
+[>>  Quantum Computing and Information](#QCI)
 
->> [Machine Learning in Quantum Physics](#MLQP)
+[>>  Machine Learning in Quantum Physics](#MLQP)
 
->> [Foundation of Quantum Mechanics](#FQM)
+[>>  Foundation of Quantum Mechanics](#FQM)
 
->> [Computational Quantum Chemistry](#CQC)
+[>> Computational Quantum Chemistry](#CQC)
 
->> [Condensed-Matter Physics](#CMP)
-
-
-
+[>> Condensed-Matter Physics](#CMP)
 
 <a name="ES"> <b> <font size="5" color="green"> Electronic Structure Theory  </font> <b> </a>
 
