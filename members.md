@@ -8,7 +8,7 @@
 
 <hr style="solid blue">
 
-[>> Principle Investigators](#PIs)
+[>> Principal Investigators](#PIs)
 
 [>> HCMIP Researchers](#staffs)
 
