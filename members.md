@@ -8,15 +8,15 @@
 
 <hr style="solid blue">
 
-[Principle Investigators](#PIs)
+[>>> Principle Investigators](#PIs)
 
-[HCMIP Researchers](#staffs)
+[>>> HCMIP Researchers](#staffs)
 
-[Students](#students)
+[>>> Students](#students)
 
-[Affiliated Members](#affmems)
+[>>> Affiliated Members](#affmems)
 
-[Collaborators](#colla)
+[>>> Collaborators](#colla)
 
 
 ### <a name="PIs"> <b> Principal Investigators</b></a>  
