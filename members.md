@@ -41,6 +41,8 @@
 
 Emails: <lantrann@gmail.com>, <tnlan@vast.hcmip.vn>
 
+<ins>Research topics</ins>: quantum ...
+
 [[CV](LanTran_CV_0421.pdf)] [[Goolge Scholar](https://scholar.google.com/citations?user=fatZlQ0AAAAJ&hl=vi)]
 
 
