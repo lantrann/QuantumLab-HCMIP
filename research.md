@@ -8,7 +8,22 @@
 
 <hr style="solid blue">
 
-<b> <font size="5" color="green"> Electronic Structure Theory  </font> <b>
+>> [Electronic Structure Theory](#ES)
+
+>> [Quantum Computing and Information](#QCI)
+
+>> [Machine Learning in Quantum Physics](#MLQP)
+
+>> [Foundation of Quantum Mechanics](#FQM)
+
+>> [Computational Quantum Chemistry](#CQC)
+
+>> [Condensed-Matter Physics](#CMP)
+
+
+
+
+<a name="ES"> <b> <font size="5" color="green"> Electronic Structure Theory  </font> <b> </a>
 
  <p align="center">
  <img src="obmp2.png" width="200" height="160"> <img src="wgcas.jpg" width="200" height="150">
@@ -31,7 +46,7 @@
 
 
   
-<b> <font size="5" color="green">  Quantum Computing and Information </font> </b>
+<a name="QCI"> <b> <font size="5" color="green">  Quantum Computing and Information </font> </b> </a>
   
  <p align="center">
  <img src="qmeas.jpg" width="180" height="150"> <img src="spincoh.jpg" width="200" height="150">
@@ -51,7 +66,7 @@
 </details>
 
   
-  <b> <font size="5" color="green">  Machine Learning in Quantum Physics</font> </b> 
+  <a name="MLQP"> <b> <font size="5" color="green">  Machine Learning in Quantum Physics</font> </b> </a>
   
   <p align="center">
  <img src="pic.jpg" width="200" height="180"> <img src="anncas.jpg" width="400" height="180">
@@ -71,7 +86,7 @@
 
   
   
- <b> <font size="5" color="green">  Foundation of Quantum Mechanics</font> </b> 
+ <a name="FQM">  <b> <font size="5" color="green">  Foundation of Quantum Mechanics</font> </b> </a>
   
   <p align="center">
  <img src="FQM1.png" width="300" height="150"><img src="FQM2.png" width="300" height="150">
@@ -91,7 +106,7 @@
 
   
   
-<b> <font size="5" color="green">  Computational Quantum Chemistry </font> </b> 
+<a name="CQC">  <b> <font size="5" color="green">  Computational Quantum Chemistry </font> </b> </a>
 
   <p align="center">
  <img src="feox.jpg" width="300" height="180"> <img src="bnorr.png" width="230" height="150">
@@ -110,7 +125,7 @@
       - Molecular magnetism </p>
 </details>
 
-<b> <font size="5" color="green">  Condensed-Matter Physics </font> </b> 
+<a name="CMP">  <b> <font size="5" color="green">  Condensed-Matter Physics </font> </b> </a>
  <p align="center">
  <img src="tmrhu.jpg" width="500" height="180"> 
   </p>
