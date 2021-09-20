@@ -80,7 +80,7 @@ Undergrad student, VNUHCM-University of Science, Vietnam
 
 <ins>Research topics</ins>: electronic structure, condensed-matter physics, quantum computing
 
-### **Affiliated students**
+### **Affiliated members**
 #### <span style="color:black"> **Nguyen Quoc Chuong**  </span>
 
 <img src="Hai2.jpg" width="150" height="150">
