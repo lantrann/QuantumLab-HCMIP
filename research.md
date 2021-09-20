@@ -20,7 +20,7 @@
 
 [>> Condensed-Matter Physics](#CMP)
 
-<a name="ES"> <b> <font size="5" color="green"> Electronic Structure Theory  </font> <b> </a>
+<a name="ES"> <b> <font size="5" color="green"> Electronic Structure Theory  </font> </b> </a>
 
  <p align="center">
  <img src="obmp2.png" width="200" height="160"> <img src="wgcas.jpg" width="200" height="150">
