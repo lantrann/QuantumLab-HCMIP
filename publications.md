@@ -10,6 +10,10 @@
 
 *_HCMIP affiliation only, visit Google Scholar profile of [each member](members.md) for more._
 
+<p align="center">
+<img src="jpcl.jpg" width="150" height="220"> <img src="jctc.jpg" width="150" height="220"> <img src="jpd.jpg" width="150" height="220">  <img src="cpc.jpg" width="150" height="220">
+</p>
+
 ### **Preprints**
 > Lan Nguyen Tran, "Improving perturbation theory for open-shell molecules via self-consistency", [arXiv preprint arXiv:2107.11260](https://arxiv.org/abs/2107.11260), 2021
 <p align="center">
@@ -22,10 +26,6 @@
 </p>
 
 ### **Peer-reviewed papers**
-
-<p align="center">
-<img src="jpcl.jpg" width="150" height="220"> <img src="jctc.jpg" width="150" height="220"> <img src="jpd.jpg" width="150" height="220">  <img src="cpc.jpg" width="150" height="220">
-</p>
 
 #### <span style="color:black"> **2021** </span>
 > Kieu Quang Tuan, Hung Q Nguyen, and <ins>Le Bin Ho</ins>, "Direct state measurements under state-preparation-and-measurement errors", _Quantum Information Processing_ **20**, 197, 2021
