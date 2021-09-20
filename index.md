@@ -10,6 +10,25 @@
 
 _We are a Theoretical and Computational Quantum Lab at [Ho Chi Minh City Insitute of Physics](http://hcmip.ac.vn/index-en.html) (HCMIP), [Vietnam Academy of Science and Technology](https://vast.gov.vn/) (VAST). We conduct a variety of research topics in quantum physics and chemistry. Please see our [research page](research.md) for more details!_
 
+
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+    <div style="display: inline-block;">
+        <h2>Good</h2>
+        <pre><code class="language-c">int foo (void) 
+{
+    int i;
+}
+</code></pre>
+    </div>
+    <div style="display: inline-block;">
+        <h2>Bad</h2>
+        <pre><code class="language-c">int foo (void) {
+    int i;
+}
+</code></pre>
+    </div>
+</div>
+
 <p align="center">
 <img src="home.png" width="500" height="350">
 </p>
