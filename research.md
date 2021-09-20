@@ -8,6 +8,8 @@
 
 <hr style="solid blue">
 
+We are conducting a variety of research topics in quantum physics and chemistry. Please contact us if you are interested in joining us or a collaboration!
+
 [>> Electronic Structure Theory](#ES)
 
 [>>  Quantum Computing and Information](#QCI)
