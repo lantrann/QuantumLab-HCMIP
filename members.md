@@ -21,7 +21,6 @@
 <a name="PIs">
   
 ### **Principal Investigators**  
-
 </a>  
 
 #### <span style="color:black"> **Tran Nguyen Lan** </span> 
@@ -38,8 +37,7 @@ Emails: <lantrann@gmail.com>, <tnlan@vast.hcmip.vn>
 
 <a name="staffs">
 
-### **HCMIP Researchers**
-  
+### **HCMIP Researchers**  
 </a>  
 
 #### <span style="color:black"> **Le Bin Ho** (on leave) </span> 
