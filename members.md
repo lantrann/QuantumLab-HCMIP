@@ -82,7 +82,7 @@ Email: <hoamai6hh@gmail.com>
   
 2016 - present: Ph.D. student, Graduate University of Science and Technology, Vietnam
 
-<ins>Research topics</ins>: electronic structure, nanomagnetism, condensed-matter physics
+<ins>Research topics</ins>: computational chemistry, nanomagnetism, condensed-matter physics
 
 Email: <nthoang@hcmip.vast.vn>
 
@@ -98,7 +98,7 @@ Email: <nthoang@hcmip.vast.vn>
 
 Pre-Ph.D. student, HCMIP-VAST, Vietnam
 
-<ins>Research topics</ins>: electronic structure, condensed-matter physics
+<ins>Research topics</ins>: electronic structure, computational chemistry
 
 #### <span style="color:black"> **Le Trong Nhan**  </span>
 
