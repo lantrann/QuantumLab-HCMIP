@@ -19,7 +19,7 @@
 [Collaborators](#colla)
 
 
-### <a name="PIs"> <b> Principal Investigators </b> </a>  
+### <a name="PIs"> <b> Principal Investigators</b></a>  
 
 #### <span style="color:black"> **Tran Nguyen Lan** </span> 
 <img src="Lan2.jpg" width="140" height="180">
