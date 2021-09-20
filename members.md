@@ -35,7 +35,7 @@ Emails: <lantrann@gmail.com>, <tnlan@vast.hcmip.vn>
 
 
 
-### <a name="staffs"> <b> HCMIP Researchers**  </b> </a>  
+### <a name="staffs"> <b> HCMIP Researchers </b> </a>  
 
 #### <span style="color:black"> **Le Bin Ho** (on leave) </span> 
 
@@ -97,7 +97,7 @@ Undergrad student, VNUHCM-University of Science, Vietnam
 <ins>Research topics</ins>: electronic structure, condensed-matter physics, quantum computing
 
   
-### <a name="affmems"> Affiliated Members </b> </a>
+### <a name="affmems"> <b> Affiliated Members </b> </a>
 
 #### <span style="color:black"> **Nguyen Quoc Chuong**  </span>
 
