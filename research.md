@@ -136,5 +136,7 @@ We are conducting a variety of research topics in quantum physics and chemistry.
   
   - Excitonic effects in materials <br>
   
-  - Quantum transport</p>
+  - Quantum transport <br>
+  
+  - Strongly correlated materials</p>
 </details>
