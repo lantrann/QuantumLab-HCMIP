@@ -18,10 +18,8 @@
 
 [Collaborators](#colla)
 
-<a name="PIs">
-  
-### **Principal Investigators**  
-</a>  
+
+### <a name="PIs"> <b> Principal Investigators </b> </a>  
 
 #### <span style="color:black"> **Tran Nguyen Lan** </span> 
 <img src="Lan2.jpg" width="140" height="180">
@@ -35,10 +33,9 @@ Emails: <lantrann@gmail.com>, <tnlan@vast.hcmip.vn>
 
 [[CV](LanTran_CV_0421.pdf)] [[Goolge Scholar](https://scholar.google.com/citations?user=fatZlQ0AAAAJ&hl=vi)]
 
-<a name="staffs">
 
-### **HCMIP Researchers**  
-</a>  
+
+### <a name="staffs"> <b> HCMIP Researchers**  </b> </a>  
 
 #### <span style="color:black"> **Le Bin Ho** (on leave) </span> 
 
@@ -79,10 +76,9 @@ Email: <nthoang@hcmip.vast.vn>
 
 [[CV](NguyenThanhHoang-CV.pdf)]
 
-<a name="staffs">
+
   
-### **Students**
-</a>
+### <a name="students"> <b> Students </b> </a>
   
 #### <span style="color:black"> **Le Hoang Hai**  </span>
 
@@ -100,10 +96,8 @@ Undergrad student, VNUHCM-University of Science, Vietnam
 
 <ins>Research topics</ins>: electronic structure, condensed-matter physics, quantum computing
 
-<a name="affmems">
   
-### **Affiliated Members** 
-</a>
+### <a name="affmems"> Affiliated Members </b> </a>
 
 #### <span style="color:black"> **Nguyen Quoc Chuong**  </span>
 
@@ -121,10 +115,7 @@ Undergrad. student, The University of California, Santa Barbara
 
 <ins>Research topics</ins>: quantum computing and information
 
-<a name="colla">
-
-### **Collaborators**  
-</a>
+### <a name="colla"> <b> Collaborators </b> </a>
   
   [Prof. Takeshi Yanai, Nagoya University](https://www.iaqms.org/members/yanai.php)
 
