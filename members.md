@@ -82,7 +82,6 @@ Email: <nthoang@hcmip.vast.vn>
 <a name="staffs">
   
 ### **Students**
-
 </a>
   
 #### <span style="color:black"> **Le Hoang Hai**  </span>
@@ -103,8 +102,7 @@ Undergrad student, VNUHCM-University of Science, Vietnam
 
 <a name="affmems">
   
-### **Affiliated Members**
-  
+### **Affiliated Members** 
 </a>
 
 #### <span style="color:black"> **Nguyen Quoc Chuong**  </span>
@@ -125,8 +123,7 @@ Undergrad. student, The University of California, Santa Barbara
 
 <a name="colla">
 
-### **Collaborators**
-  
+### **Collaborators**  
 </a>
   
   [Prof. Takeshi Yanai, Nagoya University](https://www.iaqms.org/members/yanai.php)
