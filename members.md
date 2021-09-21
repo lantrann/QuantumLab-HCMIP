@@ -18,11 +18,11 @@
 
 <hr style="solid blue">
 
-##### [>> Principal Investigators](#PIs)
-##### [>> HCMIP Researchers](#staffs)
-##### [>> Students](#students)
-##### [>> Affiliated Members](#affmems)
-##### [>> Collaborators](#colla)
+[>> Principal Investigators](#PIs)
+[>> HCMIP Researchers](#staffs)
+[>> Students](#students)
+[>> Affiliated Members](#affmems)
+[>> Collaborators](#colla)
 
 
 ### <a name="PIs"> <b> Principal Investigators</b></a>  
