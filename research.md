@@ -11,17 +11,12 @@
 
 We are conducting a variety of research topics in quantum physics and chemistry. Please contact us if you are interested in joining us or a collaboration!
 
-[>> Electronic Structure Theory](#ES)
-
-[>>  Quantum Computing and Information](#QCI)
-
-[>>  Machine Learning in Quantum Physics](#MLQP)
-
-[>>  Foundation of Quantum Mechanics](#FQM)
-
-[>> Computational Quantum Chemistry](#CQC)
-
-[>> Condensed-Matter Physics](#CMP)
+##### [>> Electronic Structure Theory](#ES)
+##### [>>  Quantum Computing and Information](#QCI)
+##### [>>  Machine Learning in Quantum Physics](#MLQP)
+##### [>>  Foundation of Quantum Mechanics](#FQM)
+##### [>> Computational Quantum Chemistry](#CQC)
+##### [>> Condensed-Matter Physics](#CMP)
 
 <a name="ES"> <b> <font size="5" color="green"> Electronic Structure Theory  </font> </b> </a>
 
