@@ -89,7 +89,7 @@ Pre-Ph.D. student, HCMIP-VAST, Vietnam
 
 <img src="Nhan.jpg" width="120" height="150">
   
-Undergrad student, VNUHCM-University of Science, Vietnam
+Undergrad. student, VNUHCM-University of Science, Vietnam
 
 <ins>Research topics</ins>: electronic structure, quantum computing
   
@@ -123,7 +123,7 @@ Teaching Assistant, University of Information Technology, VNU-HMC, Vietnam
 
 <img src="Hai2.jpg" width="150" height="150">
 
-Teaching Assistant, University of Information Technology, VNU-HMC, Vietnam
+Undergrad. student, Aalto University, Finland
 
 <ins>Research topics</ins>: quantum computing and information
 
