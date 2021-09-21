@@ -18,7 +18,7 @@
 
 <hr style="solid blue">
 
-#### [>> Principal Investigators](#PIs)<img src="test_space.png" width="10" height="1"> [>> HCMIP Researchers](#staffs) <img src="test_space.png" width="10" height="1"> [>> Students](#students) <img src="test_space.png" width="10" height="1"> [>> Affiliated Members](#affmems) <img src="test_space.png" width="10" height="1"> [>> Collaborators](#colla)
+[>> Principal Investigators](#PIs)<img src="test_space.png" width="10" height="1"> [>> HCMIP Researchers](#staffs) <img src="test_space.png" width="10" height="1"> [>> Students](#students) <img src="test_space.png" width="10" height="1"> [>> Affiliated Members](#affmems) <img src="test_space.png" width="10" height="1"> [>> Collaborators](#colla)
 
 
 ### <a name="PIs"> <b> Principal Investigators</b></a>  
