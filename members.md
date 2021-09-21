@@ -108,7 +108,6 @@ Pre-Ph.D. student, HCMIP-VAST, Vietnam
 Undergrad student, VNUHCM-University of Science, Vietnam
 
 <ins>Research topics</ins>: electronic structure, condensed-matter physics, quantum computing
-
   
 ### <a name="affmems"> <b> Affiliated Members </b> </a>
 
