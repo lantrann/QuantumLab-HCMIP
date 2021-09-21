@@ -97,6 +97,24 @@ Undergrad. student, VNUHCM-University of Science, Vietnam
 
 <ins>Research topics</ins>: electronic structure, quantum computing
   
+#### <span style="color:black"> **Vu Tuan Hai**  </span>
+
+<img src="Hai2.jpg" width="150" height="150">
+
+Teaching Assistant, University of Information Technology, VNU-HMC, Vietnam
+
+<ins>Research topics</ins>: quantum computing and information, machine learning
+
+#### <span style="color:black"> **Pham Nguyen Tam Minh**  </span>
+
+<img src="Hai2.jpg" width="150" height="150">
+
+Undergrad. student, Aalto University, Finland
+
+<ins>Research topics</ins>: quantum computing and information
+
+
+  
 ### <a name="affmems"> <b> Affiliated Members </b> </a>
 
 #### <span style="color:black"> **Nguyen Quoc Chuong**  </span>
@@ -112,22 +130,6 @@ M.Sc. student, Vietnamese-German University, Vietnam
 <img src="Hai2.jpg" width="150" height="150">
 
 Undergrad. student, The University of California, Santa Barbara, United States
-
-<ins>Research topics</ins>: quantum computing and information
-
-#### <span style="color:black"> **Vu Tuan Hai**  </span>
-
-<img src="Hai2.jpg" width="150" height="150">
-
-Teaching Assistant, University of Information Technology, VNU-HMC, Vietnam
-
-<ins>Research topics</ins>: quantum computing and information, machine learning
-
-#### <span style="color:black"> **Pham Nguyen Tam Minh**  </span>
-
-<img src="Hai2.jpg" width="150" height="150">
-
-Undergrad. student, Aalto University, Finland
 
 <ins>Research topics</ins>: quantum computing and information
 
