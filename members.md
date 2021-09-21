@@ -71,8 +71,6 @@ Email: <nthoang@hcmip.vast.vn>
 
 [[CV](NguyenThanhHoang-CV.pdf)]
 
-
-  
 ### <a name="students"> <b> Students </b> </a>
   
 #### <span style="color:black"> **Le Hoang Hai**  </span>
@@ -89,7 +87,7 @@ Pre-Ph.D. student, HCMIP-VAST, Vietnam
   
 Undergrad student, VNUHCM-University of Science, Vietnam
 
-<ins>Research topics</ins>: electronic structure, condensed-matter physics, quantum computing
+<ins>Research topics</ins>: electronic structure, quantum computing
   
 ### <a name="affmems"> <b> Affiliated Members </b> </a>
 
@@ -115,7 +113,16 @@ Undergrad. student, The University of California, Santa Barbara, United States
 
 Teaching Assistant, University of Information Technology, VNU-HMC, Vietnam
 
+<ins>Research topics</ins>: quantum computing and information, machine learning
+
+#### <span style="color:black"> **Pham Nguyen Tam Minh**  </span>
+
+<img src="Hai2.jpg" width="150" height="150">
+
+Teaching Assistant, University of Information Technology, VNU-HMC, Vietnam
+
 <ins>Research topics</ins>: quantum computing and information
+
 
 ### <a name="colla"> <b> Collaborators </b> </a>
   
