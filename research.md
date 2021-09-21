@@ -41,7 +41,7 @@ We are conducting a variety of research topics in quantum physics and chemistry.
 <details>
 <summary> <ins>active topics</ins> </summary>
 
-  <p> - Correlated one-body methods <br>
+  <p> - Correlated mean-field theories <br>
   
   - Many-body Green's function methods <br>
   
@@ -54,7 +54,6 @@ We are conducting a variety of research topics in quantum physics and chemistry.
 </details>
 
 
-  
 <a name="QCI"> <b> <font size="5" color="green">  Quantum Computing and Information </font> </b> </a>
   
  <p align="center">
