@@ -9,7 +9,7 @@
 
 <hr style="solid blue">
 
-We are a dynamic group with multiple PIs and researchers. We are looking for students who are interested in quantum world!
+We are a dynamic Lab with multiple PIs and Researchers. We are looking for Students who are interested in quantum world!
 
 [>> Principal Investigators](#PIs) 
 
