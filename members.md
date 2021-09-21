@@ -40,12 +40,11 @@ We are a dynamic group with multiple PIs and researchers. We are looking for stu
 2018 - 2021: Postdoc, The University of California, Berkeley, United States<br>
 2021 - present: Researcher and Head of Department, HCMC Institute of Physics, Vietnam</p>
 
-Emails: <lantrann@gmail.com>, <tnlan@vast.hcmip.vn>
-
 <ins>Research topics</ins>: quantum ...
 
-[[CV](LanTran_CV_0421.pdf)] [[Goolge Scholar](https://scholar.google.com/citations?user=fatZlQ0AAAAJ&hl=vi)]
+Emails: <lantrann@gmail.com>, <tnlan@vast.hcmip.vn>
 
+[[CV](LanTran_CV_0421.pdf)] [[Goolge Scholar](https://scholar.google.com/citations?user=fatZlQ0AAAAJ&hl=vi)]
 
 
 ### <a name="staffs"> <b> HCMIP Researchers </b> </a>  
