@@ -11,11 +11,15 @@
 
 We are a dynamic Lab with multiple PIs and Researchers. We are looking for Students who are interested in quantum world!
 
-##### [>> Principal Investigators](#PIs)  
-##### [>> HCMIP Researchers](#staffs)  
-##### [>> Students](#students)  
-##### [>> Affiliated Members](#affmems) 
-##### [>> Collaborators](#colla)
+[>> Principal Investigators](#PIs)  
+
+[>> HCMIP Researchers](#staffs)  
+
+[>> Students](#students)  
+
+[>> Affiliated Members](#affmems) 
+
+[>> Collaborators](#colla)
 
 ### <a name="PIs"> <b> Principal Investigators</b></a>  
 
