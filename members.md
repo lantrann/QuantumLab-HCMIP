@@ -18,6 +18,8 @@
 
 <hr style="solid blue">
 
+We are a dynamic group with multiple PIs and researchers. We are looking for students who are interested in quantum world!
+
 [>> Principal Investigators](#PIs) 
 
 [>> HCMIP Researchers](#staffs) 
