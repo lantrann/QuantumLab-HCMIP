@@ -15,7 +15,7 @@ We are conducting a variety of research topics in quantum physics and chemistry.
 
 [>>  Machine Learning in Quantum Physics](#MLQP) <img src="test_space.png" width="120" height="1"> [>>  Foundation of Quantum Mechanics](#FQM)
 
-[>> Computational Quantum Chemistry](#CQC) <img src="test_space.png" width="145" height="1"> [>> Condensed-Matter Physics](#CMP)
+[>> Computational Quantum Chemistry](#CQC) <img src="test_space.png" width="143" height="1"> [>> Condensed-Matter Physics](#CMP)
 
 <a name="ES"> <b> <font size="5" color="green"> Electronic Structure Theory  </font> </b> </a>
 
