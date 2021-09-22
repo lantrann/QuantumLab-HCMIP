@@ -134,6 +134,14 @@ Undergrad. student, The University of California, Santa Barbara, United States
 
 <ins>Research topics</ins>: quantum computing and information
 
+#### <span style="color:black"> **Le Van Tan**  </span>
+
+<img src="Hai2.jpg" width="150" height="150">
+
+PhD. student, VNUHCM-University of Science, Vietnam
+
+<ins>Research topics</ins>: quantum computing and information
+
 
 ### <a name="colla"> <b> Collaborators </b> </a>
   
