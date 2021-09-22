@@ -15,11 +15,11 @@ We are a dynamic Lab with multiple PIs and Subgroups. We are looking for Student
 
 [>> HCMIP Researchers](#staffs) 
 
-[>> Collaborators](#colla)
-
 [>> Students](#students)   
 
 [>> Affiliated Members](#affmems) 
+
+[>> Collaborators](#colla)
 
 
 <hr style="solid blue">
