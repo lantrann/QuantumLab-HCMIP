@@ -11,7 +11,7 @@
 
 We are conducting a variety of research topics in quantum physics and chemistry. Please contact us if you are interested in joining us or a collaboration!
 
-[>> Electronic Structure Theory](#ES) <img src="test_space.png" width="200" height="1"> [>>  Quantum Computing and Information](#QCI)
+[>> Electronic Structure Theory](#ES) <img src="test_space.png" width="210" height="1"> [>>  Quantum Computing and Information](#QCI)
 
 [>>  Machine Learning in Quantum Physics](#MLQP) <img src="test_space.png" width="120" height="1"> [>>  Foundation of Quantum Mechanics](#FQM)
 
