@@ -11,9 +11,9 @@
 
 We are a dynamic Lab with multiple PIs and Subgroups. We are looking for Students who are interested in quantum world!
 
-[>> Principal Investigators](#PIs)  <img src="test_space.png" width="158" height="1"> [>> HCMIP Researchers](#staffs)  <img src="test_space.png" width="158" height="1"> [>> Collaborators](#colla)
+[>> Principal Investigators](#PIs)  <img src="test_space.png" width="148" height="1"> [>> HCMIP Researchers](#staffs)  <img src="test_space.png" width="148" height="1"> [>> Collaborators](#colla)
 
-[>> Students](#students)  <img src="test_space.png" width="265" height="1"> [>> Affiliated Members](#affmems) 
+[>> Students](#students)  <img src="test_space.png" width="257" height="1"> [>> Affiliated Members](#affmems) 
 
 
 
