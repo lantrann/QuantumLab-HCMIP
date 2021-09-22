@@ -22,6 +22,7 @@ We are a dynamic Lab with multiple PIs and Subgroups. We are looking for Student
 [>> Affiliated Members](#affmems) 
 
 
+<hr style="solid blue">
 
 ### <a name="PIs"> <b> Principal Investigators</b></a>  
 
@@ -39,6 +40,8 @@ Emails: <lantrann@gmail.com>, <tnlan@vast.hcmip.vn>
 
 [[CV](LanTran_CV_0421.pdf)] [[Goolge Scholar](https://scholar.google.com/citations?user=fatZlQ0AAAAJ&hl=vi)]
 
+<hr style="solid blue">
+
 #### <span style="color:black"> **Le Bin Ho** (on leave) </span> 
 
 <img src="BinHo.jpg" width="140" height="150">
@@ -52,6 +55,8 @@ Emails: <lantrann@gmail.com>, <tnlan@vast.hcmip.vn>
 Emails: <bin262@gmail.com>, <binho@riec.tohoku.ac.jp>
 
 [[CV](DrLeBinHo-CV.pdf)] [[Goolge Scholar](https://scholar.google.com/citations?user=jyPh9UcAAAAJ&hl=vi)]
+
+<hr style="solid blue">
 
 ### <a name="staffs"> <b> HCMIP Researchers </b> </a>  
 
@@ -68,6 +73,8 @@ Email: <hoamai6hh@gmail.com>
 
 [[CV](NguyenBichDuyen-EN.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=f-3TeB8AAAAJ&hl=vi)]
 
+<hr style="solid blue">
+
 #### <span style="color:black"> **Nguyen Thanh Hoang** </span> 
 
 <img src="Hoang.jpg" width="150" height="150">
@@ -80,6 +87,8 @@ Email: <nthoang@hcmip.vast.vn>
 
 [[CV](NguyenThanhHoang-CV.pdf)]
 
+<hr style="solid blue">
+
 ### <a name="students"> <b> Students </b> </a>
   
 #### <span style="color:black"> **Le Hoang Hai**  </span>
@@ -90,6 +99,8 @@ Pre-Ph.D. student, HCMIP-VAST, Vietnam
 
 <ins>Research topics</ins>: electronic structure, computational chemistry
 
+<hr style="solid blue">
+
 #### <span style="color:black"> **Le Trong Nhan**  </span>
 
 <img src="Nhan.jpg" width="120" height="150">
@@ -97,6 +108,8 @@ Pre-Ph.D. student, HCMIP-VAST, Vietnam
 Undergrad. student, VNUHCM-University of Science, Vietnam
 
 <ins>Research topics</ins>: electronic structure, quantum computing
+
+<hr style="solid blue">
   
 #### <span style="color:black"> **Vu Tuan Hai**  </span>
 
@@ -106,6 +119,8 @@ Teaching Assistant, University of Information Technology, VNU-HMC, Vietnam
 
 <ins>Research topics</ins>: quantum computing and information, machine learning
 
+<hr style="solid blue">
+
 #### <span style="color:black"> **Pham Nguyen Tam Minh**  </span>
 
 <img src="Hai2.jpg" width="150" height="150">
@@ -114,7 +129,7 @@ Undergrad. student, Aalto University, Finland
 
 <ins>Research topics</ins>: quantum computing and information
 
-
+<hr style="solid blue">
   
 ### <a name="affmems"> <b> Affiliated Members </b> </a>
 
@@ -126,6 +141,8 @@ M.Sc. student, Vietnamese-German University, Vietnam
 
 <ins>Research topics</ins>: quantum computing, machine learning
 
+<hr style="solid blue">
+
 #### <span style="color:black"> **Kien Le**  </span>
 
 <img src="Hai2.jpg" width="150" height="150">
@@ -133,6 +150,8 @@ M.Sc. student, Vietnamese-German University, Vietnam
 Undergrad. student, The University of California, Santa Barbara, United States
 
 <ins>Research topics</ins>: quantum computing and information
+
+<hr style="solid blue">
 
 #### <span style="color:black"> **Le Van Tan**  </span>
 
@@ -142,6 +161,7 @@ PhD. student, VNUHCM-University of Science, Vietnam
 
 <ins>Research topics</ins>: quantum computing and information
 
+<hr style="solid blue">
 
 ### <a name="colla"> <b> Collaborators </b> </a>
   
