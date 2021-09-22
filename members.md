@@ -35,6 +35,10 @@ We are a dynamic Lab with multiple PIs and Subgroups. We are looking for Student
 
 <ins>Research topics</ins>: quantum physics and chemistry
 
+Emails: <lantrann@gmail.com>, <tnlan@vast.hcmip.vn>
+
+[[CV](LanTran_CV_0421.pdf)] [[Goolge Scholar](https://scholar.google.com/citations?user=fatZlQ0AAAAJ&hl=vi)]
+
 #### <span style="color:black"> **Le Bin Ho** (on leave) </span> 
 
 <img src="BinHo.jpg" width="140" height="150">
@@ -48,12 +52,6 @@ We are a dynamic Lab with multiple PIs and Subgroups. We are looking for Student
 Emails: <bin262@gmail.com>, <binho@riec.tohoku.ac.jp>
 
 [[CV](DrLeBinHo-CV.pdf)] [[Goolge Scholar](https://scholar.google.com/citations?user=jyPh9UcAAAAJ&hl=vi)]
-
-
-Emails: <lantrann@gmail.com>, <tnlan@vast.hcmip.vn>
-
-[[CV](LanTran_CV_0421.pdf)] [[Goolge Scholar](https://scholar.google.com/citations?user=fatZlQ0AAAAJ&hl=vi)]
-
 
 ### <a name="staffs"> <b> HCMIP Researchers </b> </a>  
 
