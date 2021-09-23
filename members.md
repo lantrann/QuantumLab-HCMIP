@@ -99,7 +99,7 @@ Pre-Ph.D. student, HCMIP-VAST, Vietnam
 
 <ins>Research topics</ins>: electronic structure, computational chemistry
 
-<hr style="solid blue">
+**
 
 #### <span style="color:black"> **Le Trong Nhan**  </span>
 
