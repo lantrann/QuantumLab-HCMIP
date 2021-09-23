@@ -40,7 +40,7 @@ Emails: <lantrann@gmail.com>, <tnlan@vast.hcmip.vn>
 
 [[CV](LanTran_CV_0421.pdf)] [[Goolge Scholar](https://scholar.google.com/citations?user=fatZlQ0AAAAJ&hl=vi)]
 
-<hr style="solid blue">
+**
 
 #### <span style="color:black"> **Le Bin Ho** (on leave) </span> 
 
@@ -73,7 +73,7 @@ Email: <hoamai6hh@gmail.com>
 
 [[CV](NguyenBichDuyen-EN.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=f-3TeB8AAAAJ&hl=vi)]
 
-<hr style="solid blue">
+**
 
 #### <span style="color:black"> **Nguyen Thanh Hoang** </span> 
 
@@ -109,7 +109,7 @@ Undergrad. student, VNUHCM-University of Science, Vietnam
 
 <ins>Research topics</ins>: electronic structure, quantum computing
 
-<hr style="solid blue">
+** 
   
 #### <span style="color:black"> **Vu Tuan Hai**  </span>
 
@@ -119,7 +119,7 @@ Teaching Assistant, University of Information Technology, VNU-HMC, Vietnam
 
 <ins>Research topics</ins>: quantum computing and information, machine learning
 
-<hr style="solid blue">
+**
 
 #### <span style="color:black"> **Pham Nguyen Tam Minh**  </span>
 
@@ -141,7 +141,7 @@ M.Sc. student, Vietnamese-German University, Vietnam
 
 <ins>Research topics</ins>: quantum computing, machine learning
 
-<hr style="solid blue">
+**
 
 #### <span style="color:black"> **Kien Le**  </span>
 
@@ -151,7 +151,7 @@ Undergrad. student, The University of California, Santa Barbara, United States
 
 <ins>Research topics</ins>: quantum computing and information
 
-<hr style="solid blue">
+**
 
 #### <span style="color:black"> **Le Van Tan**  </span>
 
