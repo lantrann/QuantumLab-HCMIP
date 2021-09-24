@@ -179,6 +179,11 @@ PhD. student, VNUHCM-University of Science, Vietnam
 
   [Prof. Eric Neuscamman, UC Berkeley](https://neuscammanlab.com/)
 
+  [Dr. Huynh Than Duc, HCMC Institute of Physics, VAST](http://hcmip.ac.vn/theoretical_physics-en.html)
+
+  [Dr. Cao Huy Thien, HCMC Institute of Physics, VAST](http://hcmip.ac.vn/theoretical_physics-en.html)
+  
   [Dr. Hugh Burton, New College, Oxford](https://www.hughburton.com/)
- 
+
+
  
