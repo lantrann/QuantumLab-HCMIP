@@ -83,7 +83,7 @@ Email: <hoamai6hh@gmail.com>
 
 [[CV](NguyenBichDuyen-EN.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=f-3TeB8AAAAJ&hl=vi)]
 
-**
+-*-*-
 
 #### <span style="color:black"> **Nguyen Thanh Hoang** </span> 
 
@@ -109,7 +109,7 @@ Pre-Ph.D. student, HCMIP-VAST, Vietnam
 
 <ins>Research topics</ins>: electronic structure, computational chemistry
 
-**
+-*-*-
 
 #### <span style="color:black"> **Le Trong Nhan**  </span>
 
@@ -119,8 +119,8 @@ Undergrad. student, VNUHCM-University of Science, Vietnam
 
 <ins>Research topics</ins>: electronic structure, quantum computing
 
-** 
-  
+-*-*-
+
 #### <span style="color:black"> **Vu Tuan Hai**  </span>
 
 <img src="Hai2.jpg" width="150" height="150">
@@ -129,7 +129,7 @@ Teaching Assistant, University of Information Technology, VNU-HMC, Vietnam
 
 <ins>Research topics</ins>: quantum computing and information, machine learning
 
-**
+-*-*-
 
 #### <span style="color:black"> **Pham Nguyen Tam Minh**  </span>
 
@@ -151,7 +151,7 @@ M.Sc. student, Vietnamese-German University, Vietnam
 
 <ins>Research topics</ins>: quantum computing, machine learning
 
-**
+-*-*-
 
 #### <span style="color:black"> **Kien Le**  </span>
 
@@ -161,7 +161,7 @@ Undergrad. student, The University of California, Santa Barbara, United States
 
 <ins>Research topics</ins>: quantum computing and information
 
-**
+-*-*-
 
 #### <span style="color:black"> **Le Van Tan**  </span>
 
