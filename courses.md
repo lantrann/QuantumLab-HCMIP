@@ -20,5 +20,5 @@
 <hr style="solid blue">
 
 ### 2021
-<p> Electronic structure theory, Fall Semester, VNUHCM-University of Science <br></p>
+Electronic structure theory, Fall Semester, VNUHCM-University of Science 
 [[Lect01](ElecStructTheory-Lect01.pdf)], [[Lect02](ElecStructTheory-Lect02.pdf)] 
