@@ -139,6 +139,8 @@ Undergrad. student, Aalto University, Finland
 
 <ins>Research topics</ins>: quantum computing and information
 
+-*-*-
+
 #### <span style="color:black"> **Doan Trung Thien**  </span>
 
 <img src="Hai2.jpg" width="150" height="150">
