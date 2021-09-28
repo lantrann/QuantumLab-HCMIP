@@ -139,6 +139,14 @@ Undergrad. student, Aalto University, Finland
 
 <ins>Research topics</ins>: quantum computing and information
 
+#### <span style="color:black"> **Doan Trung Thien**  </span>
+
+<img src="Hai2.jpg" width="150" height="150">
+
+B.Sc. in Chemistry, Quy-Nhon University, Vietnam
+
+<ins>Research topics</ins>: electronic structure, comptuational quantum chemistry
+
 <hr style="solid blue">
   
 ### <a name="affmems"> <b> Affiliated Members </b> </a>
