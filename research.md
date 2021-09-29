@@ -85,7 +85,7 @@ We are conducting a variety of research topics in quantum physics and chemistry.
         
      - Hybrid quantum-classical frameworks <br>
 
-     - Quantum computing algorithms <br>
+     - Variational quantum algorithms <br>
 
      - Quantum computing softwares </p>
  
