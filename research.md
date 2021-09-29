@@ -39,21 +39,13 @@ We are conducting a variety of research topics in quantum physics and chemistry.
 <a name="q2m"> <b> <font size="5" color="green"> Quantum to Macro  </font> </b> </a>
 
  <p align="center">
-  <img src="q2m.jpg" width="200" height="150">
+  <img src="q2m.jpg" width="500" height="250">
  </p>
 
 <details>
 <summary> <ins>click for active topics</ins> </summary>
 
-  <p> - Correlated mean-field theories <br>
-  
-  - Many-body Green's function methods <br>
-  
-  - Quantum embedding methods <br> 
-  
-   - Excited-state methods <br>
-   
-   - Multi-configurational wave-function methods </p>
+  <p> </p>
 
 </details>
 
