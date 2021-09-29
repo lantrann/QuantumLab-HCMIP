@@ -44,10 +44,10 @@ Emails: <lantrann@gmail.com>, <tnlan@vast.hcmip.vn>
 <ins>Research topics</ins>: quantum physics and chemistry
 
 <div style="-webkit-column-count: 2;">
-    <div style="display: inline-block; width:10%">
+    <div style="display: inline-block; width:20%">
      <img src="Lan2.jpg" width="140" height="180">
     </div>
-    <div style="display: inline-block; width:90%">
+    <div style="display: inline-block; width:80%">
      <p>2011 - 2014: Ph.D., The Graduate University for Advanced Studies [Sokendai], Japan<br>
  2015 - 2018: Postdoc, The University of Michigan, Ann Arbor, United States<br>
 2018 - 2021: Postdoc, The University of California, Berkeley, United States<br>
