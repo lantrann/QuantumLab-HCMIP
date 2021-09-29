@@ -40,7 +40,7 @@ We are a dynamic Lab with multiple PIs and Subgroups. We are looking for Student
 
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display: inline-block;">
-     <img src="Lan2.jpg" width="140" height="180">
+     <img src="Lan2.jpg" width="10" height="180">
     </div>
     <div style="display: inline-block;">
      <p>2011 - 2014: Ph.D., The Graduate University for Advanced Studies [Sokendai], Japan<br>
