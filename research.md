@@ -21,6 +21,8 @@
 
 We are conducting a variety of research topics in quantum physics and chemistry. Please contact us if you are interested in joining us or a collaboration!
 
+[>> Quantum to Macro ](#q2m) 
+
 [>> Electronic Structure Theory](#ES) 
 
 [>>  Quantum Computing and Information](#QCI)
@@ -33,6 +35,29 @@ We are conducting a variety of research topics in quantum physics and chemistry.
 
 [>> Condensed-Matter Physics](#CMP)
 
+
+<a name="q2m"> <b> <font size="5" color="green"> Quantum to Macro  </font> </b> </a>
+
+ <p align="center">
+  <img src="q2m.jpg" width="200" height="150">
+ </p>
+
+<details>
+<summary> <ins>click for active topics</ins> </summary>
+
+  <p> - Correlated mean-field theories <br>
+  
+  - Many-body Green's function methods <br>
+  
+  - Quantum embedding methods <br> 
+  
+   - Excited-state methods <br>
+   
+   - Multi-configurational wave-function methods </p>
+
+</details>
+
+
 <a name="ES"> <b> <font size="5" color="green"> Electronic Structure Theory  </font> </b> </a>
 
  <p align="center">
@@ -40,7 +65,7 @@ We are conducting a variety of research topics in quantum physics and chemistry.
  </p>
 
 <details>
-<summary> <ins>active topics</ins> </summary>
+<summary> <ins>click for active topics</ins> </summary>
 
   <p> - Correlated mean-field theories <br>
   
@@ -62,7 +87,7 @@ We are conducting a variety of research topics in quantum physics and chemistry.
  </p>
   
 <details>
-<summary> <ins> active topics </ins>  </summary>  
+<summary> <ins>click for active topics</ins> </summary>
   
   <p> - Quantum metrology and measurement <br>
         
@@ -82,7 +107,7 @@ We are conducting a variety of research topics in quantum physics and chemistry.
  </p>
 
 <details>
-<summary> <ins> active topics </ins> </summary>  
+<summary> <ins>click for active topics</ins> </summary>
 
   <p> - Neural network quantum states <br>
   
@@ -102,7 +127,7 @@ We are conducting a variety of research topics in quantum physics and chemistry.
  </p>
 
 <details>
-<summary> <ins> active topics </ins> </summary>  
+<summary> <ins>click for active topics</ins> </summary>
 
   <p> - Two-state vector formalism <br>
   
@@ -123,7 +148,7 @@ We are conducting a variety of research topics in quantum physics and chemistry.
 
 
 <details>
-<summary> <ins> active topics </ins> </summary>  
+<summary> <ins>click for active topics</ins> </summary>
   
   <p> - Transition metal complexes <br>
     
@@ -140,7 +165,7 @@ We are conducting a variety of research topics in quantum physics and chemistry.
   </p>
 
 <details>
-<summary> <ins> active topics </ins> </summary>
+<summary> <ins>click for active topics</ins> </summary>
   
  <p> - Topological materials <br>
   
