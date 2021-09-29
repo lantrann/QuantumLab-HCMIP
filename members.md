@@ -38,6 +38,10 @@ We are a dynamic Lab with multiple PIs and Subgroups. We are looking for Student
 
 #### <span style="color:black"> **Tran Nguyen Lan** </span> 
 
+Emails: <lantrann@gmail.com>, <tnlan@vast.hcmip.vn>
+
+[[CV](LanTran_CV_0421.pdf)] [[Goolge Scholar](https://scholar.google.com/citations?user=fatZlQ0AAAAJ&hl=vi)]
+
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display: inline-block;">
      <img src="Lan2.jpg" width="140" height="180">
@@ -49,13 +53,9 @@ We are a dynamic Lab with multiple PIs and Subgroups. We are looking for Student
 2021 - present: Researcher and Head of Department, HCMC Institute of Physics, Vietnam</p>
         
 <ins>Research topics</ins>: quantum physics and chemistry
-
-Emails: <lantrann@gmail.com>, <tnlan@vast.hcmip.vn>
-
-[[CV](LanTran_CV_0421.pdf)] [[Goolge Scholar](https://scholar.google.com/citations?user=fatZlQ0AAAAJ&hl=vi)]
-
-    </div>
+ </div>
 </div>
+
 
 
 -*-*-
