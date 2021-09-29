@@ -8,7 +8,6 @@
 <meta name="theme-color" content="#ffffff">
 </head>
 
-
 <p align="center" style="font-family: lucida handwriting; font-size:10pt">
 "Alone we can do so little; together we can do so much." – Helen Keller
 </p>
@@ -42,7 +41,7 @@ Emails: <lantrann@gmail.com>, <tnlan@vast.hcmip.vn>
 
 [[CV](LanTran_CV_0421.pdf)] [[Goolge Scholar](https://scholar.google.com/citations?user=fatZlQ0AAAAJ&hl=vi)]
 
-<div style="-webkit-column-count: 2;">
+<div style="-webkit-column-count: 2; width:10%">
     <div style="display: inline-block;">
      <img src="Lan2.jpg" width="140" height="180">
     </div>
