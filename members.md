@@ -42,7 +42,7 @@ Emails: <lantrann@gmail.com>, <tnlan@vast.hcmip.vn>
 
 [[CV](LanTran_CV_0421.pdf)] [[Goolge Scholar](https://scholar.google.com/citations?user=fatZlQ0AAAAJ&hl=vi)]
 
-<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2;">
+<div style="-webkit-column-count: 2;">
     <div style="display: inline-block;">
      <img src="Lan2.jpg" width="140" height="180">
     </div>
