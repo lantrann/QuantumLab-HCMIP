@@ -25,10 +25,6 @@
 </p>
 
 ### **Preprints**
-> Lan Nguyen Tran, "Improving perturbation theory for open-shell molecules via self-consistency", [arXiv preprint arXiv:2107.11260](https://arxiv.org/abs/2107.11260), 2021
-<p align="center">
-<img src="TOC-jpca2021.jpg" width="350" height="260">
-</p>
 
 > Chuong Quoc Nguyen, <ins>Le Bin Ho</ins>, <ins>Lan Nguyen Tran</ins>, Hung Quoc Nguyen, "Qsun: an open-source platform towards practical quantum machine learning applications", [arXiv preprint arXiv:2107.10541](https://arxiv.org/abs/2107.10541), 2021
 <p align="center">
