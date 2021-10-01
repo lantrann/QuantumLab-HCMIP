@@ -38,6 +38,11 @@
 ### **Peer-reviewed papers**
 
 #### <span style="color:black"> **2021** </span>
+> Lan Nguyen Tran, "Improving perturbation theory for open-shell molecules via self-consistency", _The Journal of Chemical Physics A_, **accepted**, 2021
+<p align="center">
+<img src="TOC-jpca2021.jpg" width="350" height="260">
+</p>
+
 > Kieu Quang Tuan, Hung Q Nguyen, and <ins>Le Bin Ho</ins>, "Direct state measurements under state-preparation-and-measurement errors", _Quantum Information Processing_ **20**, 197, 2021
 
 > <ins> Le Bin Ho </ins>, Kieu Quang Tuan, and Hung Q Nguyen, "tqix: A toolbox for Quantum in X: Quantum measurement, quantum tomography, quantum metrology, and others", _Computer Physics Communications_ **263** 107902, 2021
