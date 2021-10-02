@@ -41,17 +41,16 @@ We are a dynamic Lab with multiple PIs and Subgroups. We are looking for Student
   <b> Tran Nguyen Lan </b> <br>
 
  <img src="Lan2.jpg" width="140" height="180"> <br>
-
     
-<font size="1">  Ph.D., [Sokendai], Japan </font><br>
-<font size="1">  Postdoc, U of M, Ann Arbor, United States </font><br>
-<font size="1">  Postdoc, UC Berkeley, United States </font></p>     
+<font size="1">  Ph.D., [Sokendai], Japan <br>
+Postdoc, U of M, Ann Arbor, United States <br>
+  Postdoc, UC Berkeley, United States </p>     
 
-   <font size="1">  <ins> Research topics</ins>: quantum physics and chemistry </font>
+ <ins> Research topics</ins>: quantum physics and chemistry
 
- <font size="1"> Emails: <lantrann@gmail.com>, <tnlan@vast.hcmip.vn> </font"> 
+ Emails: <lantrann@gmail.com>, <tnlan@vast.hcmip.vn>
 
-[[CV](LanTran_CV_0421.pdf)] [[Goolge Scholar](https://scholar.google.com/citations?user=fatZlQ0AAAAJ&hl=vi)]
+[[CV](LanTran_CV_0421.pdf)] [[Goolge Scholar](https://scholar.google.com/citations?user=fatZlQ0AAAAJ&hl=vi)]  </font"> 
 
     </div>
      
