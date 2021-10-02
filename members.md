@@ -35,7 +35,10 @@ We are a dynamic Lab with multiple PIs and Subgroups. We are looking for Student
 
 ### <a name="PIs"> <b> Principal Investigators</b></a>  
 
-#### <span style="color:black"> **Tran Nguyen Lan** </span> 
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; ">
+    <div style="display: inline-block;">
+
+  <b> Tran Nguyen Lan </b>
 
  <img src="Lan2.jpg" width="140" height="180">
 
@@ -44,20 +47,22 @@ We are a dynamic Lab with multiple PIs and Subgroups. We are looking for Student
  2018 - 2021: Postdoc, The University of California, Berkeley, United States<br>
  2021 - present: Researcher and Head of Department, HCMC Institute of Physics, Vietnam</p>     
 
+     <ins>Research topics</ins>: quantum physics and chemistry
+
  Emails: <lantrann@gmail.com>, <tnlan@vast.hcmip.vn>
 
 [[CV](LanTran_CV_0421.pdf)] [[Goolge Scholar](https://scholar.google.com/citations?user=fatZlQ0AAAAJ&hl=vi)]
 
-<ins>Research topics</ins>: quantum physics and chemistry
+    </div>
+     
+    <div style="display: inline-block;">
+     
+     <b> Le Bin Ho </b> (on leave)
 
--*-*-
+    <img src="BinHo.jpg" width="140" height="150">
 
-#### <span style="color:black"> **Le Bin Ho** (on leave) </span> 
-
-<img src="BinHo.jpg" width="140" height="150">
-
-<p> 2015 - 2018: Ph.D., Osaka University, Japan <br>
- 2018 - 2020: Postdoc, Kindai University, Japan <br>
+   <p> 2015 - 2018: Ph.D., Osaka University, Japan <br>
+  2018 - 2020: Postdoc, Kindai University, Japan <br>
  2020 - 2022: JSPS postdoc, Tohoku University, Japan </p>
 
 <ins>Research topics</ins>: quantum computing and information, condesed-matter physics
@@ -65,6 +70,14 @@ We are a dynamic Lab with multiple PIs and Subgroups. We are looking for Student
 Emails: <bin262@gmail.com>, <binho@riec.tohoku.ac.jp>
 
 [[CV](DrLeBinHo-CV.pdf)] [[Goolge Scholar](https://scholar.google.com/citations?user=jyPh9UcAAAAJ&hl=vi)]
+
+    </div>
+</div>
+
+
+
+-*-*-
+
 
 <hr style="solid blue">
 
