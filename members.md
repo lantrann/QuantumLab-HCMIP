@@ -50,15 +50,13 @@ Postdoc, U of M, Ann Arbor, United States <br>
 
  Emails: <lantrann@gmail.com>, <tnlan@vast.hcmip.vn>
 
-[[CV](LanTran_CV_0421.pdf)] [[Goolge Scholar](https://scholar.google.com/citations?user=fatZlQ0AAAAJ&hl=vi)]  </font"> 
-
-    </div>
-     
-    <div style="display: inline-block;">
-     
+[[CV](LanTran_CV_0421.pdf)] [[Goolge Scholar](https://scholar.google.com/citations?user=fatZlQ0AAAAJ&hl=vi)]  </font> 
+    </div>     
+        
+    <div style="display: inline-block;">     
         <p>
      <b> Le Bin Ho </b> (on leave) <br>
-
+         
     <img src="BinHo.jpg" width="140" height="150"> <br>
 
   <font size="1">  2015 - 2018: Ph.D., Osaka University, Japan <br>
