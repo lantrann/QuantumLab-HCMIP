@@ -39,7 +39,7 @@ We are a dynamic Lab with multiple PIs and Subgroups. We are looking for Student
 
  <img src="Lan2.jpg" width="140" height="180">
 
-<p> 2011 - 2014: Ph.D., [Sokendai], Japan <br>
+<p> 2011 - 2014: Ph.D., The Graduate Unversity for Advanced Studies [Sokendai], Japan <br>
     2015 - 2018: Postdoc, The University of Michigan, Ann Arbor, United States <br>
     2018 - 2921: Postdoc, The University of California, Berkeley, United States </p>     
 
@@ -102,7 +102,7 @@ Email: <nthoang@hcmip.vast.vn>
   
 #### <span style="color:black"> **Le Hoang Hai**  </span>
 
-<img src="Hai2.jpg" width="150" height="150">
+<img src="HoangHai.jpg" width="150" height="150">
 
 Pre-Ph.D. student, HCMIP-VAST, Vietnam
 
@@ -122,7 +122,7 @@ __
 
 #### <span style="color:black"> **Vu Tuan Hai**  </span>
 
-<img src="Hai2.jpg" width="150" height="150">
+<img src="TuanHai.jpg" width="150" height="150">
 
 Teaching Assistant, University of Information Technology, VNU-HMC, Vietnam
 
@@ -132,7 +132,7 @@ __
 
 #### <span style="color:black"> **Pham Nguyen Tam Minh**  </span>
 
-<img src="Hai2.jpg" width="150" height="150">
+<img src="Minh.jpg" width="150" height="150">
 
 Undergrad. student, Aalto University, Finland
 
@@ -142,7 +142,7 @@ __
 
 #### <span style="color:black"> **Doan Trung Thien**  </span>
 
-<img src="Hai2.jpg" width="150" height="150">
+<img src="Thien.jpg" width="150" height="150">
 
 B.Sc. in Chemistry, Quy-Nhon University, Vietnam
 
