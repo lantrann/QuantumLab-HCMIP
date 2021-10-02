@@ -156,8 +156,6 @@ B.Sc. in Chemistry, Quy-Nhon University, Vietnam
 
 #### <span style="color:black"> **Nguyen Quoc Chuong**  </span>
 
-<img src="Hai2.jpg" width="150" height="150">
-
 M.Sc. student, Vietnamese-German University, Vietnam
 
 <ins>Research topics</ins>: quantum computing, machine learning
@@ -166,8 +164,6 @@ __
 
 #### <span style="color:black"> **Kien Le**  </span>
 
-<img src="Hai2.jpg" width="150" height="150">
-
 Undergrad. student, The University of California, Santa Barbara, United States
 
 <ins>Research topics</ins>: quantum computing and information
@@ -175,8 +171,6 @@ Undergrad. student, The University of California, Santa Barbara, United States
 __
 
 #### <span style="color:black"> **Le Van Tan**  </span>
-
-<img src="Hai2.jpg" width="150" height="150">
 
 PhD. student, VNUHCM-University of Science, Vietnam
 
