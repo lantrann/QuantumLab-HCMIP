@@ -42,12 +42,13 @@ We are a dynamic Lab with multiple PIs and Subgroups. We are looking for Student
 
  <img src="Lan2.jpg" width="140" height="180"> <br>
 
- 2011 - 2014: Ph.D., The Graduate University for Advanced Studies [Sokendai], Japan<br>
- 2015 - 2018: Postdoc, The University of Michigan, Ann Arbor, United States<br>
- 2018 - 2021: Postdoc, The University of California, Berkeley, United States<br>
- 2021 - present: Researcher and Head of Department, HCMC Institute of Physics, Vietnam</p>     
+    
+<font size="0.5">  2011 - 2014: Ph.D., The Graduate University for Advanced Studies [Sokendai], Japan </font><br>
+<font size="0.5">  2015 - 2018: Postdoc, The University of Michigan, Ann Arbor, United States </font><br>
+<font size="0.5">  2018 - 2021: Postdoc, The University of California, Berkeley, United States </font><br>
+<font size="0.5">  2021 - present: Researcher and Head of Department, HCMC Institute of Physics, Vietnam </font></p>     
 
-     <ins>Research topics</ins>: quantum physics and chemistry
+   <font size="0.5">  <ins>Research topics</ins>: quantum physics and chemistry </font>
 
  Emails: <lantrann@gmail.com>, <tnlan@vast.hcmip.vn>
 
@@ -57,13 +58,14 @@ We are a dynamic Lab with multiple PIs and Subgroups. We are looking for Student
      
     <div style="display: inline-block;">
      
-     <b> Le Bin Ho </b> (on leave)
+        <p>
+     <b> Le Bin Ho </b> (on leave) <br>
 
-    <img src="BinHo.jpg" width="140" height="150">
+    <img src="BinHo.jpg" width="140" height="150"> <br>
 
-   <p> 2015 - 2018: Ph.D., Osaka University, Japan <br>
-  2018 - 2020: Postdoc, Kindai University, Japan <br>
- 2020 - 2022: JSPS postdoc, Tohoku University, Japan </p>
+  <font size="0.5">  2015 - 2018: Ph.D., Osaka University, Japan </font> <br>
+  <font size="0.5">  2018 - 2020: Postdoc, Kindai University, Japan </font> <br>
+  <font size="0.5">  2020 - 2022: JSPS postdoc, Tohoku University, Japan </font> </p>
 
 <ins>Research topics</ins>: quantum computing and information, condesed-matter physics
 
