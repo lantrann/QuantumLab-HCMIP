@@ -35,30 +35,27 @@ We are a dynamic Lab with multiple PIs and Subgroups. We are looking for Student
 
 ### <a name="PIs"> <b> Principal Investigators</b></a>  
 
-<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; ">
-    <div style="display: inline-block;">
-<p> <b> Tran Nguyen Lan </b> <br>
+#### <span style="color:black"> **Tran Nguyen Lan** </span> 
 
- <img src="Lan2.jpg" width="140" height="180"> <br>
-    
-Ph.D., [Sokendai], Japan <br>
-Postdoc, U of M, Ann Arbor, United States <br>
-  Postdoc, UC Berkeley, United States </p>     
+ <img src="Lan2.jpg" width="140" height="180">
+
+<p> 2011 - 2014: Ph.D., [Sokendai], Japan <br>
+    2015 - 2018: Postdoc, The University of Michigan, Ann Arbor, United States <br>
+    2018 - 2921: Postdoc, The University of California, Berkeley, United States </p>     
 
  <ins> Research topics</ins>: quantum physics and chemistry
 
  Emails: <lantrann@gmail.com>, <tnlan@vast.hcmip.vn>
 
 [[CV](LanTran_CV_0421.pdf)] [[Goolge Scholar](https://scholar.google.com/citations?user=fatZlQ0AAAAJ&hl=vi)]  
-    </div>     
-        
-    <div style="display: inline-block;">     
-        <p>
-     <b> Le Bin Ho </b> (on leave) <br>
-         
-    <img src="BinHo.jpg" width="140" height="150"> <br>
 
- 2015 - 2018: Ph.D., Osaka University, Japan <br>
+__
+
+#### <span style="color:black"> **Le Bin Ho** (on leave) </span> 
+
+    <img src="BinHo.jpg" width="140" height="150">
+
+<p> 2015 - 2018: Ph.D., Osaka University, Japan <br>
  2018 - 2020: Postdoc, Kindai University, Japan <br>
 2020 - 2022: JSPS postdoc, Tohoku University, Japan</p>
 
@@ -67,9 +64,6 @@ Postdoc, U of M, Ann Arbor, United States <br>
 Emails: <bin262@gmail.com>, <binho@riec.tohoku.ac.jp>
 
 [[CV](DrLeBinHo-CV.pdf)] [[Goolge Scholar](https://scholar.google.com/citations?user=jyPh9UcAAAAJ&hl=vi)]
-    </div>
-</div>
-
 
 <hr style="solid blue">
 
@@ -88,7 +82,7 @@ Email: <hoamai6hh@gmail.com>
 
 [[CV](NguyenBichDuyen-EN.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=f-3TeB8AAAAJ&hl=vi)]
 
--*-*-
+__
 
 #### <span style="color:black"> **Nguyen Thanh Hoang** </span> 
 
@@ -114,7 +108,7 @@ Pre-Ph.D. student, HCMIP-VAST, Vietnam
 
 <ins>Research topics</ins>: electronic structure, computational chemistry
 
--*-*-
+__
 
 #### <span style="color:black"> **Le Trong Nhan**  </span>
 
@@ -124,7 +118,7 @@ Undergrad. student, VNUHCM-University of Science, Vietnam
 
 <ins>Research topics</ins>: electronic structure, quantum computing
 
--*-*-
+__
 
 #### <span style="color:black"> **Vu Tuan Hai**  </span>
 
@@ -134,7 +128,7 @@ Teaching Assistant, University of Information Technology, VNU-HMC, Vietnam
 
 <ins>Research topics</ins>: quantum computing and information, machine learning
 
--*-*-
+__
 
 #### <span style="color:black"> **Pham Nguyen Tam Minh**  </span>
 
@@ -144,7 +138,7 @@ Undergrad. student, Aalto University, Finland
 
 <ins>Research topics</ins>: quantum computing and information
 
--*-*-
+__
 
 #### <span style="color:black"> **Doan Trung Thien**  </span>
 
@@ -166,7 +160,7 @@ M.Sc. student, Vietnamese-German University, Vietnam
 
 <ins>Research topics</ins>: quantum computing, machine learning
 
--*-*-
+__
 
 #### <span style="color:black"> **Kien Le**  </span>
 
@@ -176,7 +170,7 @@ Undergrad. student, The University of California, Santa Barbara, United States
 
 <ins>Research topics</ins>: quantum computing and information
 
--*-*-
+__
 
 #### <span style="color:black"> **Le Van Tan**  </span>
 
