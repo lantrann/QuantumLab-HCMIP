@@ -104,7 +104,7 @@ Email: <nthoang@hcmip.vast.vn>
   
 #### <span style="color:black"> **Le Hoang Hai**  </span>
 
-<img src="HoangHai.jpg" width="130" height="150">
+<img src="HoangHai.jpg" width="135" height="160">
 
 Pre-Ph.D. student, HCMIP-VAST, Vietnam
 
@@ -122,9 +122,19 @@ Teaching Assistant, University of Information Technology, VNU-HMC, Vietnam
 
 __
 
+#### <span style="color:black"> **Doan Trung Thien**  </span>
+
+<img src="Thien.jpg" width="140" height="170">
+
+B.Sc. in Chemistry, Quy-Nhon University, Vietnam
+
+<ins>Research topics</ins>: electronic structure, comptuational quantum chemistry
+
+__
+
 #### <span style="color:black"> **Le Trong Nhan**  </span>
 
-<img src="Nhan.jpg" width="120" height="150">
+<img src="Nhan.jpg" width="140" height="170">
   
 Undergrad. student, VNUHCM-University of Science, Vietnam
 
@@ -134,21 +144,11 @@ __
 
 #### <span style="color:black"> **Pham Nguyen Tam Minh**  </span>
 
-<img src="Minh.png" width="130" height="150">
+<img src="Minh.png" width="150" height="170">
 
 Undergrad. student, Aalto University, Finland
 
 <ins>Research topics</ins>: quantum computing and information
-
-__
-
-#### <span style="color:black"> **Doan Trung Thien**  </span>
-
-<img src="Thien.jpg" width="120" height="150">
-
-B.Sc. in Chemistry, Quy-Nhon University, Vietnam
-
-<ins>Research topics</ins>: electronic structure, comptuational quantum chemistry
 
 <hr style="solid blue">
   
