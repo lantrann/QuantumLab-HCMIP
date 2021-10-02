@@ -37,12 +37,11 @@ We are a dynamic Lab with multiple PIs and Subgroups. We are looking for Student
 
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; ">
     <div style="display: inline-block;">
-<p>
-  <b> Tran Nguyen Lan </b> <br>
+<p> <b> Tran Nguyen Lan </b> <br>
 
  <img src="Lan2.jpg" width="140" height="180"> <br>
     
-<font size="1">  Ph.D., [Sokendai], Japan <br>
+Ph.D., [Sokendai], Japan <br>
 Postdoc, U of M, Ann Arbor, United States <br>
   Postdoc, UC Berkeley, United States </p>     
 
@@ -50,7 +49,7 @@ Postdoc, U of M, Ann Arbor, United States <br>
 
  Emails: <lantrann@gmail.com>, <tnlan@vast.hcmip.vn>
 
-[[CV](LanTran_CV_0421.pdf)] [[Goolge Scholar](https://scholar.google.com/citations?user=fatZlQ0AAAAJ&hl=vi)]  </font> 
+[[CV](LanTran_CV_0421.pdf)] [[Goolge Scholar](https://scholar.google.com/citations?user=fatZlQ0AAAAJ&hl=vi)]  
     </div>     
         
     <div style="display: inline-block;">     
@@ -59,7 +58,7 @@ Postdoc, U of M, Ann Arbor, United States <br>
          
     <img src="BinHo.jpg" width="140" height="150"> <br>
 
-  <font size="1">  2015 - 2018: Ph.D., Osaka University, Japan <br>
+ 2015 - 2018: Ph.D., Osaka University, Japan <br>
  2018 - 2020: Postdoc, Kindai University, Japan <br>
 2020 - 2022: JSPS postdoc, Tohoku University, Japan</p>
 
@@ -67,8 +66,7 @@ Postdoc, U of M, Ann Arbor, United States <br>
 
 Emails: <bin262@gmail.com>, <binho@riec.tohoku.ac.jp>
 
-[[CV](DrLeBinHo-CV.pdf)] [[Goolge Scholar](https://scholar.google.com/citations?user=jyPh9UcAAAAJ&hl=vi)] </font>
-
+[[CV](DrLeBinHo-CV.pdf)] [[Goolge Scholar](https://scholar.google.com/citations?user=jyPh9UcAAAAJ&hl=vi)]
     </div>
 </div>
 
