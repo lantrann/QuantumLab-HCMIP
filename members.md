@@ -112,16 +112,6 @@ Pre-Ph.D. student, HCMIP-VAST, Vietnam
 
 __
 
-#### <span style="color:black"> **Le Trong Nhan**  </span>
-
-<img src="Nhan.jpg" width="120" height="150">
-  
-Undergrad. student, VNUHCM-University of Science, Vietnam
-
-<ins>Research topics</ins>: electronic structure, quantum computing
-
-__
-
 #### <span style="color:black"> **Vu Tuan Hai**  </span>
 
 <img src="TuanHai.jpg" width="140" height="150">
@@ -129,6 +119,16 @@ __
 Teaching Assistant, University of Information Technology, VNU-HMC, Vietnam
 
 <ins>Research topics</ins>: quantum computing and information, machine learning
+
+__
+
+#### <span style="color:black"> **Le Trong Nhan**  </span>
+
+<img src="Nhan.jpg" width="120" height="150">
+  
+Undergrad. student, VNUHCM-University of Science, Vietnam
+
+<ins>Research topics</ins>: electronic structure, quantum computing
 
 __
 
