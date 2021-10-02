@@ -49,7 +49,7 @@ We are a dynamic Lab with multiple PIs and Subgroups. We are looking for Student
 
    <font size="1">  <ins> Research topics</ins>: quantum physics and chemistry </font>
 
- <font size="1"> Emails: <lantrann@gmail.com>, <tnlan@vast.hcmip.vn>
+ <font size="1"> Emails: <lantrann@gmail.com>, <tnlan@vast.hcmip.vn> </font"> 
 
 [[CV](LanTran_CV_0421.pdf)] [[Goolge Scholar](https://scholar.google.com/citations?user=fatZlQ0AAAAJ&hl=vi)]
 
@@ -62,15 +62,15 @@ We are a dynamic Lab with multiple PIs and Subgroups. We are looking for Student
 
     <img src="BinHo.jpg" width="140" height="150"> <br>
 
-  <font size="0.5">  2015 - 2018: Ph.D., Osaka University, Japan </font> <br>
-  <font size="0.5">  2018 - 2020: Postdoc, Kindai University, Japan </font> <br>
-  <font size="0.5">  2020 - 2022: JSPS postdoc, Tohoku University, Japan </font> </p>
+  <font size="1">  2015 - 2018: Ph.D., Osaka University, Japan <br>
+ 2018 - 2020: Postdoc, Kindai University, Japan <br>
+2020 - 2022: JSPS postdoc, Tohoku University, Japan</p>
 
 <ins>Research topics</ins>: quantum computing and information, condesed-matter physics
 
 Emails: <bin262@gmail.com>, <binho@riec.tohoku.ac.jp>
 
-[[CV](DrLeBinHo-CV.pdf)] [[Goolge Scholar](https://scholar.google.com/citations?user=jyPh9UcAAAAJ&hl=vi)]
+[[CV](DrLeBinHo-CV.pdf)] [[Goolge Scholar](https://scholar.google.com/citations?user=jyPh9UcAAAAJ&hl=vi)] </font>
 
     </div>
 </div>
