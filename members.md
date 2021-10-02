@@ -43,7 +43,7 @@ We are a dynamic Lab with multiple PIs and Subgroups. We are looking for Student
     2015 - 2018: Postdoc, The University of Michigan, Ann Arbor, United States <br>
     2018 - 2921: Postdoc, The University of California, Berkeley, United States </p>     
 
- <ins> Research topics</ins>: quantum physics and chemistry
+ <ins> Research topics </ins>: quantum physics and chemistry
 
  Emails: <lantrann@gmail.com>, <tnlan@vast.hcmip.vn>
 
@@ -51,9 +51,9 @@ We are a dynamic Lab with multiple PIs and Subgroups. We are looking for Student
 
 __
 
-#### <span style="color:black"> **Le Bin Ho** (on leave) </span> 
+#### <span style="color:black"> **Le Bin Ho** </span> 
 
-    <img src="BinHo.jpg" width="140" height="150">
+ <img src="BinHo.jpg" width="150" height="170">
 
 <p> 2015 - 2018: Ph.D., Osaka University, Japan <br>
  2018 - 2020: Postdoc, Kindai University, Japan <br>
