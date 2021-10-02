@@ -96,13 +96,15 @@ Email: <nthoang@hcmip.vast.vn>
 
 [[CV](NguyenThanhHoang-CV.pdf)]
 
+
 <hr style="solid blue">
+
 
 ### <a name="students"> <b> Students </b> </a>
   
 #### <span style="color:black"> **Le Hoang Hai**  </span>
 
-<img src="HoangHai.jpg" width="150" height="150">
+<img src="HoangHai.jpg" width="130" height="150">
 
 Pre-Ph.D. student, HCMIP-VAST, Vietnam
 
@@ -122,7 +124,7 @@ __
 
 #### <span style="color:black"> **Vu Tuan Hai**  </span>
 
-<img src="TuanHai.jpg" width="150" height="150">
+<img src="TuanHai.jpg" width="140" height="150">
 
 Teaching Assistant, University of Information Technology, VNU-HMC, Vietnam
 
@@ -132,7 +134,7 @@ __
 
 #### <span style="color:black"> **Pham Nguyen Tam Minh**  </span>
 
-<img src="Minh.jpg" width="150" height="150">
+<img src="Minh.png" width="130" height="150">
 
 Undergrad. student, Aalto University, Finland
 
@@ -142,7 +144,7 @@ __
 
 #### <span style="color:black"> **Doan Trung Thien**  </span>
 
-<img src="Thien.jpg" width="150" height="150">
+<img src="Thien.jpg" width="120" height="150">
 
 B.Sc. in Chemistry, Quy-Nhon University, Vietnam
 
