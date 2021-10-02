@@ -77,10 +77,6 @@ Emails: <bin262@gmail.com>, <binho@riec.tohoku.ac.jp>
 </div>
 
 
-
--*-*-
-
-
 <hr style="solid blue">
 
 ### <a name="staffs"> <b> HCMIP Researchers </b> </a>  
