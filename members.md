@@ -41,7 +41,7 @@ We are a dynamic Lab with multiple PIs and Subgroups. We are looking for Student
 
 <p> 2011 - 2014: Ph.D., The Graduate Unversity for Advanced Studies [Sokendai], Japan <br>
     2015 - 2018: Postdoc, The University of Michigan, Ann Arbor, United States <br>
-    2018 - 2921: Postdoc, The University of California, Berkeley, United States </p>     
+    2018 - 2021: Postdoc, The University of California, Berkeley, United States </p>     
 
  <ins> Research topics </ins>: quantum physics and chemistry
 
