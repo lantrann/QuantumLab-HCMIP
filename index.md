@@ -31,6 +31,8 @@ _Currently, we have regular online seminars of electronic-structure and quantum-
 
 ### **News**
 
+> Oct 2021: Our paper, "Improving perturbation theory for open-shell molecules via self-consistency", has been accepted for publication in _J. Phys. Chem. A_!
+
 > Oct 2021: Welcome Thien to join the group! Thien will be working with Lan on developing new efficient correlated mean-field theory for large-scale applciations.
 
 > Sep 2021: Welcome Tuan-Hai and Tam-Minh to join the group! They will be working on quantum computing projects led by Dr. Le Bin Ho.
