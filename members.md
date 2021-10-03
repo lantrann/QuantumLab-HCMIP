@@ -14,7 +14,7 @@
 
 <hr style="solid blue">
 
-### [<b>Home</b>](index.md)<img src="test_space.png" width="30" height="1">[<b><ins>Members</ins></b>](members.md)<img src="test_space.png" width="30" height="1">[<b>Research</b>](research.md)<img src="test_space.png" width="30" height="1">[<b>Publications</b>](publications.md)<img src="test_space.png" width="30" height="1">[<b>Courses</b>](courses.md)<img src="test_space.png" width="30" height="1">[<b>Softwares</b>](softwares.md)<img src="test_space.png" width="30" height="1">[<b>Funding</b>](fundings.md)
+##### [<b>Home</b>](index.md)<img src="test_space.png" width="27" height="1">[<b><ins>Members</ins></b>](members.md)<img src="test_space.png" width="27" height="1">[<b>Qu-Research</b>](research.md)<img src="test_space.png" width="27" height="1">[<b>Qu2Macro</b>](qu2macro.md)<img src="test_space.png" width="27" height="1">[<b>Publications</b>](publications.md)<img src="test_space.png" width="27" height="1">[<b>Courses</b>](courses.md)<img src="test_space.png" width="27" height="1">[<b>Softwares</b>](softwares.md)<img src="test_space.png" width="27" height="1">[<b>Funding</b>](fundings.md)<img src="test_space.png" width="27" height="1">[<b>Collab</b>](collab.md)
 
 <hr style="solid blue">
 
