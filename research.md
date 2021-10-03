@@ -36,7 +36,7 @@ We are conducting a variety of research topics in quantum physics and chemistry.
 <a name="ES"> <b> <font size="5" color="green"> Electronic Structure Theory  </font> </b> </a>
 
  <p align="center">
- <img src="TOC-jpca2021.jpg" width="200" height="160"> <img src="wgcas.jpg" width="200" height="150">
+ <img src="TOC-jpca2021.jpg" width="300" height="220"> <img src="wgcas.jpg" width="300" height="220"> <img src="materials.png" width="250" height="200">
  </p>
 
 <details>
