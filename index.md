@@ -28,6 +28,9 @@ Currently, we have regular online seminars of electronic-structure and quantum-c
 
 
 ### **News**
-> <span style="background-color:cyan"> We are looking for talented and enthusiastic students to join us. Please contact Lan (<tnlan@hcmip.vast.vn>) or Bin-Ho (<binho@riec.tohoku.ac.jp>) for details! </span>
 
-> Our manuscript on the unrestricted version of OBMP2 is now on arXiv: [arXiv:2107.11260](https://arxiv.org/abs/2107.11260)
+> Oct 2021: Welcome Tuan-Hai and Tam-Minh to join the group! They will be working on quantum computing projects led by Dr. Le bin Ho!
+
+> Sep 2021: We are looking for talented and enthusiastic students to join us. Please contact Lan (<tnlan@hcmip.vast.vn>) or Bin-Ho (<binho@riec.tohoku.ac.jp>) for details!
+
+> Jul 2021: Our manuscript on the unrestricted version of OBMP2 is now on arXiv: [arXiv:2107.11260](https://arxiv.org/abs/2107.11260)
