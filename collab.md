@@ -22,16 +22,16 @@
  
  [Prof. Takeshi Yanai, Nagoya University](https://www.iaqms.org/members/yanai.php)
  
- Project: Neural network quantum states for molecular photochemistry
+ - Project: Neural network quantum states for molecular photochemistry
 
   [Prof. Eric Neuscamman, UC Berkeley](https://neuscammanlab.com/)
   
-  Project: Exploring charge-transfer excitation using novel methodologies
+  - Project: Exploring charge-transfer excitation using novel methodologies
 
   [Dr. Huynh Thanh Duc, HCMC Institute of Physics, VAST](http://hcmip.ac.vn/theoretical_physics-en.html)
   
-  Project: Ab initio approaches for excitonic effects in quantum materials 
+  - Project: Ab initio approaches for excitonic effects in quantum materials 
   
   [Dr. Hugh Burton, New College, Oxford](https://www.hughburton.com/)
   
-  Project: Novel excited-state methods combining state-specific optimization and non-orthogonal configuration interaction
+  - Project: Novel excited-state methods combining state-specific optimization and non-orthogonal configuration interaction
