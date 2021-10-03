@@ -22,7 +22,7 @@ We are a Theoretical and Computational Quantum Lab at [Ho Chi Minh City Insitute
 
 
 <p align="center">
-<img src="home.png" width="500" height="200">
+<img src="home.png" width="750" height="300">
 </p>
 
 _Currently, we have regular online seminars of electronic-structure and quantum-computing subgroups every other week. Please contact Lan (<tnlan@hcmip.vast.vn>) if you are interested in joining the seminars._ 
