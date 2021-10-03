@@ -28,9 +28,6 @@ We are a dynamic Lab with multiple PIs and Subgroups. We are looking for Student
 
 [>> Affiliated Members](#affmems) 
 
-[>> Collaborators](#colla)
-
-
 <hr style="solid blue">
 
 ### <a name="PIs"> <b> Principal Investigators</b></a>  
@@ -177,18 +174,3 @@ PhD. student, VNUHCM-University of Science, Vietnam
 <ins>Research topics</ins>: electronic structure, condensed-matter physics
 
 <hr style="solid blue">
-
-### <a name="colla"> <b> Collaborators </b> </a>
-  
-  [Prof. Takeshi Yanai, Nagoya University](https://www.iaqms.org/members/yanai.php)
-
-  [Prof. Eric Neuscamman, UC Berkeley](https://neuscammanlab.com/)
-
-  [Dr. Huynh Thanh Duc, HCMC Institute of Physics, VAST](http://hcmip.ac.vn/theoretical_physics-en.html)
-
-  [Dr. Cao Huy Thien, HCMC Institute of Physics, VAST](http://hcmip.ac.vn/theoretical_physics-en.html)
-  
-  [Dr. Hugh Burton, New College, Oxford](https://www.hughburton.com/)
-
-
- 
