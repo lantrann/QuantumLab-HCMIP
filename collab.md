@@ -30,7 +30,7 @@
 
   [Dr. Huynh Thanh Duc, HCMC Institute of Physics, VAST](http://hcmip.ac.vn/theoretical_physics-en.html)
   
-  - Project: Ab initio approaches for excitonic effects in quantum materials 
+  - Project: _Ab initio_ approaches for excitonic effects in quantum materials 
   
   [Dr. Hugh Burton, New College, Oxford](https://www.hughburton.com/)
   
