@@ -14,7 +14,7 @@
 
 <hr style="solid blue">
 
-##### [<b><ins>Home</ins></b>](index.md)<img src="test_space.png" width="30" height="1">[<b>Members</b>](members.md)<img src="test_space.png" width="30" height="1">[<b>Qu-Research</b>](research.md)<img src="test_space.png" width="30" height="1">[<b>Qu2Macro</b>](qu2macro.md)<img src="test_space.png" width="30" height="1">[<b>Publications</b>](publications.md)<img src="test_space.png" width="30" height="1">[<b>Courses</b>](courses.md)<img src="test_space.png" width="30" height="1">[<b>Softwares</b>](softwares.md)<img src="test_space.png" width="30" height="1">[<b>Funding</b>](fundings.md)
+##### [<b><ins>Home</ins></b>](index.md)<img src="test_space.png" width="30" height="1">[<b>Members</b>](members.md)<img src="test_space.png" width="30" height="1">[<b>Qu-Research</b>](research.md)<img src="test_space.png" width="30" height="1">[<b>Qu2Macro</b>](qu2macro.md)<img src="test_space.png" width="30" height="1">[<b>Publications</b>](publications.md)<img src="test_space.png" width="30" height="1">[<b>Courses</b>](courses.md)<img src="test_space.png" width="30" height="1">[<b>Softwares</b>](softwares.md)<img src="test_space.png" width="30" height="1">[<b>Funding</b>](fundings.md)<img src="test_space.png" width="30" height="1">[<b>Collab</b>](fundings.md)
 
 <hr style="solid blue">
 
