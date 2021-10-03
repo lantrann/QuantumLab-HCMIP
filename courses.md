@@ -22,4 +22,4 @@
 ### 2021
 **Electronic structure theory, Fall Semester, Physcis, VNUHCM-University of Science**
 
-[[Lect01](ElecStructTheory-Lect01.pdf)], [[Lect02](ElecStructTheory-Lect02.pdf)] 
+[[Lect01](ElecStructTheory-Lect01.pdf)], [[Lect02](ElecStructTheory-Lect02.pdf)], [[Lect03](ElecStructTheory-Lect03.pdf)]  
