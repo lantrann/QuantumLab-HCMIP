@@ -22,4 +22,4 @@
 ### 2021
 **Electronic structure theory, Fall Semester, Physcis, VNUHCM-University of Science**
 
-[[Lect01](ElecStructTheory-Lect01.pdf)], [[Lect02](ElecStructTheory-Lect02.pdf)], [[Lect03](ElecStructTheory-Lect03.pdf)]  
+[Link to Google Drive](https://drive.google.com/drive/folders/1CgPSndblsd19zOPXKd5AU-_HWTnYdcQK) (Please ask Lan for a permission of access!)
