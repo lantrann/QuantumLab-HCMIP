@@ -34,4 +34,4 @@
   
   [Dr. Hugh Burton, New College, Oxford](https://www.hughburton.com/)
   
-  - Project: Novel excited-state methods combining state-specific optimization and non-orthogonal configuration interaction
+  - Project: Novel excited-state methods combining state-specific optimization and non-orthogonal CI
