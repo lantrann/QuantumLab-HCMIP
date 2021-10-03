@@ -18,7 +18,7 @@
 
 <hr style="solid blue">
 
-We are a Theoretical and Computational Quantum Lab at [Ho Chi Minh City Insitute of Physics](http://hcmip.ac.vn/index-en.html) (HCMIP), [Vietnam Academy of Science and Technology](https://vast.gov.vn/) (VAST). We conduct a variety of research topics in quantum physics and chemistry. Please see our [research page](research.md) for more details!
+We are a Theoretical and Computational Quantum Lab at [Ho Chi Minh City Insitute of Physics](http://hcmip.ac.vn/index-en.html) (HCMIP), [Vietnam Academy of Science and Technology](https://vast.gov.vn/) (VAST). We conduct a variety of research topics in [quantum physics and chemistry](research.md). Our ultimate goal is to bring [quantum research to real world applications](qu2macro.md)!
 
 Currently, we have regular online seminars of electronic-structure and quantum-computing subgroups every other week. Please contact Lan (<tnlan@hcmip.vast.vn>) if you are interested in joining the seminars. 
 
