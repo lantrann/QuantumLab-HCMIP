@@ -21,8 +21,6 @@
 
 We are conducting a variety of research topics in quantum physics and chemistry. Please contact us if you are interested in joining us or a collaboration!
 
-[>> Quantum to Macro ](#q2m) 
-
 [>> Electronic Structure Theory](#ES) 
 
 [>>  Quantum Computing and Information](#QCI)
@@ -35,25 +33,10 @@ We are conducting a variety of research topics in quantum physics and chemistry.
 
 [>> Condensed-Matter Physics](#CMP)
 
-
-<a name="q2m"> <b> <font size="5" color="green"> Quantum to Macro  </font> </b> </a>
-
- <p align="center">
-  <img src="q2m.jpg" width="500" height="250">
- </p>
-
-<details>
-<summary> <ins>click for active topics</ins> </summary>
-
-  <p> </p>
-
-</details>
-
-
 <a name="ES"> <b> <font size="5" color="green"> Electronic Structure Theory  </font> </b> </a>
 
  <p align="center">
- <img src="obmp2.png" width="200" height="160"> <img src="wgcas.jpg" width="200" height="150">
+ <img src="TOC-jpca2021.jpg" width="200" height="160"> <img src="wgcas.jpg" width="200" height="150">
  </p>
 
 <details>
