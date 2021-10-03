@@ -29,7 +29,9 @@ Currently, we have regular online seminars of electronic-structure and quantum-c
 
 ### **News**
 
-> Oct 2021: Welcome Tuan-Hai and Tam-Minh to join the group! They will be working on quantum computing projects led by Dr. Le bin Ho!
+> Oct 2021: Welcome Thien to join the group! Thien will be working with Lan on developing new efficient correlated mean-field theory for large-scale applciations.
+
+> Sep 2021: Welcome Tuan-Hai and Tam-Minh to join the group! They will be working on quantum computing projects led by Dr. Le Bin Ho.
 
 > Sep 2021: We are looking for talented and enthusiastic students to join us. Please contact Lan (<tnlan@hcmip.vast.vn>) or Bin-Ho (<binho@riec.tohoku.ac.jp>) for details!
 
