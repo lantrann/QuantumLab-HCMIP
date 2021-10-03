@@ -36,7 +36,7 @@ We are conducting a variety of research topics in quantum physics and chemistry.
 <a name="ES"> <b> <font size="5" color="green"> Electronic Structure Theory  </font> </b> </a>
 
  <p align="center">
- <img src="TOC-jpca2021.jpg" width="300" height="220"> <img src="wgcas.jpg" width="300" height="220"> <img src="materials.png" width="250" height="200">
+ <img src="TOC-jpca2021.jpg" width="300" height="220"> <img src="materials.png" width="250" height="200">
  </p>
 
 <details>
@@ -58,7 +58,7 @@ We are conducting a variety of research topics in quantum physics and chemistry.
 <a name="QCI"> <b> <font size="5" color="green">  Quantum Computing and Information </font> </b> </a>
   
  <p align="center">
- <img src="qmeas.jpg" width="220" height="200"> <img src="test_space.png" width="50" height="1"> <img src="spincoh.jpg" width="250" height="200"> <img src="test_space.png" width="50" height="1"> <img src="embedd.png" width="250" height="200">
+ <img src="qmeas.jpg" width="220" height="200"> <img src="test_space.png" width="50" height="1"> <img src="spincoh.jpg" width="250" height="200"> 
  </p>
   
 <details>
