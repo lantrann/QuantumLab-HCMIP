@@ -35,7 +35,7 @@
 ### **Peer-reviewed papers**
 
 #### <span style="color:black"> **2021** </span>
-> Lan Nguyen Tran, "Improving perturbation theory for open-shell molecules via self-consistency", _The Journal of Chemical Physics A_, **accepted**, 2021
+> Lan Nguyen Tran, "Improving perturbation theory for open-shell molecules via self-consistency", _The Journal of Physical Chemistry A_, **accepted**, 2021
 <p align="center">
 <img src="TOC-jpca2021.jpg" width="350" height="260">
 </p>
