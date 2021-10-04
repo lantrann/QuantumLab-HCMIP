@@ -23,7 +23,7 @@ We are a Theoretical and Computational Quantum Lab at [Ho Chi Minh City Insitute
 We conduct a variety of research topics in quantum physics and chemistry (see [Qu-Research](research.md) for active topics). Our ultimate goal is to bring quantum research to real world applications (see [Qu2Macro](qu2macro.md) project for details)!
 
 <p align="center">
-<img src="home.png" width="750" height="300">
+<img src="home.png" width="700" height="300">
 </p>
 
 _Currently, we have regular online seminars of electronic-structure and quantum-computing subgroups every other week. Please contact Lan (<tnlan@hcmip.vast.vn>) if you are interested in joining the seminars._ 
