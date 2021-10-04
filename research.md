@@ -142,7 +142,7 @@ We are conducting a variety of research topics in quantum physics and chemistry.
 <details>
 <summary> <ins>click for active topics</ins> </summary>
   
- <p> - Topological materials <br>
+ <p> - Quantum materials <br>
   
   - Excitonic effects in materials <br>
   
