@@ -33,6 +33,8 @@ We are conducting a variety of research topics in quantum physics and chemistry.
 
 [>> Condensed-Matter Physics](#CMP)
 
+<hr style="solid blue">
+
 <a name="ES"> <b> <font size="5" color="green"> Electronic Structure Theory  </font> </b> </a>
 
  <p align="center">
