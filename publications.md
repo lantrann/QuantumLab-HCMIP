@@ -19,7 +19,7 @@
 
 <hr style="solid blue">
 
-*_HCMIP affiliation only, visit Google Scholar profile of [each member](members.md) for more._
+ **_*HCMIP affiliation only, visit Google Scholar profile of [each member](members.md) for more._**
 
 <p align="center">
 <img src="jpcl.jpg" width="150" height="220"> <img src="jctc.jpg" width="150" height="220"> <img src="jpd.jpg" width="150" height="220">  <img src="cpc.jpg" width="150" height="220">
