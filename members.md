@@ -108,8 +108,6 @@ Pre-Ph.D. student, HCMIP-VAST, Vietnam
 <ins>Research topics</ins>: electronic structure, computational chemistry
 
 __
-
-### <a name="students"> <b> Students </b> </a>
   
 #### <span style="color:black"> **Le Van Tan**  </span>
 
