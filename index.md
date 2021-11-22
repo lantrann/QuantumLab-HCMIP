@@ -31,6 +31,8 @@ _Currently, we have regular online seminars of electronic-structure and quantum-
 
 ### **News**
 
+> Nov 2021: Welcome Tri-Nhan to join the group! Tri-Nhan will be working with Lan on developing new electronic structure method.
+
 > Oct 2021: Our paper, "Improving perturbation theory for open-shell molecules via self-consistency", has been accepted for publication in _J. Phys. Chem. A_!
 
 > Oct 2021: Welcome Thien to join the group! Thien will be working with Lan on developing new efficient correlated mean-field theory for large-scale applciations.
