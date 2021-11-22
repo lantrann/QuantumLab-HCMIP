@@ -109,6 +109,18 @@ Pre-Ph.D. student, HCMIP-VAST, Vietnam
 
 __
 
+### <a name="students"> <b> Students </b> </a>
+  
+#### <span style="color:black"> **Le Van Tan**  </span>
+
+<img src="Tan.png" width="130" height="180">
+
+PhD. student, VNUHCM-University of Science, Vietnam
+
+<ins>Research topics</ins>: electronic structure, condensed-matter physics
+__
+
+
 #### <span style="color:black"> **Vu Tuan Hai**  </span>
 
 <img src="TuanHai.jpg" width="140" height="150">
@@ -176,10 +188,3 @@ Undergrad. student, The University of California, Santa Barbara, United States
 
 <ins>Research topics</ins>: quantum computing and information
 
-__
-
-#### <span style="color:black"> **Le Van Tan**  </span>
-
-PhD. student, VNUHCM-University of Science, Vietnam
-
-<ins>Research topics</ins>: electronic structure, condensed-matter physics
