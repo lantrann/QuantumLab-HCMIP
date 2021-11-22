@@ -127,6 +127,17 @@ B.Sc. in Chemistry, Quy-Nhon University, Vietnam
 
 <ins>Research topics</ins>: electronic structure, comptuational quantum chemistry
 
+
+__
+
+#### <span style="color:black"> **Tran Tri Nhan**  </span>
+
+<img src="Tri-Nhan.png" width="140" height="170">
+
+M.Sc. student, VNUHCM-University of Science, Vietnam
+
+<ins>Research topics</ins>: electronic structure
+
 __
 
 #### <span style="color:black"> **Le Trong Nhan**  </span>
