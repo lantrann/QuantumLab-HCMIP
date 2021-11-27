@@ -20,7 +20,7 @@
 
 We are a dynamic Lab with multiple PIs and Subgroups. We are looking for Students who are interested in quantum world!
 
-<img src="group_photo_Nov2021.jpg" width="1000" height="400">
+<img src="group_photo_Nov2021.jpg" width="1000" height="450">
 
 
 [>> Principal Investigators](#PIs) 
