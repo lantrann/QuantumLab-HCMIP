@@ -20,6 +20,9 @@
 
 We are a dynamic Lab with multiple PIs and Subgroups. We are looking for Students who are interested in quantum world!
 
+<img src="group_photo_Nov2021.jpg" width="600" height="300">
+
+
 [>> Principal Investigators](#PIs) 
 
 [>> HCMIP Researchers](#staffs) 
