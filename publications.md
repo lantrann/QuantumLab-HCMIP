@@ -28,7 +28,7 @@
 ### **Preprints**
 Lan Nguyen Tran, "Can second-order perturbation theory accurately predict electron density of open-shell molecules? The importance of self-consistency", arXiv:2203.16700, 2022
 <p align="center">
-<img src="hal-dipole.pdf" width="300" height="230">
+<img src="hal-dipole.png" width="300" height="230">
 </p>
 
 ### **Peer-reviewed papers**
