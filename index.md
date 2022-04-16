@@ -31,6 +31,8 @@ _Currently, we have regular online seminars of electronic-structure and quantum-
 
 ### **News**
 
+> Apr 2022: Lan is invited to give talks at [the Vietnam-Taiwan ASEM-2022](https://sites.google.com/view/asem2022/) and [VSSCM-1-2022](https://computational-quantum.com/vsscm/)
+
 > Nov 2021: Welcome Tri-Nhan to join the group! Tri-Nhan will be working with Lan on developing new electronic structure method.
 
 > Oct 2021: Our paper, "Improving perturbation theory for open-shell molecules via self-consistency", has been accepted for publication in _J. Phys. Chem. A_!
