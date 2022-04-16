@@ -26,13 +26,18 @@
 </p>
 
 ### **Preprints**
+Lan Nguyen Tran, "Can second-order perturbation theory accurately predict electron density of open-shell molecules? The importance of self-consistency", arXiv:2203.16700, 2022
 
-> Chuong Quoc Nguyen, <ins>Le Bin Ho</ins>, <ins>Lan Nguyen Tran</ins>, Hung Quoc Nguyen, "Qsun: an open-source platform towards practical quantum machine learning applications", [arXiv preprint arXiv:2107.10541](https://arxiv.org/abs/2107.10541), 2021
+### **Peer-reviewed papers**
+
+#### <span style="color:black"> **2022** </span>
+> Chuong Quoc Nguyen, <ins>Le Bin Ho</ins>, <ins>Lan Nguyen Tran</ins>, Hung Quoc Nguyen, "Qsun: an open-source platform towards practical quantum machine learning applications",_Machine Learning: Science and Technology_ **3** 015034, 2022
 <p align="center">
 <img src="qsun.png" width="300" height="230">
 </p>
 
-### **Peer-reviewed papers**
+> Duc M Tran, Duy V Nguyen, <ins>Le Bin Ho</ins>, Hung Q Nguyen, "Experimenting quantum phenomena on NISQ computers using high level quantum programming", _EPJ Quantum Technology_ **9** 6, 2022
+
 
 #### <span style="color:black"> **2021** </span>
 > Lan Nguyen Tran, "Improving perturbation theory for open-shell molecules via self-consistency", _The Journal of Physical Chemistry A_, **125** 9242, 2021
