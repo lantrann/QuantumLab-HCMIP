@@ -99,6 +99,8 @@ Email: <nthoang@hcmip.vast.vn>
 
 <hr style="solid blue">
 
+### <a name="students"> <b> Students </b> </a>  
+
 
 #### <span style="color:black"> **Vu Tuan Hai**  </span>
 
@@ -113,6 +115,14 @@ __
 #### <span style="color:black"> **Tran Tri Nhan**  </span>
 
 <img src="Tri-Nhan.png" width="140" height="170">
+
+M.Sc. student, VNUHCM-University of Science, Vietnam
+
+<ins>Research topics</ins>: electronic structure
+
+__
+
+#### <span style="color:black"> **Vo Thi Y Nhi**  </span>
 
 M.Sc. student, VNUHCM-University of Science, Vietnam
 
