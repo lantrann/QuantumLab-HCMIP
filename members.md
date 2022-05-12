@@ -100,29 +100,6 @@ Email: <nthoang@hcmip.vast.vn>
 <hr style="solid blue">
 
 
-### <a name="students"> <b> Students </b> </a>
-  
-#### <span style="color:black"> **Le Hoang Hai**  </span>
-
-<img src="HoangHai.jpg" width="135" height="160">
-
-Pre-Ph.D. student, HCMIP-VAST, Vietnam
-
-<ins>Research topics</ins>: electronic structure, computational chemistry
-
-__
-  
-#### <span style="color:black"> **Le Van Tan**  </span>
-
-<img src="Tan.png" width="130" height="180">
-
-PhD. student, VNUHCM-University of Science, Vietnam
-
-<ins>Research topics</ins>: electronic structure, condensed-matter physics
-
-__
-
-
 #### <span style="color:black"> **Vu Tuan Hai**  </span>
 
 <img src="TuanHai.jpg" width="140" height="150">
@@ -130,17 +107,6 @@ __
 Teaching Assistant, University of Information Technology, VNU-HMC, Vietnam
 
 <ins>Research topics</ins>: quantum computing and information, machine learning
-
-__
-
-#### <span style="color:black"> **Doan Trung Thien**  </span>
-
-<img src="Thien.jpg" width="140" height="170">
-
-B.Sc. in Chemistry, Quy-Nhon University, Vietnam
-
-<ins>Research topics</ins>: electronic structure, comptuational quantum chemistry
-
 
 __
 
@@ -174,19 +140,4 @@ Undergrad. student, Aalto University, Finland
 
 <hr style="solid blue">
   
-### <a name="affmems"> <b> Affiliated Members </b> </a>
-
-#### <span style="color:black"> **Nguyen Quoc Chuong**  </span>
-
-M.Sc. student, Vietnamese-German University, Vietnam
-
-<ins>Research topics</ins>: quantum computing, machine learning
-
-__
-
-#### <span style="color:black"> **Kien Le**  </span>
-
-Undergrad. student, The University of California, Santa Barbara, United States
-
-<ins>Research topics</ins>: quantum computing and information
 
